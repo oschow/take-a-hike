@@ -3,7 +3,7 @@
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
 from requests import get
-import json
+import pandas as pd
 
 def get_soup(url):
     response = get(url)
@@ -34,15 +34,18 @@ def parse_hikes(hike_soup, area):
         for text_chunk in desc.findChildren('p')[1:]:
             text = ''.join(text_chunk.text)
             description += text
-    return {name: {'part_of_co': hike_area,
-                     'round_trip_length': round_trip_length,
-                     'start_elevation': start_elevation,
-                     'end_elevation': end_elevation,
-                     'net_elevation_gain': net_elevation_gain,
-                     'skill_level': skill_level,
-                     'dogs_allowed': dogs_allowed,
-                     'gps_coordinates': gps_coordinates,
-                     'trail_description': description}}
+    row_data = {}
+    row_data['hike_name'] = name
+    row_data['area_of_co'] = hike_area
+    row_data['round_trip_length'] = round_trip_length
+    row_data['start_elevation'] = start_elevation
+    row_data['end_elevation'] = end_elevation
+    row_data['net_elevation_gain'] = net_elevation_gain
+    row_data['skill_level'] = skill_level
+    row_data['dogs_allowed'] = dogs_allowed
+    row_data['gps_coordinates'] = gps_coordinates
+    row_data['description'] = description
+    return row_data
 
 def get_hike_data(soup, area):
     hikes = soup.findAll('div', id='quicktabs-tabpage-pro_area_tabs-0')[0].findChildren('a')
@@ -54,8 +57,8 @@ def get_hike_data(soup, area):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['hike_db']
-    table = db['hikes']
+    db = client['db_hikes']
+    table = db['hikes_table']
 
     aspen_url = 'http://www.protrails.com/area/82/Aspen-Snowmass'
     denver_url = 'http://www.protrails.com/area/4/boulder-denver-golden-fort-collins-lyons'
