@@ -70,7 +70,8 @@ if __name__ == '__main__':
         soup = get_soup(area)
         get_hike_data(soup, area)
 
-    c = table.find()
-    for i in range(5):
-        print next(c)
-        raw_input('')
+    # Code below will print out the first 5 entries in the database
+    # c = table.find()
+    # for i in range(5):
+    #     print next(c)
+    #     raw_input('')
