@@ -54,8 +54,8 @@ def get_hike_data(soup, area):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['hike_database']
-    table = db['hike_data']
+    db = client['hike_db']
+    table = db['hikes']
 
     aspen_url = 'http://www.protrails.com/area/82/Aspen-Snowmass'
     denver_url = 'http://www.protrails.com/area/4/boulder-denver-golden-fort-collins-lyons'
