@@ -8,6 +8,31 @@ from requests import get
 from unidecode import unidecode
 import os
 
+def add_missing_gps_coordinates(hike_df):
+    hike_df['gps_coordinates'].iloc[69] = '39 57.597 105 14.234'
+    hike_df['gps_coordinates'].iloc[76] = '40 00.102 105 18.450'
+    hike_df['gps_coordinates'].iloc[77] = '40 00.102 105 18.450'
+    hike_df['gps_coordinates'].iloc[78] = '40 00.102 105 18.450'
+    hike_df['gps_coordinates'].iloc[91] = '40 08.964 105 18.005'
+    hike_df['gps_coordinates'].iloc[103] = '39 58.656 105 30.582'
+    hike_df['gps_coordinates'].iloc[104] = '39 58.698 105 16.500'
+    hike_df['gps_coordinates'].iloc[124] = '39 49.133 105 17.194'
+    hike_df['gps_coordinates'].iloc[125] = '39 06.054 108 44.088'
+    hike_df['gps_coordinates'].iloc[126] = '39 06.050 108 44.100'
+    hike_df['gps_coordinates'].iloc[127] = '39 06.050 108 44.100'
+    hike_df['gps_coordinates'].iloc[130] = '39 04.663 108 43.687'
+    hike_df['gps_coordinates'].iloc[131] = '39 04.663 108 43.687'
+    hike_df['gps_coordinates'].iloc[133] = '39 06.050 108 44.100'
+    hike_df['gps_coordinates'].iloc[149] = '40 04.674 105 35.077'
+    hike_df['gps_coordinates'].iloc[183] = '40 18.716 105 38.761'
+    hike_df['gps_coordinates'].iloc[188] = '40 18.716 105 38.761'
+    hike_df['gps_coordinates'].iloc[195] = '40 30.983 105 46.188'
+    hike_df['gps_coordinates'].iloc[219] = '40 14.412 105 49.614'
+    hike_df['gps_coordinates'].iloc[226] = '40 24.439 105 37.564'
+    hike_df['gps_coordinates'].iloc[241] = '40 19.200 105 36.283'
+    hike_df['gps_coordinates'].iloc[247] = '40 22.372 105 36.845'
+    hike_df['gps_coordinates'].iloc[308] = '39 37.869 106 03.986'
+    return hike_df
 
 def clean_data(hike_df):
     columns = ['start_elevation', 'end_elevation', 'gps_coordinates', 'trail_description']
@@ -31,7 +56,6 @@ def clean_data(hike_df):
     hike_df['net_elevation_gain'] = hike_df['net_elevation_gain'].apply(unidecode)
     hike_df['net_elevation_gain'] = hike_df['net_elevation_gain'].str.replace("'",'')
     hike_df['net_elevation_gain'] = hike_df['net_elevation_gain'].astype(int)
-    hike_df['gps_coordinates'].iloc[149] = '40 04.674 105 35.077'
     hike_df['latitude'] = None
     hike_df['longitude'] = None
     for idx, row in enumerate(hike_df['gps_coordinates']):
@@ -75,7 +99,8 @@ if __name__ == '__main__':
     table = db['hikes']
 
     df = mongo_to_pandas(table)
-    h_df = clean_data(df)
+    df1 = add_missing_gps_coordinates(df)
+    h_df = clean_data(df1)
     google_api = os.environ['DISTANCE_MATRIX_API']
     hike_df = get_coordinates(h_df, google_api)
     hike_df.to_csv('colorado_hikes.csv')
