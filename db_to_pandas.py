@@ -3,6 +3,10 @@
 import pandas as pd
 from pymongo import MongoClient
 
+client = MongoClient()
+db = client['hike_database']
+table = db['hikes']
+
 def empty_df():
     '''
     Function to create an empty pandas DataFrame object (used in mongo_to_pandas)
@@ -48,18 +52,12 @@ def mongo_to_pandas(db_table):
     i = 0
     for hike in lst:
         i += 1
-        if i % 319 == 0:
-            df = df.append(df_2)
-            df_2 = empty_df()
-        print 'Row {} of {}'.format(i, len(lst))
         row = parse_record(hike)
         df_2 = df_2.append(row, ignore_index=True)
     df = df.append(df_2)
     return df
 
-if __name__ == '__main__':
-    client = MongoClient()
-    db = client['db_hikes']
-    table = db['hikes_table']
+hike_df = mongo_to_pandas(table)
 
-    hike_df = mongo_to_pandas(table)
+if __name__ == '__main__':
+    pass
