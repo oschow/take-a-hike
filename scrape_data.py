@@ -22,7 +22,7 @@ def parse_hikes(hike_soup, area):
     end_elevation = hike_data_table.findChildren('td')[3].text.split()[2]
     net_elevation_gain = hike_data_table.findChildren('td')[5].text.split()[0]
     skill_level = hike_data_table.findChildren('td')[7].text
-    dogs_allowed = bool(hike_data_table.findChildren('td')[9].text)
+    dogs_allowed = hike_data_table.findChildren('td')[9].text
     gps = hike_soup.select('div.trail-description-gps-coordinates')
     if len(gps) != 0:
         gps_coordinates = gps[0].findChildren('li')[0].text
@@ -57,8 +57,8 @@ def get_hike_data(soup, area):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['db_hikes']
-    table = db['hikes_table']
+    db = client['hike_database']
+    table = db['hikes']
 
     aspen_url = 'http://www.protrails.com/area/82/Aspen-Snowmass'
     denver_url = 'http://www.protrails.com/area/4/boulder-denver-golden-fort-collins-lyons'
