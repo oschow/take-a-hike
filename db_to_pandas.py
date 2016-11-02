@@ -4,7 +4,7 @@ import pandas as pd
 from pymongo import MongoClient
 
 client = MongoClient()
-db = client['hike_database']
+db = client['hike_db']
 table = db['hikes']
 
 def empty_df():

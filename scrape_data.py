@@ -30,10 +30,6 @@ def parse_hikes(hike_soup, area):
         gps_coordinates = 'Null'
     desc = hike_soup.select('div.trail-description-description')[0]
     description = desc.findChildren('p')[0].text
-    if len(desc) > 1:
-        for text_chunk in desc.findChildren('p')[1:]:
-            text = ''.join(text_chunk.text)
-            description += text
     row_data = {}
     row_data['hike_name'] = name
     row_data['area_of_co'] = hike_area
@@ -57,7 +53,7 @@ def get_hike_data(soup, area):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['hike_database']
+    db = client['hike_db']
     table = db['hikes']
 
     aspen_url = 'http://www.protrails.com/area/82/Aspen-Snowmass'
