@@ -67,6 +67,12 @@ def clean_data(hike_df):
             hike_df['longitude'].iloc[idx] = '-' + r2 + '.' + str(float(r[3])/60).split('.')[1]
     hike_df.drop('gps_coordinates', axis=1, inplace=True)
     hike_df['drive_time_from_denver'] = None
+    df['trail_description'] = df['trail_description'].str.strip()
+    df['trail_description'] = df['trail_description'].apply(lambda x: x.replace('\r\t', ''))
+    df['trail_description'] = df['trail_description'].apply(lambda x: x.replace('------------------------------------------------', ''))
+    df['trail_description'] = df['trail_description'].apply(lambda x: x.replace('Trail Map | Photo Gallery', ''))
+    df['trail_description'] = df['trail_description'].apply(lambda x: x.replace('  ', ' '))
+    df['trail_description'] = df['trail_description'].apply(lambda x: x.replace('    ', ' '))
     return hike_df
 
 
@@ -95,7 +101,7 @@ def get_coordinates(hike_df, google_api):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['hike_database']
+    db = client['hike_db']
     table = db['hikes']
 
     df = mongo_to_pandas(table)
