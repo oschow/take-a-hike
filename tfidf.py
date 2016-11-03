@@ -38,8 +38,8 @@ def create_description_vector(df, max_features=5000, max_df=1, min_df=1):
     reverse_lookup = {word: idx for idx, word in enumerate(feature_names)}
     return X, feature_names, reverse_lookup
 
-def cluster_hikes(df, n_clusters, max_features=5000, max_df=1, min_df=1,  num_words=5):
-    X, feature_names, reverse_lookup = create_document_vector(df, max_features=max_features, max_df=max_df, min_df=min_df)
+def cluster_hikes(df, n_clusters=5, max_features=5000, max_df=1, min_df=1,  num_words=5):
+    X, feature_names, reverse_lookup = create_description_vector(df, max_features=max_features, max_df=max_df, min_df=min_df)
     kmeans = KMeans(n_clusters=n_clusters)
     kmeans.fit(X)
     clusters = kmeans.cluster_centers_
@@ -67,11 +67,13 @@ if __name__=='__main__':
     df = pd.read_csv('data/lemmatized_hikes.csv')
     docs = df['lemmatized_text']
 
-    nmf, tfidf, W, W_percent, labels, topic_words, feature_names, reverse_lookup = nmf_descriptions(df, n_topics=5, n_features=500, random_state=1, max_df=0.8, min_df=5)
+    # nmf, tfidf, W, W_percent, labels, topic_words, feature_names, reverse_lookup = nmf_descriptions(df, n_topics=7, n_features=500, random_state=1, max_df=0.8, min_df=0.2)
 
-    cosine_similarities = linear_kernel(tfidf, tfidf)
+    X, kmeans, labels, words = cluster_hikes(df, n_clusters=5, max_features=5000, max_df=.3, min_df=0,  num_words=10)
 
-    for i, doc1 in enumerate(docs):
-        for j, doc2 in enumerate(docs):
-            if cosine_similarities[i, j] < .9 and cosine_similarities[i, j] > .7:
-                print i, j, cosine_similarities[i, j]
+    # cosine_similarities = linear_kernel(tfidf, tfidf)
+
+    # for i, doc1 in enumerate(docs):
+    #     for j, doc2 in enumerate(docs):
+    #         if cosine_similarities[i, j] < .9 and cosine_similarities[i, j] > .7:
+    #             print i, j, cosine_similarities[i, j]
