@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def create_features(df):
     df['waterfall'] = 0
@@ -43,7 +44,16 @@ def add_feature_values(df):
 if __name__ == '__main__':
     df = pd.read_csv('data/lemmatized_hikes.csv')
     df.drop('Unnamed: 0', axis=1, inplace=True)
-    df['dogs_allowed'] = df['dogs_allowed'].astype(int)
 
     df_features = create_features(df)
     new_df = add_feature_values(df_features)
+
+    new_df['dogs_allowed'] = new_df['dogs_allowed'].astype(int)
+    new_df['hike_id'] = np.nan
+    for idx, name in enumerate(new_df['hike_name']):
+        new_df['hike_id'].iloc[idx] = idx
+    new_df['hike_id'] = new_df['hike_id'].astype(int)
+    new_df.drop('trail_description', axis=1, inplace=True)
+    new_df.drop('lemmatized_text', axis=1, inplace=True)
+
+    new_df.to_csv('data/final.csv', index=False)
