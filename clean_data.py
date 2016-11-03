@@ -109,4 +109,4 @@ if __name__ == '__main__':
     h_df = clean_data(df1)
     google_api = os.environ['DISTANCE_MATRIX_API']
     hike_df = get_coordinates(h_df, google_api)
-    hike_df.to_csv('colorado_hikes.csv')
+    hike_df.to_csv('data/colorado_hikes.csv')

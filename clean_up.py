@@ -55,10 +55,10 @@ def drop_unnecessary_columns(df):
     return df
 
 if __name__ == '__main__':
-    df1 = pd.read_csv('colorado_hikes.csv')
+    df1 = pd.read_csv('data/colorado_hikes.csv')
     df2 = clean_hike_names(df1)
     df3 = fix_duplicate_names(df2)
     df4 = fix_data_type(df3)
     hike_df = drop_unnecessary_columns(df4)
 
-    hike_df.to_csv('hike_data_clean.csv')
+    hike_df.to_csv('data/hike_data_clean.csv')

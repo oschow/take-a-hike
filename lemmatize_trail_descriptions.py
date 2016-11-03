@@ -40,4 +40,4 @@ if __name__ == '__main__':
     tups.sort()
     print tups
 
-    df.to_csv('lemmatized_hikes.csv')
+    df.to_csv('data/lemmatized_hikes.csv')
