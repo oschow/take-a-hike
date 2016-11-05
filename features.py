@@ -49,10 +49,10 @@ if __name__ == '__main__':
     new_df = add_feature_values(df_features)
 
     new_df['dogs_allowed'] = new_df['dogs_allowed'].astype(int)
-    new_df['hike_id'] = np.nan
-    for idx, name in enumerate(new_df['hike_name']):
-        new_df['hike_id'].iloc[idx] = idx
-    new_df['hike_id'] = new_df['hike_id'].astype(int)
+    # new_df['hike_id'] = np.nan
+    # for idx, name in enumerate(new_df['hike_name']):
+    #     new_df['hike_id'].iloc[idx] = idx
+    # new_df['hike_id'] = new_df['hike_id'].astype(int)
     new_df.drop('trail_description', axis=1, inplace=True)
     new_df.drop('lemmatized_text', axis=1, inplace=True)
 
