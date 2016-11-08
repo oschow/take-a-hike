@@ -80,15 +80,25 @@
         </div>
             <div class="container">
                 <div class="row">
-                  <ul class="list-inline text-center">
-                    {% for r in recs %}
-                    <tr>
-                      {{r['hike_name']}}
-                      <br>
-                    <tr>
-                    {% endfor %}
-                    <br>
-                    <a href="/choose-hike" class="btn btn-primary btn-xl page-scroll">Find Another!</a>
+                      <table class="table" id="recommendations-table">
+                          <tr>
+                              <th id='recommendations-table'>Hike Name</th>
+                              <th id='recommendations-table'>Area of Colorado</th>
+                              <th id='recommendations-table'>Round Trip Distance (miles)</th>
+                              <th id='recommendations-table'>Net Elevation Gain (ft)</th>
+                              <th id='recommendations-table'>Drive Time from Denver (minutes)</th>
+                            </tr>
+                               {% for hike in hike_data %}
+                            <tr>
+                                <td><b><a target="_blank">{{hike['hike_name'][0]}}</a></b></td>
+                                <td>{{hike['area_of_co'][0]}}</td>
+                                <td>{{hike['round_trip_length'][0]}}</td>
+                                <td>{{hike['net_elevation_gain'][0]}}</td>
+                                <td>{{hike['drive_time_from_denver'][0]}}</td>
+                             </tr>
+                               {% endfor %}
+                       </table>
+                <a href="/choose-hike" class="btn btn-primary btn-xl page-scroll">Find Another!</a>
                 </div>
             </div>
       </section>
