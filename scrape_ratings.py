@@ -17,15 +17,18 @@ def login(browser):
     username.send_keys("olivialschow@gmail.com")
     password.send_keys("galvanize")
     browser.find_element_by_name("commit").click()
+    search = browser.find_element_by_id("search")
+    search.send_keys("Colorado")
     soup, browser = get_all_hikes(browser)
     return soup, browser
 
 def get_all_hikes(browser):
-    browser.get('http://www.alltrails.com/us/colorado')
+    browser.get('https://www.alltrails.com/us/colorado?ref=search')
     while True:
         try:
-            load_more_hikes = WebDriverWait(browser, 15).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more trail-load'][//a]")))
+            load_more_hikes = WebDriverWait(browser, 20).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more trail-load'][//a]")))
             load_more_hikes.click()
+            time.sleep(6)
         except:
             break
     soup = BeautifulSoup(browser.page_source)
@@ -35,8 +38,9 @@ def get_all_ratings(browser, hike_url):
     browser.get(hike_url)
     while True:
         try:
-            load_more_ratings = WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more'][//a]")))
+            load_more_ratings = WebDriverWait(browser, 15).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more'][//a]")))
             load_more_ratings.click()
+            time.sleep(5)
         except:
             break
     soup = BeautifulSoup(browser.page_source)
@@ -49,10 +53,16 @@ def parse_meta_data(hike_soup):
     stars = header.findChild('meta')['content']
     num_reviews = header.find('span', itemprop='reviewCount').text
     area = hike_soup.select('div.trail-rank')
-    hike_region = area[0].findChild('span', itemprop='name').text
+    try:
+        hike_region = area[0].findChild('span', itemprop='name').text
+    except:
+        hike_region = area[0].findChild('a').text
     # directions = header.select('li.bar-icon.trail-directions')
     distance = hike_soup.select('span.distance-icon')[0].text
-    elevation_gain = hike_soup.select('span.elevation-icon')[0].text
+    try:
+        elevation_gain = hike_soup.select('span.elevation-icon')[0].text
+    except:
+        elevation_gain = None
     route_type = hike_soup.select('span.route-icon')[0].text
     tags = hike_soup.select('section.tag-cloud')[0].findChildren('h3')
     hike_attributes = []
@@ -63,6 +73,7 @@ def parse_meta_data(hike_soup):
     for user in users:
         if user.find('span', itemprop='author') != None:
             user_name = user.find('span', itemprop='author').text
+            user_name = user_name.replace('.', '')
             rating = user.find('span', itemprop="reviewRating").findChildren('meta')[0]['content']
             user_ratings.append({user_name: rating})
     row_data = {}
@@ -92,7 +103,7 @@ def create_db(soup, browser):
 
 if __name__ == '__main__':
     client = MongoClient()
-    db = client['hike_rating_db']
+    db = client['rating_db']
     table = db['hikes']
 
     browser = webdriver.Chrome()
