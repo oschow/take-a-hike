@@ -90,7 +90,7 @@
                             </tr>
                                {% for hike in hike_data %}
                             <tr>
-                                <td><b><a target="_blank">{{hike['hike_name'][0]}}</a></b></td>
+                                <td><b><a href={{hike['hike_url'][0]}} target="_blank">{{hike['hike_name'][0]}}</a></b></td>
                                 <td>{{hike['area_of_co'][0]}}</td>
                                 <td>{{hike['round_trip_length'][0]}}</td>
                                 <td>{{hike['net_elevation_gain'][0]}}</td>

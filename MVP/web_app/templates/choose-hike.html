@@ -72,26 +72,62 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Enter a hike!</h2>
+                    <h2 class="section-heading">Have you hiked in Colorado before?</h2>
                     <hr class="primary">
                 </div>
             </div>
         </div>
+            <nav id="myDropDown">
             <div class="container">
                 <div class="row">
                   <ul class="list-inline text-center">
-                    <form action="/make-recommendations" method="POST">
-                        <input type="text" name="user_input">
+                      <p style="color:black" class="text-faded">If yes: Pick a hike that you liked!</p>
+                      <form action="/make-recommendations" method="POST">
+                        <input list='hike-name' name='hike-name' placeholder="Hike Name">
+                            <datalist id='hike-name'>
+                              {% for hike in hikes %}
+                              <option value="{{hike}}"</option>
+                              {% endfor %}
+                            </datalist>
+                            <br>
+                            <br>
+                        <!-- <ul class="list-inline text-left"> -->
+                        <p style="color:black" class="text-faded">If no: Fill in the info below (Coming soon....)!</p>
+                        <input list='region-name' name='region-name' placeholder="Region">
+                            <datalist id='region-name'>
+                                {% for region in regions %}
+                                <option value="{{region}}"</option>
+                                {% endfor %}
+                                </datalist>
+                                <br>
+                                <br>
+                                <br>
+                    <!-- <ul class="list-inline text-left"> -->
+                        <input list='num-miles' name='num-miles' placeholder="Miles?">
+                            <datalist id='num-miles'>
+                                <!-- {% for region in regions %} -->
+                                <!-- <option value="{{region}}"</option> -->
+                                <!-- {% endfor %} -->
+                                </datalist>
+                                <br>
+                                <br>
+                                <br>
+                    <!-- <ul class="list-inline text-left"> -->
+                        <input list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain?">
+                            <datalist id='elevation-gain'>
+                                <!-- {% for region in regions %} -->
+                                <!-- <option value="{{region}}"</option> -->
+                                <!-- {% endfor %} -->
+                                </datalist>
                         <br>
                         <br>
-                           <ul class="list-inline text-center">
+                           <!-- <ul class="list-inline text-center"> -->
                              <li>
                                <button type="submit" class="btn btn-primary btn-xl page-scroll" value="submit">Submit</button>
                              </li>
-                       </div>
-                   </form>
+                    </form>
                 </div>
-              </div>
+            </div>
       </section>
 
     <!-- jQuery -->
