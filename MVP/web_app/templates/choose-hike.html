@@ -77,7 +77,6 @@
                 </div>
             </div>
         </div>
-            <nav id="myDropDown">
             <div class="container">
                 <div class="row">
                   <ul class="list-inline text-center">
@@ -98,27 +97,38 @@
                                 {% for region in regions %}
                                 <option value="{{region}}"</option>
                                 {% endfor %}
-                                </datalist>
+                            </datalist>
                                 <br>
                                 <br>
                                 <br>
                     <!-- <ul class="list-inline text-left"> -->
-                        <input list='num-miles' name='num-miles' placeholder="Miles?">
+                        <input list='num-miles' name='num-miles' placeholder="Hike Distance">
                             <datalist id='num-miles'>
-                                <!-- {% for region in regions %} -->
-                                <!-- <option value="{{region}}"</option> -->
-                                <!-- {% endfor %} -->
-                                </datalist>
+                                  <option value="Less than 2 miles"</option>
+                                  <option value="2 - 5 miles"</option>
+                                  <option value="5 - 10 miles"</option>
+                                  <option value="More than 10 miles"</option>
+                            </datalist>
                                 <br>
                                 <br>
                                 <br>
                     <!-- <ul class="list-inline text-left"> -->
-                        <input list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain?">
+                        <input list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain">
                             <datalist id='elevation-gain'>
-                                <!-- {% for region in regions %} -->
-                                <!-- <option value="{{region}}"</option> -->
-                                <!-- {% endfor %} -->
-                                </datalist>
+                                <option value="Less than 500 ft"</option>
+                                <option value="500 - 1000 ft"</option>
+                                <option value="1000 - 2000 ft"</option>
+                                <option value="More than 2000 ft"</option>
+                            </datalist>
+                            <br>
+                            <br>
+                            <br>
+                        <input list='dog' name='dog' placeholder="Bringing your dog?">
+                            <datalist id='dog'>
+                                <option value="Yes"</option>
+                                <option value="No"</option>
+                                <option value="Don't Care"</option>
+                            </datalist>
                         <br>
                         <br>
                            <!-- <ul class="list-inline text-center"> -->

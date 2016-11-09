@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 def clean_df(df):
 	df['area_of_co'] = df['area_of_co'].map({'Aspen-Snowmass': 'Aspen/Snowmass', 'boulder-denver-golden-fort-collins-lyons': 'Denver/Boulder/Golden', 'colorado-national-monument': 'CO National Monument', 'great-sand-dunes-national-park': 'Great Sand Dunes National Park', 'indian-peaks-wilderness-area-james-peak-wilderness-area': 'Indian Peaks/James Peak Wilderness Area', 'rocky-mountain-national-park': 'Rocky Mountain National Park', 'summit-county-eagle-county-clear-creek-county': 'Summit/Eagle/Clear Creek County'})
+	df['drive_time_from_denver'] = df['drive_time_from_denver'].apply(lambda x: x/60)
 	df['drive_time_from_denver'] = df['drive_time_from_denver'].map(lambda x: ("%.2f" % x))
 	df['hike_url'] = df['hike_url'].apply(lambda x: x.strip())
 	return df
@@ -19,6 +20,10 @@ def list_hikes(sf):
 def list_regions(sf):
 	regions = sf['area_of_co'].unique()
 	return regions
+
+def get_info(hike):
+	data = sf[sf['hike_name']==hike]
+	return data
 
 def get_hike_info(recs):
 	hike_info = []
@@ -45,14 +50,13 @@ def enter_hike():
 def get_recommendations():
 	hike = request.form.get('hike-name')
 	region = request.form.get('region-name')
-	miles = request.form.get('miles')
-	elevation = request.form.get('elevation')
-	# if region != None:
-	# 	sf_new = sf[sf['area_of_co']== region]
-	# 	model = gl.recommender.item_content_recommender.create(sf_new, item_id='hike_name')
+	miles = request.form.get('num-miles')
+	elevation = request.form.get('elevation-gain')
+	dog = request.form.get('dog')
 	recs = model.recommend_from_interactions([hike], k=5)
+	your_hike = get_info(hike)
 	hike_data = get_hike_info(recs)
-	return render_template('make-recommendations.html', hike_data=hike_data)
+	return render_template('make-recommendations.html', your_hike=your_hike, hike_data=hike_data)
 
 
 if __name__ == '__main__':

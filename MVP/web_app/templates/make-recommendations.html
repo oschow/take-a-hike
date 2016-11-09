@@ -73,20 +73,43 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Similar Hikes</h2>
+                    <h2 class="section-heading">Your Hike</h2>
                       <hr class="primary">
                 </div>
             </div>
         </div>
             <div class="container">
                 <div class="row">
+                  <table class="table" id="hike-table">
+                      <tr>
+                          <th id='hike-table'>Hike Name</th>
+                          <th id='hike-table'>Area of Colorado</th>
+                          <th id='hike-table'>Round Trip Distance (miles)</th>
+                          <th id='hike-table'>Net Elevation Gain (ft)</th>
+                          <th id='hike-table'>Drive Time from Denver (hours)</th>
+                        </tr>
+                        <tr>
+                            <td><b><a href={{your_hike['hike_url'][0]}} target="_blank">{{your_hike['hike_name'][0]}}</a></b></td>
+                            <td>{{your_hike['area_of_co'][0]}}</td>
+                            <td>{{your_hike['round_trip_length'][0]}}</td>
+                            <td>{{your_hike['net_elevation_gain'][0]}}</td>
+                            <td>{{your_hike['drive_time_from_denver'][0]}}</td>
+                         </tr>
+                   </table>
+          <div class="container">
+                <div class="row">
+                     <div class="col-lg-12 text-center">
+                         <h2 class="section-heading">Similar Hikes</h2>
+                         <hr class="primary">
+                      </div>
+                 </div>
                       <table class="table" id="recommendations-table">
                           <tr>
                               <th id='recommendations-table'>Hike Name</th>
                               <th id='recommendations-table'>Area of Colorado</th>
                               <th id='recommendations-table'>Round Trip Distance (miles)</th>
                               <th id='recommendations-table'>Net Elevation Gain (ft)</th>
-                              <th id='recommendations-table'>Drive Time from Denver (minutes)</th>
+                              <th id='recommendations-table'>Drive Time from Denver (hours)</th>
                             </tr>
                                {% for hike in hike_data %}
                             <tr>
