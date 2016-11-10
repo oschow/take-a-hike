@@ -1,7 +1,7 @@
 import graphlab as gl
 import pandas as pd
 
-def train_model(recommenders, sf_train, item_data=None):
+def train_model(rec, sf_train, item_data=None):
     model = rec.create(sf_train, user_id='variable', item_id='hike_id', target='value', item_data=item_data)
     return model
 
@@ -9,6 +9,21 @@ def calculate_rmse(model, sf_test):
     train_rmse = model['training_rmse']
     test_rmse = gl.evaluation.rmse(targets=sf_test['value'], predictions=model.predict(sf_test))
     return train_rmse, test_rmse
+
+# def kfolds(sf, recommenders, rec_names):
+#     rmse_dct = defaultdict(list)
+#     folds = gl.cross_validation.KFold(sf, num_folds=5)
+#     for sf_train, sf_test in folds:
+#         trained_models = []
+#         for rec in recommenders:
+#             model = train_model(rec, sf_train)
+#             trained_models.append(model)
+#             model = train_model(rec, sf_train, item_data=hike_side_data)
+#             trained_models.append(model)
+#         rmse_results = gl.recommender.util.compare_models(sf_test, models=trained_models, model_names=rec_names, metric='rmse', target='value')
+#         for idx, result in enumerate(rmse_results):
+#             rmse_dct[rec_names[idx]].append(result['rmse_overall'])
+#     return trained_models, rmse_dct
 
 
 if __name__ == '__main__':
