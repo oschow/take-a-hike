@@ -6,7 +6,7 @@ from mongo_to_pandas import turn_into_pandas
 from pymongo import MongoClient
 from collections import defaultdict
 
-def something_with_ratings(hike_df, user_ids):
+def create_user_hike_rating_dict(hike_df, user_ids):
     user_hike_rating_dict = defaultdict(dict)
     for idx, lst in enumerate(hike_df['ratings']):
         for user_dict in lst:
@@ -106,10 +106,11 @@ if __name__ == '__main__':
     h_df, hike_ids = create_hike_ids(df)
     hike_df = clean_data(h_df)
     user_ids = create_user_ids(hike_df)
-    user_hike_rating_dict = something_with_ratings(hike_df, user_ids)
-    hike_df.drop('hike_name', axis=1, inplace=True)
+    user_hike_rating_dict = create_user_hike_rating_dict(hike_df, user_ids)
     hike_df.drop('ratings', axis=1, inplace=True)
-    hike_df.to_csv('data/hikes_data.csv', index=False)
+    hike_df.to_csv('data/hikes_data_with_hike_name.csv', index=False)
+    hike_df.drop('hike_name', axis=1, inplace=True)
+    hike_df.to_csv('data/hikes_data_with_hike_id.csv', index=False)
 
     rating_df = pd.DataFrame.from_dict(user_hike_rating_dict)
     rating_df['hike_id'] = rating_df.index
