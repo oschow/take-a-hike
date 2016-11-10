@@ -5,7 +5,7 @@ def train_model(recommenders, sf_train, item_data=None):
     model = rec.create(sf_train, user_id='variable', item_id='hike_id', target='value', item_data=item_data)
     return model
 
-def calculate_rmse(model):
+def calculate_rmse(model, sf_test):
     train_rmse = model['training_rmse']
     test_rmse = gl.evaluation.rmse(targets=sf_test['value'], predictions=model.predict(sf_test))
     return train_rmse, test_rmse
@@ -32,7 +32,7 @@ if __name__ == '__main__':
         trained_models.append(model)
 
     for idx, mod in enumerate(trained_models):
-        train_rmse, test_rmse = calculate_rmse(mod)
+        train_rmse, test_rmse = calculate_rmse(mod, sf_test)
         print ''
         print rec_names[idx]
         print 'Training RMSE: ', train_rmse
