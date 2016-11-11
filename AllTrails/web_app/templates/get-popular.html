@@ -70,34 +70,10 @@
 
 
     <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Your Hike</h2>
-                      <hr class="primary">
-                </div>
-            </div>
-        </div>
-            <div class="container">
-                <div class="row">
-                  <table class="table" id="hike-table">
-                      <tr>
-                          <th id='hike-table'>Hike Name</th>
-                          <th id='hike-table'>Park/Area</th>
-                          <th id='hike-table'>Round Trip Distance (miles)</th>
-                          <th id='hike-table'>Elevation Gain (ft)</th>
-                        </tr>
-                        <tr>
-                            <td>{{your_hike['hike_name'][0]}}</td>
-                            <td>{{your_hike['hike_region'][0]}}</td>
-                            <td>{{your_hike['total_distance'][0]}}</td>
-                            <td>{{your_hike['elevation_gain'][0]}}</td>
-                         </tr>
-                   </table>
           <div class="container">
                 <div class="row">
                      <div class="col-lg-12 text-center">
-                         <h2 class="section-heading">Similar Hikes</h2>
+                         <h2 class="section-heading">Most Popular Hikes</h2>
                          <hr class="primary">
                       </div>
                  </div>
@@ -108,7 +84,7 @@
                               <th id='recommendations-table'>Round Trip Distance (miles)</th>
                               <th id='recommendations-table'>Elevation Gain (ft)</th>
                             </tr>
-                               {% for hike in hike_data %}
+                               {% for hike in best_hikes %}
                             <tr>
                                 <td>{{hike['hike_name'][0]}}</td>
                                 <td>{{hike['hike_region'][0]}}</td>
@@ -117,7 +93,7 @@
                              </tr>
                                {% endfor %}
                        </table>
-                <a href="/choose-hike" class="btn btn-primary btn-xl page-scroll">Find Another!</a>
+                <a href="/" class="btn btn-primary btn-xl page-scroll">Back to Homepage</a>
                 </div>
             </div>
       </section>
