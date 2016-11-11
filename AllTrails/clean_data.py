@@ -5,6 +5,7 @@ import numpy as np
 from mongo_to_pandas import turn_into_pandas
 from pymongo import MongoClient
 from collections import defaultdict
+import cPickle as pickle
 
 def create_user_hike_rating_dict(hike_df, user_ids):
     user_hike_rating_dict = defaultdict(dict)
@@ -116,3 +117,8 @@ if __name__ == '__main__':
     rating_df['hike_id'] = rating_df.index
     hike_user_rating_df = pd.melt(rating_df, id_vars='hike_id').dropna()
     hike_user_rating_df.to_csv('data/ratings_matrix.csv', index=False)
+
+    with open('data/hike_ids.pkl', 'w') as f:
+        pickle.dump(hike_ids, f)
+    with open('data/user_ids.pkl', 'w') as f:
+        pickle.dump(user_ids, f)
