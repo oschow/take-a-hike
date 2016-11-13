@@ -26,6 +26,53 @@ def get_hike_info(recs):
 		hike_info.append(info)
 	return hike_info
 
+def filter_recs(hikes_sorted, miles, elevation, dog):
+	recs = []
+	for rec in hikes_sorted:
+		if miles == "Less than 2 miles":
+			if rec['total_distance'] <= 2.0:
+				recs.append(rec)
+		elif miles == "2 - 5 miles":
+			if rec['total_distance'] > 2.0 and rec['total_distance'] <= 5.0:
+				recs.append(rec)
+		elif miles == "5 - 10 miles":
+			if rec['total_distance'] > 5.0 and rec['total_distance'] <= 10.0:
+				recs.append(rec)
+		elif miles == "More than 10 miles":
+			if rec['total_distance'] > 10.0:
+				recs.append(rec)
+		else:
+			continue
+	recs2 = []
+	for rec in recs:
+		if elevation == "Less than 500 ft":
+			if rec['elevation_gain'] <= 500:
+				recs2.append(rec)
+		elif elevation == "500 - 1000 ft":
+			if rec['elevation_gain'] > 500 and rec['elevation_gain'] <= 1000:
+				recs2.append(rec)
+		elif elevation == "1000 - 2000 ft":
+			if rec['elevation_gain'] > 1000 and rec['elevation_gain'] <= 2000:
+				recs.append(rec)
+		elif elevation == "More than 2000 ft":
+			if rec['elevation_gain'] > 2000:
+				recs.append(rec)
+		else:
+			continue
+	recs3 = []
+	for rec in recs2:
+		if dog == "Don't care":
+			recs3.append(rec)
+		elif dog == 'Yes':
+			if rec['dog_friendly'] == 1:
+				recs3.append(rec)
+		elif dog == 'No':
+			if rec['dog_friendly'] == 0:
+				recs3.append(rec)
+		else:
+			continue
+	return recs3
+
 
 @app.route('/')
 def index():
@@ -42,14 +89,20 @@ def enter_hike():
 @app.route('/make-recommendations', methods=['POST', 'GET'])
 def get_recommendations():
 	hike = request.form.get('hike-name')
-	region = request.form.get('region-name')
-	miles = request.form.get('num-miles')
-	elevation = request.form.get('elevation-gain')
-	dog = request.form.get('dog')
-	recs = content_model.recommend_from_interactions([hike], k=5)
-	your_hike = get_info(hike)
-	hike_data = get_hike_info(recs)
-	return render_template('make-recommendations.html', your_hike=your_hike, hike_data=hike_data)
+	if hike == '':
+		hikes_sorted = sf_hikes.sort('stars', ascending=False)
+		# region = request.form.get('region-name')
+		miles = request.form.get('num-miles')
+		elevation = request.form.get('elevation-gain')
+		dog = request.form.get('dog')
+		recs = filter_recs(hikes_sorted, miles, elevation, dog)
+		my_recs = recs[:5]
+		return render_template('make-recs.html', my_recs=my_recs)
+	else:
+		recs = content_model.recommend_from_interactions([hike], k=5)
+		your_hike = get_info(hike)
+		hike_data = get_hike_info(recs)
+		return render_template('make-recommendations.html', your_hike=your_hike, hike_data=hike_data)
 
 @app.route('/popular-hikes', methods=['POST', 'GET'])
 def get_popular():
@@ -67,4 +120,4 @@ if __name__ == '__main__':
 	content_model = gl.load_model('hike_content_recommender')
 	popular_model = gl.load_model('hike_popularity_recommender')
 
-	app.run(host='0.0.0.0', port=1515, debug=True)
+	app.run(host='0.0.0.0', port=1717, debug=True)

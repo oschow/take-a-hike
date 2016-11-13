@@ -82,15 +82,15 @@
             <div class="container">
                 <div class="row">
                   <ul class="list-inline text-left">
-                      <p style="color:black" class="text-faded">If yes: Pick a hike that you liked!</p>
+                      <p style="color:black;font-size:20px" class="text-faded">If YES : Pick a hike that you liked.</p>
                       <form action="/make-recommendations" method="POST">
-                        <!-- <select name='hike-name' size="10">
+                        <!-- <select name='hike-name' size="5">
                             <option value="">- Select a hike -</option>
                             {% for hike in hikes %}
                             <option value="{{hike}}">{{hike}}</option>
                             {% endfor %}
                         </select> -->
-                        <input list='hike-name' name='hike-name' placeholder="Hike Name">
+                        <input style="height:30px;font-size:14px" list='hike-name' name='hike-name' placeholder="Hike Name">
                             <datalist id='hike-name'>
                               {% for hike in hikes %}
                               <option value="{{hike}}">{{hike}}</option>
@@ -99,17 +99,17 @@
                             <br>
                             <br>
                         <!-- <ul class="list-inline text-left"> -->
-                        <p style="color:black" class="text-faded">If no: Fill in the info below!</p>
-                        <input list='region-name' name='region-name' placeholder="Park or Area">
+                        <p style="color:black;font-size:20px" class="text-faded">If NO : Fill in the info below.</p>
+                        <!-- <input list='region-name' name='region-name' placeholder="Park or Area">
                             <datalist id='region-name'>
                                 {% for region in regions %}
                                 <option value="{{region}}"</option>
                                 {% endfor %}
                             </datalist>
                                 <br>
-                                <br>
+                                <br> -->
                     <!-- <ul class="list-inline text-left"> -->
-                        <input list='num-miles' name='num-miles' placeholder="Hike Distance">
+                        <input style="height:30px;font-size:14px" list='num-miles' name='num-miles' placeholder="Hike Distance">
                             <datalist id='num-miles'>
                                   <option value="Less than 2 miles"</option>
                                   <option value="2 - 5 miles"</option>
@@ -119,7 +119,7 @@
                                 <br>
                                 <br>
                     <!-- <ul class="list-inline text-left"> -->
-                        <input list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain">
+                        <input style="height:30px;font-size:14px" list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain">
                             <datalist id='elevation-gain'>
                                 <option value="Less than 500 ft"</option>
                                 <option value="500 - 1000 ft"</option>
@@ -128,7 +128,7 @@
                             </datalist>
                             <br>
                             <br>
-                        <input list='dog' name='dog' placeholder="Bringing your dog?">
+                        <input style="height:30px;font-size:14px" list='dog' name='dog' placeholder="Bringing your dog?">
                             <datalist id='dog'>
                                 <option value="Yes"</option>
                                 <option value="No"</option>
