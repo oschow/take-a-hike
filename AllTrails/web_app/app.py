@@ -1,6 +1,8 @@
 from flask import Flask, request, render_template
 import pandas as pd
 import graphlab as gl
+import cPickle as pickle
+import random
 
 app = Flask(__name__)
 
@@ -25,6 +27,14 @@ def get_hike_info(recs):
 		info = sf_hikes[sf_hikes['hike_name']==hike]
 		hike_info.append(info)
 	return hike_info
+
+def random_five(recs):
+	hike_info = []
+	for rec in recs:
+		info = sf_hikes[sf_hikes['hike_name']==rec]
+		hike_info.append(info)
+	pick_5 = random.sample(hike_info, 5)
+	return pick_5
 
 def filter_recs(hikes_sorted, miles, elevation, dog):
 	recs = []
@@ -53,25 +63,32 @@ def filter_recs(hikes_sorted, miles, elevation, dog):
 				recs2.append(rec)
 		elif elevation == "1000 - 2000 ft":
 			if rec['elevation_gain'] > 1000 and rec['elevation_gain'] <= 2000:
-				recs.append(rec)
+				recs2.append(rec)
 		elif elevation == "More than 2000 ft":
 			if rec['elevation_gain'] > 2000:
-				recs.append(rec)
+				recs2.append(rec)
 		else:
 			continue
-	recs3 = []
-	for rec in recs2:
-		if dog == "Don't care":
-			recs3.append(rec)
-		elif dog == 'Yes':
-			if rec['dog_friendly'] == 1:
+	if recs2 == []:
+		return None
+	else:
+		recs3 = []
+		for rec in recs2:
+			if dog == "Don't care":
 				recs3.append(rec)
-		elif dog == 'No':
-			if rec['dog_friendly'] == 0:
-				recs3.append(rec)
+			elif dog == 'Yes':
+				if rec['dog_friendly'] == 1:
+					recs3.append(rec)
+			elif dog == 'No':
+				if rec['dog_friendly'] == 0:
+					recs3.append(rec)
+			else:
+				continue
+		if recs3 == []:
+			return None
 		else:
-			continue
-	return recs3
+			return recs3
+
 
 
 @app.route('/')
@@ -91,13 +108,15 @@ def get_recommendations():
 	hike = request.form.get('hike-name')
 	if hike == '':
 		hikes_sorted = sf_hikes.sort('stars', ascending=False)
-		# region = request.form.get('region-name')
 		miles = request.form.get('num-miles')
 		elevation = request.form.get('elevation-gain')
 		dog = request.form.get('dog')
 		recs = filter_recs(hikes_sorted, miles, elevation, dog)
-		my_recs = recs[:5]
-		return render_template('make-recs.html', my_recs=my_recs)
+		if recs == None:
+			return render_template('error.html')
+		else:
+			my_recs = random.sample(recs, 5)
+			return render_template('make-recs.html', my_recs=my_recs)
 	else:
 		recs = content_model.recommend_from_interactions([hike], k=5)
 		your_hike = get_info(hike)
@@ -106,8 +125,12 @@ def get_recommendations():
 
 @app.route('/popular-hikes', methods=['POST', 'GET'])
 def get_popular():
-	recs = sf_hikes[sf_hikes['stars']==5.0]
-	best_hikes = get_hike_info(recs)
+	recs = []
+	rec_ids = popular_model.recommend_from_interactions(['hike1'],k=20)
+	for h_id in rec_ids:
+		hike = h_id['hike_id']
+		recs.append(hike_ids[hike])
+	best_hikes = random_five(recs)
 	return render_template('get-popular.html', best_hikes=best_hikes)
 
 
@@ -116,8 +139,10 @@ if __name__ == '__main__':
 	sf_hikes = sf_hikes.remove_column('hike_id')
 	sf_ratings = gl.SFrame('../data/ratings_matrix.csv')
 	hike_side_data = gl.SFrame('../data/hikes_data_with_hike_id.csv')
+	with open('../data/hike_ids.pkl') as f:
+		hike_ids = pickle.load(f)
 
 	content_model = gl.load_model('hike_content_recommender')
 	popular_model = gl.load_model('hike_popularity_recommender')
 
-	app.run(host='0.0.0.0', port=1717, debug=True)
+	app.run(host='0.0.0.0', port=1111, debug=True)
