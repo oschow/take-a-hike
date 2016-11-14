@@ -28,7 +28,7 @@ def get_all_hikes(browser):
         try:
             load_more_hikes = WebDriverWait(browser, 20).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more trail-load'][//a]")))
             load_more_hikes.click()
-            time.sleep(6)
+            time.sleep(7)
         except:
             break
     soup = BeautifulSoup(browser.page_source)
@@ -40,7 +40,7 @@ def get_all_ratings(browser, hike_url):
         try:
             load_more_ratings = WebDriverWait(browser, 15).until(EC.visibility_of_element_located((By.XPATH,"//div[@id='load_more'] [@class='feed-item load-more'][//a]")))
             load_more_ratings.click()
-            time.sleep(5)
+            time.sleep(7)
         except:
             break
     soup = BeautifulSoup(browser.page_source)
@@ -58,12 +58,18 @@ def parse_meta_data(hike_soup):
     except:
         hike_region = area[0].findChild('a').text
     # directions = header.select('li.bar-icon.trail-directions')
-    distance = hike_soup.select('span.distance-icon')[0].text
+    try:
+        distance = hike_soup.select('span.distance-icon')[0].text
+    except:
+        distance = None
     try:
         elevation_gain = hike_soup.select('span.elevation-icon')[0].text
     except:
         elevation_gain = None
-    route_type = hike_soup.select('span.route-icon')[0].text
+    try:
+        route_type = hike_soup.select('span.route-icon')[0].text
+    except:
+        route_type = None
     tags = hike_soup.select('section.tag-cloud')[0].findChildren('h3')
     hike_attributes = []
     for tag in tags:
@@ -74,8 +80,11 @@ def parse_meta_data(hike_soup):
         if user.find('span', itemprop='author') != None:
             user_name = user.find('span', itemprop='author').text
             user_name = user_name.replace('.', '')
-            rating = user.find('span', itemprop="reviewRating").findChildren('meta')[0]['content']
-            user_ratings.append({user_name: rating})
+            try:
+                rating = user.find('span', itemprop="reviewRating").findChildren('meta')[0]['content']
+                user_ratings.append({user_name: rating})
+            except:
+                pass
     row_data = {}
     row_data['hike_name'] = hike_name
     row_data['hike_difficulty'] = difficulty
