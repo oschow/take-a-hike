@@ -72,10 +72,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Have you hiked in Colorado before?</h2>
+                    <h2 class="section-heading">Input your username and a hike you liked.</h2>
                     <hr class="primary">
-                    <p style="color:black;font-size:18px" class="text-faded">If you have an AllTrails username, <a href="/username">enter it here</a> for better recommendations.</p>
-                  </li>
                     <br>
                     <br>
                 </div>
@@ -84,16 +82,13 @@
             <div class="container">
                 <div class="row">
                   <ul class="list-inline text-left">
-                      <br>
-                      <p style="color:black;font-size:20px" class="text-faded">If YES : Pick a hike that you liked.</p>
-                      <form action="/make-recommendations" method="POST">
-                        <!-- <select name='hike-name' size="5">
-                            <option value="">- Select a hike -</option>
-                            {% for hike in hikes %}
-                            <option value="{{hike}}">{{hike}}</option>
-                            {% endfor %}
-                        </select> -->
-                        <input style="height:30px;font-size:14px" list='hike-name' name='hike-name' placeholder="Hike Name">
+                    <form action="/make-recommendations" method="POST">
+                      <p style="color:black;font-size:20px" class="text-faded">Username</p>
+                            <input style="height:30px;font-size:14px" type="text" name="user_input"/>
+                            <br>
+                            <br>
+                      <p style="color:black;font-size:20px" class="text-faded">Hike Name</p>
+                        <input style="height:30px;font-size:14px" list='hike-name' name='hike-name'>
                             <datalist id='hike-name'>
                               {% for hike in hikes %}
                               <option value="{{hike}}">{{hike}}</option>
@@ -101,34 +96,6 @@
                             </datalist>
                             <br>
                             <br>
-                        <p style="color:black;font-size:20px" class="text-faded">If NO : Fill in the info below.</p>
-                        <input style="height:30px;font-size:14px" list='num-miles' name='num-miles' placeholder="Hike Distance">
-                            <datalist id='num-miles'>
-                                  <option value="Less than 2 miles"</option>
-                                  <option value="2 - 5 miles"</option>
-                                  <option value="5 - 10 miles"</option>
-                                  <option value="More than 10 miles"</option>
-                            </datalist>
-                                <br>
-                                <br>
-                    <!-- <ul class="list-inline text-left"> -->
-                        <input style="height:30px;font-size:14px" list='elevation-gain' name='elevation-gain' placeholder="Elevation Gain">
-                            <datalist id='elevation-gain'>
-                                <option value="Less than 500 ft"</option>
-                                <option value="500 - 1000 ft"</option>
-                                <option value="1000 - 2000 ft"</option>
-                                <option value="More than 2000 ft"</option>
-                            </datalist>
-                            <br>
-                            <br>
-                        <input style="height:30px;font-size:14px" list='dog' name='dog' placeholder="Bringing your dog?">
-                            <datalist id='dog'>
-                                <option value="Yes"</option>
-                                <option value="No"</option>
-                                <option value="Don't Care"</option>
-                            </datalist>
-                        <br>
-                        <br>
                            <!-- <ul class="list-inline text-center"> -->
                              <li>
                                <button type="submit" class="btn btn-primary btn-xl page-scroll" value="submit">Submit</button>

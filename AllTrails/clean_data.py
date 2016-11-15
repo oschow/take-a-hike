@@ -66,6 +66,8 @@ def add_features(hike_df):
                 hike_df['lake'].iloc[idx] = 1
             if feature == 'wild flowers':
                 hike_df['wildflowers'].iloc[idx] = 1
+            if feature == 'wildlife':
+                hike_df['wildlife'].iloc[idx] = 1
             if feature == 'views':
                 hike_df['views'].iloc[idx] = 1
     hike_df.drop('hike_attributes', axis=1, inplace=True)

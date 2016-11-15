@@ -99,8 +99,12 @@ def index():
 @app.route('/choose-hike', methods=['GET', 'POST'])
 def enter_hike():
 	hikes = list_hikes(sf_hikes)
-	regions = list_regions(sf_hikes)
-	return render_template('choose-hike.html', hikes=hikes, regions=regions)
+	return render_template('choose-hike.html', hikes=hikes)
+
+@app.route('/username', methods=['GET', 'POST'])
+def enter_username():
+	hikes = list_hikes(sf_hikes)
+	return render_template('username.html', hikes=hikes)
 
 
 @app.route('/make-recommendations', methods=['POST', 'GET'])
@@ -144,5 +148,6 @@ if __name__ == '__main__':
 
 	content_model = gl.load_model('hike_content_recommender')
 	popular_model = gl.load_model('hike_popularity_recommender')
+	rf_model = gl.load_model('rank_factorization_recommender')
 
 	app.run(host='0.0.0.0', port=1111, debug=True)
