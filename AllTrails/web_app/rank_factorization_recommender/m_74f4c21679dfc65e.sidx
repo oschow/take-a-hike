@@ -4,14 +4,14 @@
 		"num_segments" : 1
 	},
 	"segment_files" : {
-		"0000" : "m_99257e8f5e3d4ad4.0000"
+		"0000" : "m_74f4c21679dfc65e.0000"
 	},
 	"columns" : [
 		{
 			"content_type" : "",
 			"metadata" : {},
 			"segment_sizes" : {
-				"0000" : "10293"
+				"0000" : "11891"
 			}
 		}
 	]

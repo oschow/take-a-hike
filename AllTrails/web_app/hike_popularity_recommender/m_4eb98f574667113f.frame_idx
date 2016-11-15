@@ -2,10 +2,10 @@
 version=0
 num_segments=0
 num_columns=2
-nrows=446
+nrows=1487
 [column_names]
 0000=hike_id
 0001=prediction
 [column_files]
-0000=m_b2c876ddd77efdd8.sidx:0
-0001=m_b2c876ddd77efdd8.sidx:1
+0000=m_4eb98f574667113f.sidx:0
+0001=m_4eb98f574667113f.sidx:1

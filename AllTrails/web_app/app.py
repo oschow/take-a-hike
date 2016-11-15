@@ -135,11 +135,11 @@ def get_popular():
 
 
 if __name__ == '__main__':
-	sf_hikes = gl.SFrame('../data/hikes_data_with_hike_name.csv')
+	sf_hikes = gl.SFrame('../data/all_hikes_with_hike_name.csv')
 	sf_hikes = sf_hikes.remove_column('hike_id')
-	sf_ratings = gl.SFrame('../data/ratings_matrix.csv')
-	hike_side_data = gl.SFrame('../data/hikes_data_with_hike_id.csv')
-	with open('../data/hike_ids.pkl') as f:
+	sf_ratings = gl.SFrame('../data/all_ratings_matrix.csv')
+	hike_side_data = gl.SFrame('../data/all_hikes_with_hike_id.csv')
+	with open('../data/all_hike_ids.pkl') as f:
 		hike_ids = pickle.load(f)
 
 	content_model = gl.load_model('hike_content_recommender')

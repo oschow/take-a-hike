@@ -36,8 +36,8 @@ def create_hike_ids(df):
     for idx, name in enumerate(df['hike_name']):
         df['hike_id'].iloc[idx] = 'hike{}'.format(idx)
     hike_ids = {}
-    for idx, id in enumerate(df['hike_id']):
-        hike_ids[id] = df['hike_name'].iloc[idx]
+    for idx, _id in enumerate(df['hike_id']):
+        hike_ids[_id] = df['hike_name'].iloc[idx]
     return df, hike_ids
 
 def add_features(hike_df):
@@ -90,7 +90,6 @@ def clean_data(hike_df):
     hike_df['elevation_gain'] = hike_df['elevation_gain'].astype(int)
     hike_df['total_distance'] = hike_df['total_distance'].str.replace(' miles','')
     hike_df['total_distance'] = hike_df['total_distance'].astype(float)
-    hike_df['num_reviews'] = hike_df['num_reviews'].astype(int)
     hike_df['stars'] = hike_df['stars'].astype(float)
     hike_df['hike_difficulty'] = hike_df['hike_difficulty'].map({'EASY': 1, 'MODERATE': 2, 'HARD': 3})
     hike_df = add_route_type(hike_df)
@@ -104,21 +103,24 @@ if __name__ == '__main__':
     table = db['hikes']
 
     df = turn_into_pandas(table)
+    df = df.dropna()
+    df.drop('num_reviews', axis=1, inplace=True)
+    df = df[df['hike_difficulty'] != 'DIFFICULTY']
     h_df, hike_ids = create_hike_ids(df)
     hike_df = clean_data(h_df)
     user_ids = create_user_ids(hike_df)
     user_hike_rating_dict = create_user_hike_rating_dict(hike_df, user_ids)
     hike_df.drop('ratings', axis=1, inplace=True)
-    hike_df.to_csv('data/hikes_data_with_hike_name.csv', index=False)
+    hike_df.to_csv('data/all_hikes_with_hike_name.csv', index=False)
     hike_df.drop('hike_name', axis=1, inplace=True)
-    hike_df.to_csv('data/hikes_data_with_hike_id.csv', index=False)
+    hike_df.to_csv('data/all_hikes_with_hike_id.csv', index=False)
 
     rating_df = pd.DataFrame.from_dict(user_hike_rating_dict)
     rating_df['hike_id'] = rating_df.index
     hike_user_rating_df = pd.melt(rating_df, id_vars='hike_id').dropna()
-    hike_user_rating_df.to_csv('data/ratings_matrix.csv', index=False)
+    hike_user_rating_df.to_csv('data/all_ratings_matrix.csv', index=False)
 
-    with open('data/hike_ids.pkl', 'w') as f:
+    with open('data/all_hike_ids.pkl', 'w') as f:
         pickle.dump(hike_ids, f)
-    with open('data/user_ids.pkl', 'w') as f:
+    with open('data/all_user_ids.pkl', 'w') as f:
         pickle.dump(user_ids, f)

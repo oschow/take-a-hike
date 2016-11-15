@@ -1,0 +1,1488 @@
+hike_region,total_distance,elevation_gain,hike_difficulty,stars,hike_id,loop,out_and_back,point_to_point,dog_friendly,kid_friendly,camping,waterfall,river,lake,wildflowers,wildlife,views
+Arapaho National Forest,4.2,1008,2,3.9,hike0,1,0,0,1,0,1,1,1,0,1,0,0
+Chautauqua Park,3.4,1651,3,4.4,hike1,0,1,0,1,0,0,0,0,0,1,0,1
+Genesee Park,3.9,1008,2,4.4,hike2,1,0,0,1,0,0,1,1,0,0,0,0
+Manitou Park Recreation Area,3.6,1976,3,4.7,hike3,1,0,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,3.3,767,1,4.6,hike4,0,1,0,0,1,0,0,1,1,1,0,1
+White River National Forest,3.2,1214,2,4.6,hike5,0,1,0,0,1,0,1,1,1,1,0,1
+Mount Falcon Park,7.9,1836,2,4.2,hike6,0,1,0,1,1,0,0,0,0,0,0,1
+Boulder Mountain Park,3.3,1354,2,4.1,hike7,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,8.2,2149,2,4.7,hike8,0,1,0,1,0,0,1,1,1,1,0,1
+Arapaho National Forest,7.3,2767,3,4.3,hike9,0,1,0,1,0,0,0,0,1,1,0,1
+North Cheyenne Park,3.8,1181,2,4.3,hike10,1,0,0,1,1,0,0,1,0,1,0,1
+Pike National Forest,2.7,958,2,4.5,hike11,0,1,0,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,5.7,1324,2,4.7,hike12,0,1,0,1,1,0,0,0,1,1,0,1
+Chautauqua Park,2.8,1512,3,4.3,hike13,1,0,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,5.5,1494,3,4.1,hike14,0,1,0,1,0,1,0,0,1,1,0,1
+White River National Forest,3.9,1384,2,4.4,hike15,0,1,0,1,1,0,1,0,0,1,0,1
+North Cheyenne Park,5.2,1385,2,4.4,hike16,0,1,0,1,1,1,1,0,0,1,0,1
+Red Rock Canyon Open Space,3.4,1003,1,4.3,hike17,1,0,0,1,1,0,0,0,0,1,0,1
+Apex Open Space Park,7.5,1735,2,3.9,hike18,1,0,0,1,0,0,0,1,0,1,0,1
+Alderfer / Three Sisters Park,6.9,1248,1,4.1,hike19,1,0,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,5.2,1061,2,4.4,hike20,0,1,0,0,1,0,1,1,0,1,0,0
+Arapaho National Forest,1.4,438,1,4.4,hike21,0,1,0,1,1,1,0,0,1,0,0,1
+Horsetooth Mountain Park,6.0,1685,2,4.1,hike22,1,0,0,1,0,0,1,0,0,1,0,1
+Boulder Mountain Park,7.7,3019,3,4.5,hike23,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,3.2,928,2,4.6,hike24,0,1,0,1,0,0,1,1,1,1,0,1
+Red Rocks Park,4.5,755,1,4.0,hike25,1,0,0,1,1,0,0,0,0,0,0,1
+Eldorado Canyon State Park,6.6,2253,2,4.2,hike26,0,1,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.4,1838,3,4.9,hike27,0,1,0,0,0,0,1,1,1,1,0,1
+Roosevelt National Forest,5.4,1444,3,4.5,hike28,0,1,0,1,0,1,0,1,1,1,0,1
+Jefferson County Open Space,4.2,961,2,4.0,hike29,1,0,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,1.7,312,1,4.3,hike30,0,1,0,0,1,0,1,1,0,1,0,1
+White River National Forest,6.2,3347,3,4.3,hike31,0,1,0,1,0,1,0,1,1,1,0,1
+Arapaho National Forest,6.4,1786,2,4.6,hike32,0,1,0,1,0,0,0,1,1,1,0,1
+Pike National Forest,23.0,7508,3,4.5,hike33,0,1,0,1,0,1,0,1,0,1,0,1
+Indian Peaks Wilderness,4.5,479,1,4.5,hike34,1,0,0,1,1,0,1,0,1,1,0,1
+Rocky Mountain National Park,0.7,59,1,4.2,hike35,1,0,0,0,1,0,1,1,1,1,0,1
+Indian Peaks Wilderness,3.6,853,2,4.3,hike36,0,1,0,1,0,0,0,0,1,1,0,1
+Rocky Mountain National Park Wilderness,7.9,2584,2,4.7,hike37,0,1,0,0,0,0,1,0,1,0,0,1
+Windy Saddle Open Space Park,11.5,2586,3,4.2,hike38,0,1,0,1,0,1,0,1,1,1,0,1
+Red Rocks Park,1.5,388,1,3.9,hike39,1,0,0,1,1,0,0,0,0,0,0,1
+Pike National Forest,4.9,952,2,4.6,hike40,0,1,0,1,1,1,0,0,0,1,0,1
+Castlewood Canyon State Park,1.7,225,1,4.1,hike41,1,0,0,1,1,0,1,1,1,1,0,1
+South Dinosaur Park,5.9,1190,3,4.0,hike42,1,0,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,5.5,732,2,4.3,hike43,1,0,0,1,1,0,0,0,0,1,0,1
+North Cheyenne Park,1.8,499,1,4.2,hike44,0,1,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,13.6,4998,3,4.8,hike45,0,1,0,0,0,0,0,1,1,1,0,1
+Arapaho National Forest,4.8,1592,3,4.5,hike46,0,1,0,1,0,0,1,1,0,1,0,1
+Arapaho National Forest,3.9,1151,2,4.5,hike47,0,1,0,1,0,0,1,0,1,1,0,1
+Arapaho National Forest,2.8,989,1,4.6,hike48,0,1,0,1,1,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,3.9,808,2,4.7,hike49,0,1,0,1,1,1,0,0,1,1,0,1
+Boulder Mountain Park,6.0,2884,3,4.2,hike50,1,0,0,1,0,0,0,0,0,1,0,1
+Echo Lake Park,8.7,1972,3,4.6,hike51,0,1,0,0,0,0,0,1,1,1,0,1
+White River National Forest,3.3,459,1,4.0,hike52,0,1,0,1,1,0,0,0,1,1,0,0
+Roosevelt National Forest,2.6,404,1,3.9,hike53,0,1,0,1,1,1,0,0,1,0,0,1
+Indian Peaks Wilderness,28.6,7085,2,4.8,hike54,1,0,0,1,0,1,0,1,1,1,0,1
+San Juan National Forest,6.1,2501,3,4.9,hike55,0,1,0,1,0,1,1,0,1,1,0,1
+Lost Creek Wilderness,9.6,1656,2,4.5,hike56,0,1,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,11.4,2678,2,4.7,hike57,0,1,0,0,0,0,1,1,1,1,0,1
+Rocky Mountain National Park,7.4,2492,3,4.6,hike58,0,1,0,0,0,0,0,0,0,0,0,1
+Boulder Mountain Park,2.7,858,2,3.8,hike59,0,1,0,1,1,0,0,0,0,1,0,1
+Gateway Mountain Park,7.4,2570,3,4.4,hike60,1,0,0,1,0,0,0,1,1,1,0,1
+South Valley Park,3.0,377,1,4.1,hike61,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,7.6,3491,3,4.6,hike62,1,0,0,1,0,1,1,1,1,1,0,1
+Boulder Mountain Park,6.9,1483,2,4.1,hike63,0,0,1,1,1,0,0,0,0,1,0,1
+Mount Falcon Park,3.1,597,1,4.1,hike64,1,0,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,5.8,1853,2,4.2,hike65,0,1,0,1,1,0,1,0,0,1,0,1
+Roxborough State Park,2.2,272,1,4.2,hike66,1,0,0,0,1,0,0,0,0,1,0,1
+Eldorado Canyon State Park,3.5,1009,2,4.1,hike67,1,0,0,1,1,0,0,0,0,1,0,1
+Garden of the Gods,4.2,785,1,4.1,hike68,1,0,0,1,1,0,0,0,0,1,0,1
+Deer Creek Canyon Park,6.0,1446,2,4.1,hike69,1,0,0,1,0,0,1,0,0,0,0,1
+Rocky Mountain National Park,5.7,1120,2,4.5,hike70,0,1,0,0,0,0,1,0,1,1,0,1
+North Cheyenne Park,0.1,30,1,3.6,hike71,0,1,0,1,1,0,1,0,0,1,0,1
+Colorow Mountain Park,6.9,1758,3,3.8,hike72,0,1,0,1,0,0,0,0,0,1,0,1
+Walker Ranch Park,7.5,1943,3,4.4,hike73,1,0,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,4.1,1474,3,3.9,hike74,0,1,0,1,0,0,0,0,0,1,0,1
+Palmer Park,7.9,1080,2,4.1,hike75,1,0,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,6.3,2491,2,4.9,hike76,0,1,0,1,0,1,1,1,1,1,0,1
+White River National Forest,4.0,972,1,4.8,hike77,0,1,0,1,1,0,0,0,0,1,0,1
+Arapaho National Forest,7.6,3622,3,4.3,hike78,1,0,0,1,0,0,0,1,0,1,0,1
+Devil's Backbone Open Space,4.4,617,1,3.9,hike79,0,1,0,1,1,0,0,0,0,1,0,1
+Mount Falcon Park,9.1,2036,1,3.9,hike80,1,0,0,1,1,0,0,0,0,1,0,1
+Chatfield State Park,12.4,1049,1,3.8,hike81,0,1,0,0,1,0,0,1,0,1,0,0
+Arapaho National Forest,6.2,1821,2,4.5,hike82,1,0,0,1,0,0,0,0,1,1,0,1
+Arapaho National Forest,13.2,4500,3,4.7,hike83,0,1,0,1,0,0,0,1,0,0,0,1
+Centennial Park,2.1,1002,1,4.1,hike84,1,0,0,1,1,0,0,0,0,1,0,1
+Lory State Park,3.0,1163,2,4.2,hike85,0,1,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,7.3,1576,2,4.2,hike86,0,1,0,0,0,0,1,1,1,1,0,1
+White Ranch Open Space Park,11.9,2723,3,4.0,hike87,1,0,0,1,0,0,0,0,0,0,0,0
+Arapaho National Forest,8.1,1960,2,4.3,hike88,0,1,0,1,0,0,0,1,0,1,0,1
+Golden Gate Canyon State Park,6.8,1687,2,4.5,hike89,1,0,0,1,0,0,0,1,0,1,0,1
+Bear Creek Regional Park,5.2,2033,2,4.3,hike90,1,0,0,1,0,0,0,0,0,1,0,1
+Boulder Mountain Park,7.8,3084,3,4.5,hike91,0,1,0,0,0,0,0,0,0,1,0,1
+Pike National Forest,2.2,914,2,4.3,hike92,0,1,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,4.1,830,1,4.2,hike93,0,1,0,1,1,0,0,1,1,1,0,1
+Pike National Forest,4.6,1198,2,4.5,hike94,0,1,0,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,3.8,1465,2,4.1,hike95,0,1,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,6.6,2155,2,4.3,hike96,0,1,0,0,0,0,0,0,1,1,0,1
+Routt National Forest,0.8,124,2,4.3,hike97,1,0,0,1,1,0,1,1,0,1,0,1
+Deer Creek Canyon Park,9.8,2189,2,4.2,hike98,1,0,0,1,0,0,0,1,0,1,0,1
+Roosevelt National Forest,6.3,1529,2,4.8,hike99,0,1,0,1,1,0,1,1,1,1,0,1
+Pike National Forest,12.8,4612,3,4.2,hike100,0,1,0,1,0,1,1,1,1,0,0,1
+Arapaho National Forest,9.0,2887,2,4.5,hike101,0,1,0,1,0,1,1,1,1,1,0,1
+Pike National Forest,2.6,589,2,4.1,hike102,0,1,0,1,1,0,1,1,0,0,0,1
+Maroon Bells Snowmass Wilderness,25.2,8415,2,4.8,hike103,1,0,0,1,0,1,1,1,1,1,0,1
+White River National Forest,20.2,4783,3,4.7,hike104,0,1,0,0,0,1,1,1,0,1,0,1
+Rocky Mountain National Park,3.7,895,2,4.5,hike105,0,1,0,0,0,0,1,0,1,0,0,1
+Rocky Mountain National Park,2.9,625,2,4.1,hike106,1,0,0,0,1,0,0,0,1,0,0,1
+Roosevelt National Forest,3.6,466,1,4.5,hike107,0,1,0,1,1,1,0,1,0,1,0,1
+"Golden, Colorado",13.4,1906,2,3.9,hike108,1,0,0,1,0,0,0,0,0,1,0,1
+Boulder Mountain Park,1.2,450,1,3.9,hike109,0,1,0,0,1,0,0,0,0,1,0,1
+Roxborough State Park,6.3,1130,2,4.1,hike110,0,1,0,0,0,0,0,0,0,1,0,1
+Castlewood Canyon State Park,6.0,851,1,4.2,hike111,1,0,0,1,1,0,1,1,0,1,0,1
+San Isabel National Forest,22.6,9615,3,4.6,hike112,0,1,0,1,0,1,0,1,0,1,0,1
+Bear Creek Park,8.1,2987,3,4.4,hike113,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,3.3,700,2,4.5,hike114,0,1,0,0,0,1,0,1,1,1,0,1
+North Cheyenne Park,6.8,1746,1,4.0,hike115,0,1,0,1,1,0,1,1,0,1,0,1
+Rocky Mountain National Park,9.7,2275,2,5.0,hike116,1,0,0,0,0,0,1,1,1,1,0,1
+Elk Meadow Park,4.2,646,1,4.1,hike117,1,0,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.4,2880,3,4.5,hike118,0,1,0,0,0,0,0,0,0,0,0,1
+Madema Park,8.7,1843,3,4.0,hike119,1,0,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,6.1,1038,2,4.2,hike120,0,1,0,0,0,0,1,0,0,0,0,1
+Rocky Mountain National Park,5.9,1455,2,4.2,hike121,0,1,0,0,0,0,0,0,0,0,0,1
+Arapaho National Forest,7.9,3675,1,4.3,hike122,1,0,0,1,1,0,0,1,0,1,0,1
+Ute Valley Park,3.5,433,2,4.1,hike123,1,0,0,1,1,0,0,1,0,1,0,1
+Rocky Mountain National Park,7.4,758,1,4.3,hike124,0,1,0,0,1,0,1,1,0,1,0,0
+Lair o' the Bear Park,14.5,2528,2,4.2,hike125,0,1,0,1,0,0,0,0,0,1,0,1
+Mount Falcon Park,4.1,624,2,4.1,hike126,1,0,0,1,1,0,0,0,0,1,0,1
+Cascade Chipita Park,6.9,1360,2,4.1,hike127,1,0,0,0,1,1,0,0,0,1,0,1
+Roosevelt National Forest,6.7,997,1,4.1,hike128,1,0,0,0,1,1,0,0,1,1,0,1
+White River National Forest,7.1,3247,3,4.5,hike129,0,1,0,1,0,0,0,0,0,0,0,1
+Holy Cross Wilderness,4.8,1378,2,4.0,hike130,0,1,0,1,1,0,0,0,1,1,0,1
+Boulder Mountain Park,2.7,772,2,4.4,hike131,0,1,0,1,0,0,0,0,0,1,0,1
+Sunset Park,4.1,1378,2,3.9,hike132,1,0,0,1,1,0,0,1,1,1,0,1
+Eldorado Canyon State Park,4.0,571,1,4.5,hike133,0,1,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,7.9,2669,3,4.8,hike134,0,1,0,1,0,0,0,0,0,1,0,1
+Bear Creek Lake Regional Park,9.6,759,1,3.3,hike135,1,0,0,1,0,1,0,1,1,0,0,0
+Jefferson County Open Space,4.2,960,2,3.8,hike136,1,0,0,1,0,0,0,0,0,0,0,0
+Pike National Forest,2.6,267,1,4.3,hike137,0,1,0,1,1,0,0,0,1,0,0,0
+Walter Byron Memorial Park,3.2,1423,3,4.5,hike138,0,1,0,1,0,0,0,0,0,0,0,1
+Golden Gate Canyon State Park,4.0,984,2,4.3,hike139,0,1,0,1,1,1,0,0,0,1,0,0
+Meeker Park,5.8,1432,2,4.4,hike140,0,1,0,0,0,0,1,1,0,0,0,1
+Roosevelt National Forest,2.6,472,1,4.5,hike141,1,0,0,1,1,0,1,1,1,0,0,1
+Pike National Forest,6.9,1988,3,4.3,hike142,0,1,0,1,0,0,0,0,0,1,0,1
+Holy Cross Wilderness,7.2,1652,2,4.8,hike143,0,1,0,1,0,1,1,1,1,1,0,1
+Viestenz Smith Mountain Park,10.5,3274,2,4.1,hike144,0,1,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,9.4,2201,3,4.8,hike145,0,1,0,0,0,0,1,1,1,1,0,1
+Golden Gate Canyon State Park,4.8,1114,2,4.2,hike146,1,0,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,0.8,43,1,3.9,hike147,1,0,0,0,1,0,0,0,1,0,0,1
+Pike National Forest,4.8,2068,2,3.9,hike148,0,1,0,1,1,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,11.3,6032,2,4.8,hike149,0,1,0,1,0,0,0,1,1,1,0,1
+Pike National Forest,8.5,3118,2,4.5,hike150,0,1,0,1,0,0,0,0,0,0,0,0
+White Ranch Open Space Park,4.6,915,2,4.3,hike151,1,0,0,1,1,0,0,0,0,1,0,1
+White River National Forest,12.5,6307,3,4.6,hike152,0,1,0,1,0,1,0,0,0,1,0,1
+Pike National Forest,3.6,2101,3,4.3,hike153,0,1,0,1,0,0,1,1,0,1,0,1
+Arapaho National Forest,6.6,981,1,4.5,hike154,0,1,0,1,1,0,1,1,1,1,0,1
+Rocky Mountain National Park,2.8,483,2,4.6,hike155,0,1,0,0,0,1,1,1,1,1,0,1
+Beverly Heights Park,8.0,1732,2,3.8,hike156,0,1,0,1,0,0,0,0,0,1,0,1
+Garden of the Gods,2.5,415,2,4.1,hike157,1,0,0,1,1,0,0,0,0,1,0,1
+South Table Mountain Park,9.3,1259,1,3.9,hike158,1,0,0,0,1,0,0,0,0,1,0,1
+Red Rock Canyon Open Space,4.1,557,2,3.9,hike159,1,0,0,0,1,0,0,0,0,1,0,1
+Betasso Preserve,3.3,571,2,3.9,hike160,1,0,0,1,1,0,0,0,1,1,0,1
+Pike National Forest,3.7,1323,2,4.9,hike161,0,1,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,4.9,435,1,4.1,hike162,1,0,0,1,1,0,0,0,0,1,0,1
+Pence Park,1.8,764,2,4.3,hike163,0,1,0,1,0,0,0,0,0,1,0,1
+Roxborough State Park,2.8,530,1,4.2,hike164,1,0,0,0,1,0,0,0,0,1,0,1
+Staunton State Park,11.6,2225,1,4.0,hike165,1,0,0,1,1,0,1,1,1,1,0,1
+Roosevelt National Forest,2.7,547,2,3.8,hike166,1,0,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.5,2088,2,4.7,hike167,0,1,0,0,0,1,0,1,1,1,0,1
+Eagles Nest Wilderness,8.5,2916,3,4.6,hike168,0,1,0,1,0,0,1,0,1,1,0,1
+Reynolds Ranch County Park,2.2,689,2,4.2,hike169,1,0,0,1,1,0,0,0,0,1,0,1
+Red Rocks Park,3.2,1973,3,4.2,hike170,0,1,0,1,0,0,0,0,0,1,0,1
+Fossil Ridge Wilderness,6.0,1546,2,4.4,hike171,0,1,0,1,1,1,0,0,1,1,0,1
+Roosevelt National Forest,3.5,297,1,3.5,hike172,1,0,0,1,1,0,0,0,0,1,0,1
+Arapaho National Forest,4.1,546,2,4.3,hike173,1,0,0,1,0,0,1,1,1,1,0,1
+White River National Forest,6.2,1621,2,4.4,hike174,0,1,0,0,0,0,0,0,0,1,0,1
+Mount Massive Wilderness,8.8,4463,3,4.7,hike175,0,1,0,1,0,1,0,0,0,1,0,1
+Eagles Nest Wilderness,11.6,2586,2,4.8,hike176,0,1,0,1,0,0,1,1,0,1,0,1
+Platt Park,0.4,94,1,3.3,hike177,0,1,0,1,1,0,1,0,0,1,0,1
+Roosevelt National Forest,10.8,2070,2,4.6,hike178,0,1,0,1,0,0,0,1,1,1,0,1
+Boulder Mountain Park,3.4,1458,3,4.0,hike179,1,0,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,6.2,1981,2,4.5,hike180,0,1,0,0,0,0,0,0,0,1,0,1
+Bluffs Regional Park,2.8,410,1,4.1,hike181,1,0,0,1,1,0,0,0,0,0,0,1
+Jefferson County Open Space,13.3,2665,2,3.8,hike182,1,0,0,1,0,0,0,1,0,1,0,1
+Pike National Forest,3.5,2385,2,3.8,hike183,0,1,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,6.1,846,1,3.8,hike184,1,0,0,0,1,0,0,0,1,1,0,1
+Roosevelt National Forest,1.9,254,1,4.5,hike185,0,1,0,1,1,0,0,1,1,1,0,1
+Bohn Park,3.9,530,2,3.9,hike186,1,0,0,1,1,0,0,0,0,1,0,1
+White River National Forest,8.7,1426,2,3.8,hike187,0,1,0,1,0,0,1,1,0,1,0,1
+Pike National Forest,15.3,3473,2,4.3,hike188,0,1,0,1,0,1,0,0,1,1,0,0
+Ajax Park,5.5,3188,3,4.7,hike189,0,1,0,0,0,0,0,0,0,1,0,1
+Lair o' the Bear Park,1.6,291,1,3.5,hike190,1,0,0,1,1,0,0,1,0,1,0,1
+Chatfield State Park,6.9,2361,3,4.1,hike191,0,1,0,0,0,0,0,0,0,1,0,1
+Golden Gate Canyon State Park,6.4,1837,3,4.4,hike192,1,0,0,1,0,0,0,0,0,0,0,1
+San Juan National Forest,9.2,1843,2,4.4,hike193,0,1,0,1,0,1,1,1,0,1,0,1
+"Fort Collins, Colorado",4.1,593,1,4.3,hike194,0,1,0,0,1,0,0,0,0,0,0,1
+South Dinosaur Park,7.1,1324,2,3.8,hike195,1,0,0,1,0,0,0,0,0,0,0,0
+Elk Meadow Park,10.3,2431,2,4.2,hike196,1,0,0,1,0,0,0,0,0,1,0,1
+Palmer Park,4.1,633,2,4.1,hike197,1,0,0,1,1,0,0,0,0,1,0,1
+Golden Gate Canyon State Park,3.3,830,2,4.1,hike198,1,0,0,1,0,1,0,0,0,1,0,1
+Arapaho National Forest,2.3,1142,3,4.6,hike199,0,1,0,1,0,0,0,0,1,1,0,1
+White River National Forest,8.5,2598,3,4.5,hike200,0,1,0,1,0,0,0,0,1,1,0,1
+"Boulder, Colorado",8.1,3143,3,4.3,hike201,1,0,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,5.5,1410,2,4.4,hike202,0,1,0,1,0,0,0,0,0,0,0,0
+"Morrison, Colorado",3.2,1973,2,3.9,hike203,0,1,0,1,0,0,0,0,0,1,0,1
+Roosevelt National Forest,4.2,1135,2,5.0,hike204,0,1,0,0,0,0,0,0,0,1,0,1
+Golden Gate Canyon State Park,6.1,1691,1,4.4,hike205,0,1,0,0,1,0,0,1,0,1,0,1
+Garden of the Gods,0.6,120,1,4.0,hike206,1,0,0,1,1,0,0,0,0,1,0,1
+Dillon Reservoir Recreation Area,2.7,642,1,3.8,hike207,0,1,0,1,1,0,0,0,1,0,0,1
+"Golden, Colorado",4.6,1017,2,3.8,hike208,1,0,0,1,0,0,0,0,0,1,0,1
+Ofallon Municipal Park,3.7,978,2,3.8,hike209,1,0,0,0,0,0,0,0,0,1,0,1
+Uncompahgre Wilderness,4.5,1170,2,4.5,hike210,0,1,0,1,1,1,1,1,1,1,0,1
+Pike National Forest,13.7,1347,2,4.3,hike211,1,0,0,1,0,1,0,0,1,1,0,1
+Roosevelt National Forest,10.0,1602,2,4.0,hike212,1,0,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,1.4,453,2,4.5,hike213,0,1,0,1,1,0,0,0,0,1,0,1
+Meyer Ranch Park,3.9,916,1,3.8,hike214,1,0,0,0,1,0,0,0,0,1,0,0
+Boulder Mountain Park,3.9,1281,2,4.3,hike215,1,0,0,1,0,0,0,0,0,0,0,1
+San Juan National Forest,3.1,494,1,4.5,hike216,1,0,0,1,1,0,0,0,1,0,0,0
+"Breckenridge, Colorado",1.8,378,2,4.4,hike217,0,1,0,1,0,0,1,1,1,1,0,0
+San Juan National Forest,5.9,1570,2,4.4,hike218,1,0,0,1,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,0.8,136,1,4.0,hike219,1,0,0,0,1,0,1,1,0,0,0,1
+Arapaho National Forest,3.0,1115,2,4.5,hike220,0,1,0,1,0,0,0,1,0,1,0,1
+Fillius Park,4.5,1194,2,3.7,hike221,1,0,0,1,1,0,1,0,0,1,0,1
+White River National Forest,5.6,2160,3,4.7,hike222,0,1,0,1,0,1,1,1,1,1,0,1
+White River National Forest,7.9,1914,2,4.1,hike223,0,1,0,1,0,0,0,1,0,1,0,1
+Deer Creek Canyon Park,2.1,240,1,3.9,hike224,1,0,0,1,1,0,0,0,1,1,0,0
+Roosevelt National Forest,9.7,2102,3,4.9,hike225,0,1,0,0,0,0,1,0,1,1,0,1
+Rocky Mountain National Park,1.1,225,1,4.2,hike226,1,0,0,0,1,0,0,0,1,1,0,0
+East Boulder Community Park,6.6,188,1,3.6,hike227,0,1,0,1,1,0,0,1,0,1,0,1
+Golden Gate Canyon State Park,8.1,1870,2,4.1,hike228,1,0,0,0,0,1,0,0,0,1,0,1
+Arapaho National Forest,4.3,1096,2,4.2,hike229,0,1,0,1,0,0,0,0,1,1,0,1
+Pike National Forest,4.4,502,2,3.9,hike230,1,0,0,1,1,0,0,0,0,1,0,1
+Mount Evans Wilderness,3.6,1926,3,4.4,hike231,1,0,0,1,0,0,0,0,1,1,0,1
+Indian Peaks Wilderness,12.5,3656,2,4.4,hike232,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,15.5,1917,3,4.3,hike233,0,1,0,1,0,0,1,1,1,1,0,1
+Arapaho National Forest,5.7,1052,1,4.0,hike234,0,1,0,1,1,0,0,1,1,1,0,1
+Meyer Ranch Park,4.1,906,2,4.0,hike235,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,3.0,1180,2,4.6,hike236,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,5.8,1737,2,4.4,hike237,0,1,0,1,1,0,0,1,0,0,0,1
+Gunnison National Forest,2.3,494,1,4.5,hike238,0,1,0,1,1,0,1,1,1,1,0,1
+Roosevelt National Forest,7.6,2712,3,4.3,hike239,0,1,0,1,0,0,0,0,1,1,0,1
+Rocky Mountain National Park,8.7,2138,2,4.6,hike240,0,1,0,0,0,1,0,0,1,1,0,1
+Garden of the Gods,5.8,1468,2,3.7,hike241,0,1,0,1,1,0,1,1,0,0,0,1
+Mt Massive Wilderness Area,12.9,4556,3,4.6,hike242,0,1,0,1,0,1,0,0,0,1,0,1
+Rocky Mountain National Park,0.3,98,1,4.3,hike243,0,1,0,0,1,0,1,1,0,1,0,0
+Winter Park,5.8,1047,1,3.5,hike244,1,0,0,1,1,0,0,0,0,0,0,0
+Rocky Mountain National Park,16.0,3411,3,4.8,hike245,0,1,0,0,0,0,0,1,1,0,0,1
+Arapaho National Forest,7.3,1228,2,4.6,hike246,0,1,0,1,0,0,0,0,1,1,0,0
+James Peak Wilderness,6.8,1692,2,4.3,hike247,0,1,0,1,0,0,1,1,1,1,0,0
+Rio Grande National Forest,0.9,233,2,4.4,hike248,0,1,0,1,1,0,1,1,0,1,0,1
+Rocky Mountain National Park,9.6,3282,3,4.8,hike249,0,1,0,0,0,0,0,0,1,1,0,1
+Eagles Nest Wilderness,6.0,871,2,4.4,hike250,0,1,0,0,1,0,1,1,1,1,0,1
+San Isabel National Forest,4.3,890,1,4.3,hike251,0,1,0,1,1,0,1,1,1,1,0,1
+North Cheyenne Park,3.0,1387,2,4.5,hike252,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.3,1371,2,4.4,hike253,0,0,1,0,0,1,1,1,1,1,0,1
+Arapaho National Forest,7.3,2008,2,4.7,hike254,0,1,0,1,0,0,0,0,0,1,0,1
+Eagles Nest Wilderness,6.8,1656,3,4.1,hike255,0,1,0,1,0,0,0,1,1,1,0,1
+"Idaho Springs, Colorado",27.1,7561,1,4.7,hike256,0,0,1,1,0,0,0,0,1,0,0,0
+Pike National Forest,0.7,303,1,4.0,hike257,0,1,0,1,1,0,1,0,0,1,0,1
+White River National Forest,8.3,1920,1,3.9,hike258,0,1,0,0,0,1,0,0,1,0,0,0
+Rocky Mountain National Park Wilderness,10.3,2044,2,4.5,hike259,0,1,0,0,0,1,1,1,1,1,0,1
+Pike National Forest,3.0,589,2,4.6,hike260,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,4.0,1190,2,4.7,hike261,0,1,0,1,1,1,1,1,1,1,0,1
+Castlewood Canyon State Park,4.1,382,2,4.3,hike262,1,0,0,0,0,0,0,0,0,0,0,0
+White River National Forest,2.4,256,1,4.5,hike263,1,0,0,1,1,0,1,0,1,1,0,0
+Kingdow Park,5.9,990,2,4.1,hike264,0,1,0,0,1,1,0,1,0,1,0,1
+Hunter Fryingpan Wilderness,5.3,1251,2,4.6,hike265,1,0,0,1,1,0,1,1,0,1,0,1
+San Isabel National Forest,4.2,966,2,4.9,hike266,1,0,0,1,0,1,0,0,0,1,0,1
+Routt National Forest,8.9,1609,2,4.5,hike267,0,1,0,1,1,0,0,0,0,0,0,0
+Arapaho National Forest,8.6,2185,3,4.5,hike268,0,1,0,0,0,1,0,1,1,0,0,1
+White River National Forest,2.8,439,1,3.9,hike269,0,1,0,1,1,0,0,0,0,1,0,1
+North Cheyenne Park,4.1,846,2,4.3,hike270,1,0,0,1,0,0,0,0,1,1,0,1
+Collegiate Peaks Wilderness,9.0,4056,3,4.4,hike271,0,1,0,0,0,1,0,1,0,1,0,1
+Rocky Mountain National Park,9.3,2544,2,4.8,hike272,0,1,0,0,0,0,0,0,1,1,0,1
+"Golden, Colorado",3.1,702,3,4.3,hike273,1,0,0,1,0,0,0,0,1,0,0,0
+Roosevelt National Forest,2.2,420,1,4.3,hike274,0,1,0,1,1,1,1,0,1,1,0,1
+Uncompahgre National Forest,8.9,3741,3,4.4,hike275,0,1,0,1,0,1,1,1,1,1,0,1
+Arapaho National Forest,2.9,725,2,4.5,hike276,0,1,0,0,1,0,0,0,0,1,0,1
+Staunton State Park,8.6,1544,2,4.4,hike277,1,0,0,1,0,0,1,0,1,0,0,1
+"Colorado Springs, Colorado",5.9,1202,3,4.3,hike278,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,6.4,2321,2,4.0,hike279,0,1,0,1,0,1,0,1,0,1,0,1
+Denver Mountain Park Site,4.0,465,1,4.0,hike280,1,0,0,1,1,0,0,0,0,1,0,1
+Collegiate Peaks Wilderness,8.2,1799,2,4.5,hike281,0,1,0,1,0,0,0,1,1,1,0,1
+Golden Gate Canyon State Park,12.2,2544,2,4.4,hike282,1,0,0,0,0,1,0,0,0,1,0,1
+Riverbend Park,3.4,2080,3,4.6,hike283,0,1,0,0,0,0,0,0,0,0,0,1
+Sloans Lake Park,2.7,15,1,3.8,hike284,1,0,0,0,1,0,0,0,0,0,0,0
+"Wheat Ridge, Colorado",2.8,85,1,4.1,hike285,1,0,0,1,1,0,0,1,1,1,0,0
+Rocky Mountain National Park,13.3,2747,2,4.2,hike286,0,1,0,0,0,1,1,1,1,0,0,1
+North Cheyenne Park,7.0,1492,3,3.8,hike287,0,1,0,0,0,0,0,0,0,1,0,0
+White River National Forest,3.9,1691,2,4.2,hike288,0,1,0,1,0,0,0,0,0,0,0,1
+White River National Forest,4.0,1163,2,4.0,hike289,0,1,0,1,0,0,0,0,0,1,0,1
+Elk Meadow Park,9.4,2313,3,4.0,hike290,0,1,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,11.1,3425,3,4.3,hike291,0,1,0,1,0,0,0,1,0,1,0,1
+Echo Lake Park,1.3,76,1,3.7,hike292,1,0,0,1,1,0,0,0,1,0,0,1
+Pike National Forest,3.9,1420,3,4.2,hike293,0,1,0,0,0,0,0,1,0,1,0,1
+Rocky Mountain National Park,3.5,654,1,4.1,hike294,0,1,0,0,1,0,1,1,0,1,0,1
+East Boulder Community Park,3.0,36,1,4.3,hike295,1,0,0,1,1,0,0,1,1,1,0,1
+Rocky Mountain National Park,9.7,1870,2,4.5,hike296,0,1,0,0,0,0,1,1,1,1,0,1
+White River National Forest,1.2,152,1,4.6,hike297,1,0,0,1,1,1,1,0,0,1,0,1
+Great Sand Dunes National Park,4.5,1107,3,4.4,hike298,1,0,0,1,0,1,1,1,0,0,0,1
+Cherry Creek State Park,8.9,361,1,3.7,hike299,1,0,0,0,1,0,0,0,1,1,0,1
+Roosevelt National Forest,10.8,1674,3,4.6,hike300,0,1,0,0,0,0,0,0,0,1,0,1
+"Nederland, Colorado",6.2,2738,3,4.4,hike301,0,0,1,1,0,0,0,0,1,0,0,0
+Pike National Forest,9.3,1149,2,4.0,hike302,1,0,0,0,0,0,0,0,0,1,0,1
+"Calhan, Colorado",3.6,398,1,4.1,hike303,1,0,0,0,1,0,0,0,0,1,0,1
+"Boulder, Colorado",1.7,254,1,4.1,hike304,0,1,0,1,1,0,0,0,1,0,0,0
+"Franktown, Colorado",2.8,145,1,3.7,hike305,1,0,0,1,1,0,0,0,0,0,0,1
+Rocky Mountain National Park Wilderness,6.1,1376,2,4.6,hike306,0,1,0,0,0,0,0,0,1,0,0,1
+White River National Forest,11.5,3288,2,4.8,hike307,0,1,0,1,0,0,0,0,0,1,0,1
+Viestenz Smith Mountain Park,9.8,3394,2,4.4,hike308,0,1,0,0,0,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,12.7,3530,3,4.6,hike309,0,1,0,0,0,1,0,0,1,1,0,1
+White River National Forest,19.5,2332,1,4.5,hike310,0,1,0,0,0,0,0,0,0,0,0,1
+Arapaho National Forest,2.8,1672,3,4.3,hike311,0,1,0,0,0,0,0,0,0,1,0,1
+Falcon Stadium,13.1,1574,2,4.2,hike312,1,0,0,0,0,0,0,0,0,0,0,1
+Roosevelt National Forest,5.6,2594,3,4.8,hike313,0,0,1,1,0,0,0,0,1,0,0,0
+Roosevelt National Forest,13.0,2261,2,4.6,hike314,0,1,0,1,0,1,0,1,1,0,0,0
+White River National Forest,13.5,4442,1,4.4,hike315,0,1,0,1,0,0,0,0,1,1,0,1
+Rocky Mountain National Park,4.4,1468,2,3.8,hike316,0,1,0,0,0,0,1,1,0,1,0,0
+Roosevelt National Forest,3.7,1078,2,4.1,hike317,0,1,0,1,1,0,0,0,0,1,0,1
+Routt National Forest,8.5,2111,2,4.7,hike318,0,1,0,1,0,0,0,0,1,1,0,1
+White River National Forest,7.3,2110,2,4.4,hike319,0,1,0,1,1,1,0,1,1,1,0,1
+Uncompahgre National Forest,0.4,301,2,4.3,hike320,0,1,0,0,1,0,0,0,0,0,0,0
+"Boulder, Colorado",9.8,1312,2,4.1,hike321,1,0,0,0,0,0,0,0,0,0,0,1
+Black Ridge Canyons Wilderness,14.1,3048,2,4.8,hike322,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,7.4,1039,2,4.7,hike323,0,1,0,1,0,0,1,0,1,0,0,1
+White River National Forest,41.7,10394,3,4.6,hike324,0,0,1,1,0,1,0,1,1,1,0,1
+"Pagosa Springs, Colorado",5.5,1422,2,4.1,hike325,0,1,0,0,0,0,1,1,0,0,0,1
+Boulder Mountain Park,4.1,991,2,4.0,hike326,1,0,0,1,0,0,0,0,0,0,0,0
+Gunnison National Forest,7.8,2258,2,4.5,hike327,0,1,0,1,0,1,0,0,0,1,0,1
+San Isabel National Forest,7.0,3400,3,4.0,hike328,0,1,0,0,0,1,0,0,0,0,0,1
+Ute Valley Park,3.0,1499,1,3.1,hike329,1,0,0,0,1,0,0,0,0,1,0,1
+Lions Park,22.8,963,1,3.5,hike330,0,1,0,1,1,0,0,1,1,1,0,1
+Swan Mountain Recreation Area,0.6,48,1,3.7,hike331,1,0,0,1,1,0,0,0,0,0,0,1
+White River National Forest,5.4,1730,2,4.3,hike332,0,1,0,1,0,0,1,1,0,1,0,0
+James Peak Wilderness,7.4,2934,3,4.5,hike333,0,1,0,1,0,0,0,0,1,1,0,1
+Chatfield State Park,1.7,33,1,4.9,hike334,1,0,0,1,1,0,0,0,1,0,0,0
+Pike National Forest,12.1,4339,3,4.5,hike335,0,1,0,1,0,0,0,0,0,0,0,1
+White River National Forest,11.9,2300,3,4.0,hike336,0,1,0,1,0,0,0,0,0,1,0,1
+Dillon Reservoir Recreation Area,1.7,224,1,4.1,hike337,0,1,0,0,1,0,0,0,0,0,0,0
+Walter Byron Memorial Park,2.1,240,2,3.7,hike338,0,1,0,0,1,0,0,0,1,1,0,1
+DeKoevend Park,2.4,53,1,3.7,hike339,1,0,0,0,1,0,0,0,0,0,0,0
+Golden Gate Canyon State Park,5.1,1363,2,4.2,hike340,1,0,0,0,1,0,0,0,0,1,0,1
+Ajax Park,14.5,3410,2,4.2,hike341,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,6.1,1887,2,4.4,hike342,0,0,1,0,0,1,0,0,1,0,0,0
+San Juan National Forest,11.0,1473,1,4.7,hike343,0,0,1,0,1,0,0,1,0,0,0,0
+North Cheyenne Park,7.0,1582,2,4.0,hike344,1,0,0,0,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,1.0,245,1,3.7,hike345,0,1,0,0,1,0,0,0,1,0,0,0
+San Isabel National Forest,11.8,3090,2,4.7,hike346,0,1,0,0,0,0,0,1,1,1,0,1
+Uncompahgre National Forest,4.4,2487,3,4.9,hike347,0,1,0,1,0,0,0,0,0,1,0,1
+"Bailey, Colorado",10.2,3003,2,4.1,hike348,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,3.0,1221,2,4.0,hike349,0,1,0,1,1,0,0,0,1,1,0,1
+Uncompahgre Wilderness,4.9,1640,2,4.6,hike350,1,0,0,1,1,0,1,0,0,1,0,1
+Roosevelt National Forest,7.6,1397,2,3.9,hike351,0,1,0,1,0,0,0,1,0,1,0,1
+San Isabel National Forest,7.1,3852,2,4.9,hike352,0,1,0,0,0,0,0,0,0,0,0,0
+Arapaho National Forest,6.1,1845,2,4.7,hike353,0,1,0,1,0,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,25.9,8223,3,5.0,hike354,1,0,0,0,0,1,0,1,0,1,0,1
+"Masonville, Colorado",4.1,466,1,4.0,hike355,1,0,0,0,1,0,0,0,0,1,0,0
+Mesa Verde National Park,0.4,117,1,4.7,hike356,1,0,0,0,1,0,0,0,0,1,0,1
+Hurricane Canyon Natural Area,17.4,6651,2,4.4,hike357,0,0,1,1,1,0,0,0,0,0,0,1
+Pike National Forest,6.0,2603,3,4.0,hike358,0,1,0,0,0,0,0,0,0,1,0,1
+Cottonwood Hollow Natural Area,19.0,352,1,3.7,hike359,0,1,0,1,1,0,0,1,1,1,0,1
+San Isabel National Forest,16.2,4482,3,4.5,hike360,1,0,0,0,0,0,0,0,0,1,0,1
+Two Rivers Park,5.9,1509,2,4.3,hike361,0,1,0,1,0,0,0,0,0,0,0,1
+Routt National Forest,9.7,1942,1,4.3,hike362,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,12.9,3155,3,4.4,hike363,1,0,0,0,0,0,1,0,0,1,0,1
+Uncompahgre National Forest,0.3,128,1,4.4,hike364,0,1,0,1,1,0,1,0,0,1,0,1
+Walker Ranch Park,5.4,917,2,3.8,hike365,0,1,0,1,1,0,0,0,0,1,0,1
+Colorado National Monument,6.7,904,2,4.4,hike366,1,0,0,1,0,0,0,0,0,1,0,1
+Apex Open Space Park,5.3,1238,2,4.1,hike367,1,0,0,1,1,0,0,0,0,0,0,1
+Arapaho National Forest,3.4,917,1,4.6,hike368,0,1,0,0,1,0,0,0,0,0,0,0
+Pike National Forest,11.2,1938,3,4.0,hike369,1,0,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,2.3,198,1,4.0,hike370,0,1,0,0,1,0,0,0,1,0,0,0
+White Ranch Open Space Park,4.1,1107,2,4.5,hike371,1,0,0,0,0,0,0,0,0,0,0,1
+Gates Crescent Park,11.2,591,1,3.8,hike372,0,0,1,1,1,0,0,1,0,1,0,1
+Rocky Mountain Arsenal Nwr,3.3,85,1,3.6,hike373,1,0,0,0,1,0,0,0,1,1,0,1
+"Carbondale, Colorado",2.9,884,2,4.2,hike374,1,0,0,1,0,0,0,0,0,1,0,1
+Routt National Forest,11.7,2670,3,4.2,hike375,0,1,0,0,0,0,1,1,1,0,0,1
+Town Park,3.1,1273,3,4.7,hike376,1,0,0,1,0,0,0,0,0,1,0,1
+Boulder Mountain Park,1.5,331,2,3.7,hike377,0,1,0,1,0,0,0,0,0,0,0,1
+Walter Byron Memorial Park,11.6,3065,2,4.3,hike378,0,1,0,1,0,0,1,1,1,1,0,1
+Dedisse Park,1.4,62,1,3.4,hike379,1,0,0,1,1,0,0,0,1,0,0,0
+Pike National Forest,14.4,4195,2,4.3,hike380,0,1,0,0,0,0,1,1,0,1,0,1
+Walter Byron Memorial Park,8.6,2330,2,4.2,hike381,0,1,0,1,0,0,0,0,0,0,0,1
+White River National Forest,12.7,3015,3,4.6,hike382,0,1,0,0,0,0,0,0,1,1,0,1
+Horsetooth Mountain Park,16.1,2099,2,3.8,hike383,0,1,0,1,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,5.3,2518,1,4.6,hike384,0,1,0,1,1,0,0,1,0,1,0,1
+Colorado National Monument,3.8,849,2,4.1,hike385,0,1,0,0,1,0,0,0,0,1,0,1
+Mount Evans Wilderness,10.1,2673,2,3.1,hike386,1,0,0,1,1,1,0,0,1,1,0,1
+Collegiate Peaks Wilderness,12.6,4613,3,4.8,hike387,0,1,0,1,0,1,0,1,1,1,0,1
+White River National Forest,8.2,2357,2,4.3,hike388,0,1,0,0,0,0,0,0,0,0,0,0
+"Boulder, Colorado",4.9,2732,3,4.9,hike389,0,1,0,1,0,0,0,0,0,1,0,1
+San Juan National Forest,11.8,2061,2,4.6,hike390,0,1,0,0,0,0,0,0,0,0,0,0
+"Loveland, Colorado",5.5,768,1,4.1,hike391,1,0,0,1,1,1,0,0,1,0,0,1
+"Golden, Colorado",5.0,1254,2,3.6,hike392,1,0,0,0,0,0,0,0,0,1,0,1
+Meyer Ranch Park,1.8,312,1,4.0,hike393,1,0,0,1,1,0,0,0,0,0,0,0
+San Juan National Forest,5.1,1510,2,4.4,hike394,0,1,0,1,1,1,1,1,1,1,0,0
+Fox Run Regional Park,2.3,295,1,3.6,hike395,1,0,0,1,1,0,0,0,0,1,0,1
+Hunter Fryingpan Wilderness,9.6,2614,3,4.9,hike396,0,1,0,1,0,0,0,1,1,1,0,1
+Chautauqua Park,2.9,1563,2,3.7,hike397,0,1,0,1,0,0,0,0,0,1,0,1
+Roxborough State Park,1.4,172,1,4.3,hike398,1,0,0,0,1,0,0,0,0,1,0,1
+Great Sand Dunes National Park,2.5,633,3,4.5,hike399,1,0,0,0,0,1,0,1,0,1,0,1
+Roosevelt National Forest,5.1,618,1,3.3,hike400,1,0,0,1,1,0,0,1,0,1,0,1
+Gothic Natural Area,16.3,3443,2,4.8,hike401,1,0,0,1,0,1,1,1,1,1,0,1
+Garden of the Gods,1.9,421,1,3.8,hike402,0,1,0,0,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,17.5,4929,2,4.8,hike403,0,0,1,1,1,0,0,0,0,1,0,1
+State Forest State Park,1.4,401,2,4.4,hike404,0,1,0,1,1,0,0,0,1,1,0,1
+Pike National Forest,19.7,4316,3,3.6,hike405,1,0,0,1,0,1,0,0,0,1,0,1
+Routt National Forest,10.1,1918,2,4.6,hike406,1,0,0,0,0,0,0,0,1,0,0,1
+Routt National Forest,5.7,1259,2,4.3,hike407,0,1,0,0,1,0,0,0,0,0,0,0
+Uncompahgre National Forest,9.3,4729,2,4.6,hike408,0,0,1,1,1,0,1,1,1,1,0,1
+Pike National Forest,5.9,2501,2,4.3,hike409,0,1,0,1,0,0,0,0,0,1,0,1
+Holy Cross Wilderness,9.6,2952,3,5.0,hike410,0,1,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,4.9,959,2,3.2,hike411,1,0,0,1,0,1,0,1,0,1,0,1
+Rifle Falls State Park,2.1,263,1,4.2,hike412,1,0,0,1,1,1,1,1,0,0,0,1
+Devil's Backbone Open Space,6.1,819,1,4.1,hike413,1,0,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,2.5,538,2,3.8,hike414,0,1,0,0,1,0,1,0,0,1,0,1
+Discovery Park,17.0,1438,1,3.7,hike415,0,0,1,1,1,0,0,0,1,1,0,1
+Pike National Forest,0.8,127,1,4.2,hike416,1,0,0,1,1,0,0,0,0,0,0,0
+"Aspen, Colorado",10.1,3350,3,5.0,hike417,0,0,1,0,0,0,0,0,0,0,0,1
+Arapaho National Forest,8.6,1299,3,4.7,hike418,0,1,0,0,0,0,0,0,1,1,0,1
+Bible Park,1.7,49,1,3.9,hike419,1,0,0,1,1,0,0,0,0,0,0,0
+Boulder Mountain Park,3.8,869,1,4.4,hike420,1,0,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,7.4,1489,3,4.2,hike421,0,1,0,1,0,0,0,0,0,0,0,1
+Routt National Forest,5.0,1051,2,4.7,hike422,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,5.3,2574,2,4.8,hike423,0,1,0,1,0,1,0,0,1,1,0,1
+Estes Park Goif Course,3.8,251,1,3.8,hike424,1,0,0,1,1,0,0,1,1,1,0,1
+Holy Cross Wilderness,25.5,4840,2,4.5,hike425,0,1,0,1,1,1,0,1,1,1,0,1
+Colorado National Monument,6.4,1189,2,4.5,hike426,0,1,0,0,0,0,1,1,0,1,0,1
+Arapaho National Forest,9.7,1862,2,3.9,hike427,0,1,0,0,1,1,0,0,1,1,0,1
+White River National Forest,5.1,2301,2,4.3,hike428,0,1,0,0,1,0,0,0,0,0,0,1
+Garden of the Gods,3.7,561,1,4.3,hike429,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,5.9,1280,3,4.5,hike430,0,1,0,0,0,0,0,0,1,0,0,0
+Roosevelt National Forest,3.2,519,1,3.9,hike431,0,1,0,1,1,0,1,1,0,1,0,0
+Echo Lake Park,2.9,874,2,4.6,hike432,1,0,0,1,1,0,0,0,0,1,0,0
+Mesa Verde National Park,2.7,583,2,4.5,hike433,1,0,0,0,1,0,0,0,0,1,0,1
+Grand Mesa National Forest,9.6,1885,2,4.7,hike434,1,0,0,1,0,0,0,0,0,1,0,1
+"Glenwood Springs, Colorado",0.8,228,2,4.2,hike435,0,1,0,1,0,0,0,0,0,1,0,1
+"Twin Lakes, Colorado",11.7,4847,3,4.6,hike436,0,1,0,0,0,0,0,0,0,1,0,1
+Fountain Creek Regional Park,1.7,53,1,4.0,hike437,1,0,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,6.6,1255,2,4.0,hike438,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,9.0,3621,3,4.4,hike439,0,1,0,1,0,0,0,0,1,1,0,1
+Rocky Mountain National Park,5.1,2147,2,5.0,hike440,0,1,0,0,0,0,0,0,0,0,0,1
+White River National Forest,2.9,1511,3,4.6,hike441,1,0,0,1,0,0,0,1,0,1,0,1
+Rocky Mountain National Park,11.2,2448,2,4.3,hike442,0,1,0,0,0,0,0,1,1,1,0,1
+Rocky Mountain National Park,11.5,2312,3,4.4,hike443,0,1,0,0,0,1,1,1,1,1,0,1
+"Morrison, Colorado",3.3,871,1,4.3,hike444,1,0,0,1,1,0,0,0,0,0,0,1
+White River National Forest,5.9,2027,3,4.5,hike445,0,1,0,0,0,0,0,0,1,0,0,0
+Pike National Forest,6.1,2752,3,3.9,hike446,1,0,0,0,0,0,0,0,0,1,0,1
+White River National Forest,6.9,1388,2,4.5,hike447,0,1,0,0,0,0,0,1,1,1,0,1
+Rocky Mountain National Park Wilderness,3.8,765,1,4.3,hike448,0,1,0,0,1,0,0,0,0,1,0,1
+Colorado National Monument,11.4,1997,2,4.4,hike449,0,1,0,0,0,0,0,0,0,1,0,1
+Mesa Verde National Park,15.0,2896,1,4.6,hike450,0,0,1,0,0,0,0,0,0,0,0,1
+Arapaho National Forest,5.5,1623,2,4.2,hike451,0,1,0,1,0,0,0,0,0,1,0,1
+Waverly Park,23.7,905,1,4.1,hike452,0,1,0,1,1,0,0,1,1,1,0,1
+San Isabel National Forest,10.0,5378,3,4.6,hike453,0,1,0,0,0,0,0,0,0,0,0,0
+Roosevelt National Forest,5.1,1730,2,3.4,hike454,0,0,1,1,0,0,0,1,0,1,0,1
+Rocky Mountain National Park,5.7,1976,1,4.3,hike455,0,1,0,0,1,0,0,0,0,1,0,1
+Golden Gate Canyon State Park,3.4,531,1,4.0,hike456,1,0,0,0,1,0,0,0,0,0,0,0
+Maroon Bells Snowmass Wilderness,1.7,172,1,5.0,hike457,1,0,0,0,1,0,1,0,1,1,0,1
+Austin Bluffs Open Space,4.4,700,1,3.7,hike458,1,0,0,1,1,0,0,0,0,1,0,1
+Arapaho National Forest,3.4,969,1,3.6,hike459,0,1,0,1,1,0,0,0,0,1,0,1
+Lost Creek Wilderness,21.9,3258,2,4.0,hike460,0,1,0,1,0,1,0,0,0,1,0,1
+"Boulder, Colorado",2.0,435,1,4.0,hike461,1,0,0,0,1,0,0,1,0,1,0,1
+Crown Hill Park,2.2,59,1,3.6,hike462,1,0,0,1,1,0,0,0,1,0,0,0
+"Leadville, Colorado",2.3,883,2,4.5,hike463,0,1,0,0,0,0,0,0,1,1,0,1
+White River National Forest,1.7,547,2,4.8,hike464,0,1,0,1,1,0,1,1,1,1,0,1
+Gunnison National Forest,4.8,448,1,4.3,hike465,0,1,0,1,1,0,1,1,0,0,0,1
+White River National Forest,9.0,2854,3,4.1,hike466,0,1,0,1,0,0,0,1,1,1,0,1
+Maroon Bells Snowmass Wilderness,18.3,3696,3,4.8,hike467,0,1,0,0,0,0,0,0,1,1,0,1
+Uncompahgre National Forest,1.0,388,1,4.5,hike468,0,1,0,0,1,0,0,0,0,1,0,1
+Sand Creek Park,1.5,105,1,3.6,hike469,1,0,0,0,1,0,0,1,1,1,0,1
+Arapaho National Forest,5.5,2096,2,4.6,hike470,0,1,0,0,0,0,0,0,0,1,0,1
+Cheyenne Mountain State Park,4.1,549,1,3.5,hike471,1,0,0,0,1,0,0,0,0,1,0,1
+Spring Canyon Community Park,4.1,600,1,3.6,hike472,0,1,0,1,1,0,0,0,0,0,0,0
+Grand Mesa National Forest,2.6,391,1,3.8,hike473,0,1,0,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,5.4,1053,2,3.8,hike474,0,1,0,1,1,1,0,1,0,1,0,1
+Arapaho National Forest,9.1,3125,3,4.8,hike475,0,1,0,0,0,0,0,0,0,0,0,1
+San Juan National Forest,4.1,395,1,4.1,hike476,1,0,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.0,1618,2,4.1,hike477,0,1,0,0,0,0,0,0,1,0,0,0
+"Boulder, Colorado",4.6,476,1,3.3,hike478,0,1,0,1,1,0,0,1,0,1,0,1
+Quail Lake Park,1.1,143,1,4.4,hike479,1,0,0,1,1,0,0,0,0,0,0,0
+Pine Valley Ranch Park,3.0,577,2,4.0,hike480,1,0,0,0,0,0,0,0,0,0,0,0
+Sangre de Cristo Wilderness,8.6,2944,2,4.6,hike481,0,1,0,1,0,0,1,0,1,1,0,1
+"Boulder, Colorado",2.9,239,1,3.9,hike482,1,0,0,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,4.8,1502,2,4.5,hike483,0,1,0,0,0,0,0,0,1,1,0,0
+Rio Grande National Forest,19.6,6937,3,4.7,hike484,0,1,0,1,0,0,0,1,1,1,0,1
+Castle Rock Ballfield,1.9,582,2,3.9,hike485,1,0,0,1,1,0,0,0,0,1,0,1
+"Fort Collins, Colorado",2.7,539,2,3.8,hike486,0,1,0,0,0,0,0,0,0,0,0,0
+Schneider Park,6.3,1062,2,3.8,hike487,1,0,0,1,0,0,0,0,0,1,0,1
+Indian Peaks Wilderness,13.3,2827,2,4.0,hike488,0,1,0,1,0,0,1,1,1,1,0,1
+White River National Forest,17.8,3938,2,4.6,hike489,0,1,0,0,0,1,0,0,0,0,0,1
+Castlewood Canyon State Park,4.5,710,2,4.6,hike490,1,0,0,1,1,0,1,1,0,1,0,1
+Roosevelt National Forest,4.6,602,1,4.4,hike491,0,1,0,1,1,0,0,0,0,0,0,0
+Roosevelt National Forest,4.2,1012,2,3.8,hike492,0,1,0,1,1,0,0,0,1,1,0,0
+Martin Park,3.0,764,1,4.2,hike493,1,0,0,0,1,0,0,0,0,0,0,0
+"Twin Lakes, Colorado",5.6,1608,2,4.0,hike494,0,1,0,1,0,0,0,1,1,1,0,1
+Eldorado Canyon State Park,2.6,554,2,3.9,hike495,1,0,0,1,1,0,0,1,0,1,0,1
+Perins Peak State Wildlife Area,8.1,1428,2,4.0,hike496,0,1,0,1,0,0,0,1,1,1,0,1
+"Breckenridge, Colorado",1.2,529,3,4.0,hike497,0,1,0,0,0,0,0,1,1,1,0,1
+White River National Forest,6.9,2021,2,4.2,hike498,1,0,0,1,0,0,1,1,1,1,0,1
+Arapaho National Forest,6.1,1848,2,4.5,hike499,0,1,0,0,0,0,0,0,0,1,0,1
+Horsetooth Mountain Park,9.2,2163,2,4.1,hike500,1,0,0,1,0,0,0,1,1,1,0,1
+South Platte Park,23.4,573,2,4.1,hike501,0,1,0,1,0,0,0,1,0,1,0,1
+Colorado National Monument,1.5,562,1,4.1,hike502,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,9.4,2102,2,4.1,hike503,0,1,0,1,0,0,0,0,0,1,0,1
+Cheyenne Mountain State Park,6.9,889,2,4.3,hike504,1,0,0,0,0,1,0,0,0,1,0,1
+Uncompahgre National Forest,9.2,1939,3,4.5,hike505,0,0,1,0,0,0,1,0,0,1,0,1
+White River National Forest,16.6,5297,3,4.9,hike506,0,1,0,1,0,1,0,0,1,1,0,1
+Rocky Mountain National Park,8.2,2519,2,4.1,hike507,0,1,0,0,0,0,0,0,1,1,0,1
+White River National Forest,4.6,488,2,4.2,hike508,0,1,0,1,1,0,0,0,0,1,0,1
+Cache La Poudre Wilderness,7.3,584,1,4.2,hike509,0,1,0,1,1,1,0,0,0,1,0,1
+Long Lake Ranch Park,29.2,1334,1,4.5,hike510,0,1,0,1,1,0,0,1,1,1,0,1
+San Juan National Forest,1.2,269,1,3.8,hike511,0,1,0,0,1,0,1,1,0,1,0,1
+Reservoir Ridge Natural Area,4.9,691,2,3.7,hike512,1,0,0,1,0,0,0,1,1,1,0,1
+Edora Park,2.6,107,1,4.2,hike513,0,0,1,0,1,0,0,0,0,0,0,0
+White River National Forest,17.9,3148,1,4.2,hike514,1,0,0,0,0,0,0,0,0,0,0,0
+Roosevelt National Forest,8.4,2158,2,4.7,hike515,0,1,0,0,0,1,0,0,1,1,0,0
+Arapaho National Forest,26.4,4655,1,4.6,hike516,0,1,0,0,0,0,0,0,0,0,0,0
+Garden of the Gods,3.3,503,2,4.2,hike517,1,0,0,0,1,0,0,0,0,1,0,1
+Pike National Forest,2.2,1587,2,4.2,hike518,0,0,1,0,0,0,0,0,1,1,0,1
+Hurricane Canyon Natural Area,2.1,468,2,3.3,hike519,0,1,0,1,0,0,0,0,0,0,0,0
+White River National Forest,2.9,344,1,3.1,hike520,0,1,0,0,1,0,0,0,0,1,0,0
+Arapaho National Forest,5.9,2207,2,4.6,hike521,1,0,0,0,0,0,0,0,0,0,0,0
+San Juan National Forest,12.8,3233,2,4.3,hike522,0,1,0,1,0,1,1,1,1,1,0,1
+Golden Gate Canyon State Park,4.6,1269,2,3.7,hike523,1,0,0,0,0,0,0,0,0,1,0,1
+American Flats Wilderness Area,13.0,5143,3,4.6,hike524,0,1,0,0,0,0,0,1,0,1,0,1
+Pike National Forest,5.2,1316,1,4.3,hike525,0,1,0,1,1,0,0,0,1,1,0,1
+Echo Lake Park,11.2,2495,2,4.0,hike526,0,1,0,1,0,0,0,1,0,1,0,1
+Maroon Bells Snowmass Wilderness,16.2,5429,3,4.8,hike527,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,13.4,2601,3,4.0,hike528,0,1,0,0,0,1,1,1,1,1,0,1
+Lory State Park,10.8,1940,3,3.7,hike529,1,0,0,1,0,1,0,0,0,1,0,1
+Commons Park,1.6,42,1,3.1,hike530,0,0,1,0,1,0,0,0,0,0,0,0
+"Henderson, Colorado",2.1,62,1,3.7,hike531,1,0,0,1,1,0,0,1,0,0,0,0
+Washington Park,2.4,56,1,4.1,hike532,1,0,0,0,1,0,0,0,0,0,0,0
+"Canon City, Colorado",1.9,520,1,4.0,hike533,0,0,1,1,1,0,0,1,0,0,0,1
+Black Forest Regional Park,2.9,352,1,3.1,hike534,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,24.7,3813,1,4.2,hike535,0,0,1,0,0,0,0,0,0,0,0,0
+White River National Forest,12.0,2621,1,4.9,hike536,0,1,0,0,1,0,0,0,0,1,0,1
+Cache La Poudre Wilderness,20.8,4680,3,4.4,hike537,0,1,0,1,0,1,0,0,0,1,0,1
+Roosevelt National Forest,9.1,2971,2,4.1,hike538,0,1,0,0,0,0,0,0,0,1,0,1
+Garden of the Gods,2.4,635,2,3.6,hike539,0,1,0,1,0,0,0,0,0,0,0,0
+"Durango, Colorado",5.7,1048,1,4.9,hike540,0,1,0,1,1,0,0,1,1,1,0,1
+Cottonwood Glen Park,4.2,310,1,3.5,hike541,1,0,0,0,1,0,0,0,1,1,0,1
+San Isabel National Forest,0.1,100,2,4.3,hike542,0,1,0,0,1,0,0,0,0,0,0,1
+White River National Forest,3.8,231,2,4.0,hike543,0,1,0,0,0,0,0,0,1,0,0,0
+Dominguez Canyon Wilderness,9.8,1195,1,4.2,hike544,0,1,0,1,0,1,1,1,0,0,0,1
+Hidden Mesa Open Space,7.3,584,2,3.7,hike545,1,0,0,1,0,0,0,1,0,1,0,1
+White River National Forest,18.6,1242,2,4.3,hike546,1,0,0,1,0,0,0,0,1,0,0,1
+San Isabel National Forest,12.6,6774,3,4.8,hike547,1,0,0,1,0,1,0,1,1,1,0,1
+Gunnison National Forest,9.0,1854,2,4.8,hike548,0,1,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,15.0,3300,3,4.8,hike549,0,1,0,0,0,0,0,1,1,1,0,1
+Arapaho National Forest,2.7,738,1,3.7,hike550,0,1,0,0,1,0,0,0,1,1,0,0
+Golden Gate Canyon State Park,3.0,1019,3,3.4,hike551,1,0,0,1,0,0,0,0,1,0,0,1
+Florissant Fossil Beds National Monument,1.6,125,1,3.4,hike552,1,0,0,0,1,0,0,0,0,0,0,1
+Cache La Poudre Wilderness,10.6,2863,2,3.8,hike553,0,1,0,1,0,0,0,0,0,1,0,1
+"Castle Rock, Colorado",1.9,262,2,3.8,hike554,1,0,0,1,0,0,0,1,0,0,0,1
+Black Canyon of the Gunnison National Park,1.6,514,1,4.4,hike555,0,1,0,0,1,0,0,1,0,0,0,1
+Mount Evans Wilderness,11.4,2269,3,4.0,hike556,1,0,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,10.5,2687,2,4.5,hike557,0,1,0,1,0,0,0,1,1,1,0,1
+Boulder Mountain Park,11.2,1784,3,3.6,hike558,0,1,0,1,0,0,0,1,0,1,0,0
+Mount Evans Wilderness,11.8,2993,2,4.3,hike559,0,0,1,0,0,0,0,0,1,1,0,1
+Curecanti National Recreation Area,3.4,962,3,4.8,hike560,0,1,0,1,0,0,0,1,0,0,0,1
+Roosevelt National Forest,6.5,1500,3,3.8,hike561,0,1,0,1,0,0,0,1,0,0,0,1
+Fort Carson Military Reservation,3.3,494,1,3.5,hike562,1,0,0,0,1,0,0,0,0,1,0,1
+"Jefferson, Colorado",6.0,1400,2,4.5,hike563,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,12.6,3092,3,5.0,hike564,0,1,0,0,0,1,1,0,1,1,0,1
+Mueller State Park,3.7,781,2,4.1,hike565,1,0,0,0,1,0,0,0,0,1,0,1
+"Pagosa Springs, Colorado",0.6,228,1,4.0,hike566,1,0,0,0,1,0,1,0,0,0,0,0
+San Isabel National Forest,1.1,507,2,4.0,hike567,0,1,0,1,0,0,0,0,0,0,0,0
+Pike National Forest,7.0,1192,2,3.9,hike568,0,1,0,1,0,0,0,0,0,1,0,1
+Eagles Nest Wilderness,19.9,3859,3,4.6,hike569,0,1,0,0,0,1,0,0,1,1,0,1
+Routt National Forest,3.6,1420,3,4.4,hike570,0,1,0,1,0,1,0,0,0,1,0,1
+Pine Valley Ranch Park,11.7,1838,2,4.0,hike571,1,0,0,0,0,0,0,0,0,1,0,1
+Colorado National Monument,13.4,2162,2,4.2,hike572,0,1,0,0,0,0,0,0,0,1,0,1
+"Superior, Colorado",10.6,860,2,3.7,hike573,0,1,0,0,0,0,0,0,0,1,0,1
+Star K Ranch Park,12.5,251,1,3.4,hike574,0,0,1,1,1,0,0,0,0,1,0,1
+Arapaho National Forest,3.1,868,2,4.0,hike575,1,0,0,0,0,0,0,0,1,0,0,1
+White River National Forest,10.4,1903,2,5.0,hike576,0,1,0,0,0,0,0,0,1,1,0,1
+Roosevelt National Forest,4.5,1227,2,4.4,hike577,0,0,1,0,0,0,0,0,0,0,0,0
+Great Sand Dunes National Park,9.0,3230,2,3.9,hike578,0,1,0,1,0,1,1,1,1,1,0,1
+Uncompahgre National Forest,20.5,1389,2,4.7,hike579,0,0,1,1,1,0,0,1,0,1,0,1
+Palmer Park,2.5,399,1,3.8,hike580,1,0,0,1,1,0,0,0,0,1,0,1
+Viestenz Smith Mountain Park,9.0,2750,2,4.3,hike581,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,8.4,1892,3,4.2,hike582,0,1,0,1,0,1,1,0,1,1,0,1
+"Estes Park, Colorado",2.6,972,1,4.1,hike583,1,0,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,9.9,2343,2,4.1,hike584,0,1,0,0,0,0,0,0,1,0,0,0
+Dawson Park,3.5,54,1,3.8,hike585,1,0,0,1,1,0,0,0,1,1,0,1
+"Longmont, Colorado",2.9,443,1,4.0,hike586,0,1,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,9.6,2841,2,4.5,hike587,0,1,0,0,0,0,0,1,1,1,0,1
+Collegiate Peaks Wilderness,5.9,1739,3,4.7,hike588,0,1,0,0,0,0,0,0,1,1,0,1
+Aurora Reservoir Recreation A,7.9,267,1,4.2,hike589,1,0,0,0,1,0,0,0,1,0,0,0
+Cheesman Park,1.5,79,1,4.7,hike590,1,0,0,0,1,0,0,0,0,0,0,0
+San Isabel National Forest,4.7,1282,3,4.4,hike591,0,1,0,1,0,0,1,0,1,1,0,1
+San Juan National Forest,18.4,2713,2,4.7,hike592,0,0,1,1,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,19.0,5207,2,4.7,hike593,1,0,0,0,0,0,0,1,1,1,0,1
+San Isabel National Forest,3.9,4517,3,4.9,hike594,0,0,1,1,0,0,0,0,0,0,0,0
+Pine Valley Ranch Park,1.7,55,1,4.1,hike595,1,0,0,1,1,0,0,0,1,1,0,1
+Pike National Forest,0.9,432,2,4.3,hike596,0,1,0,0,0,0,0,0,0,1,0,1
+Lousiville Sports Complex,8.6,354,1,3.3,hike597,0,1,0,1,1,0,0,0,0,1,0,1
+White River National Forest,7.3,1385,2,4.5,hike598,0,1,0,1,0,0,0,0,0,1,0,0
+Philip S. Miller Park,0.6,177,2,4.7,hike599,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,11.6,2132,2,4.6,hike600,1,0,0,0,0,0,0,1,0,1,0,0
+Mc Phelemy Park,14.6,4961,2,4.4,hike601,0,1,0,1,0,0,0,1,1,0,0,1
+Foothills Community Park,2.9,213,1,3.6,hike602,1,0,0,1,1,0,0,0,1,0,0,0
+Arapaho National Forest,18.0,3000,3,5.0,hike603,0,1,0,0,0,1,0,0,0,0,0,0
+Mt Massive Wilderness Area,7.2,2295,2,4.8,hike604,0,1,0,1,0,0,0,0,1,0,0,1
+Bear Creek Regional Park,2.6,224,2,3.6,hike605,1,0,0,1,1,0,0,1,0,1,0,1
+"Castle Rock, Colorado",1.6,81,1,3.7,hike606,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,13.2,3761,3,3.9,hike607,0,1,0,0,0,0,0,0,0,1,0,1
+Limbach Park,8.2,682,1,3.4,hike608,1,0,0,1,0,0,0,1,1,1,0,1
+"Snowmass Village, Colorado",7.8,1776,1,4.0,hike609,0,1,0,0,1,0,0,0,0,1,0,1
+Pike National Forest,23.1,5494,3,4.5,hike610,0,1,0,0,0,1,0,0,0,1,0,1
+Pike National Forest,5.8,1352,2,4.4,hike611,0,1,0,0,0,0,0,0,0,1,0,1
+Genesee Park,1.0,243,1,3.3,hike612,1,0,0,0,1,0,0,0,0,1,0,1
+Daniels Park,10.9,1880,2,3.5,hike613,1,0,0,0,1,0,0,0,0,1,0,1
+Great Sand Dunes National Preserve,10.7,4330,3,4.8,hike614,0,1,0,1,0,1,0,0,0,1,0,1
+Collegiate Peaks Wilderness,8.9,4399,3,5.0,hike615,0,1,0,0,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,1.1,164,1,4.1,hike616,0,1,0,0,1,0,0,0,0,1,0,1
+Pueblo Mountain Park,4.9,1452,1,4.8,hike617,0,1,0,0,1,0,0,0,0,0,0,0
+"Silver Plume, Colorado",3.7,1340,2,4.2,hike618,0,1,0,0,0,0,0,0,0,0,0,1
+Bluffs Regional Park,1.7,176,1,3.6,hike619,1,0,0,1,1,0,0,0,0,0,0,0
+"Granite, Colorado",8.7,762,1,4.5,hike620,0,1,0,0,0,0,0,0,0,0,0,0
+Greenhorn Mountain Wilderness,11.8,5054,2,4.5,hike621,0,1,0,0,0,0,0,0,0,0,0,0
+Mount Massive Wilderness,19.4,6325,3,5.0,hike622,0,1,0,1,0,1,0,0,0,1,0,1
+Canyons of The Ancients National Mon,7.4,935,2,4.4,hike623,0,1,0,1,1,0,0,0,0,0,0,1
+Roosevelt National Forest,4.3,1509,2,3.8,hike624,1,0,0,1,0,0,0,1,0,1,0,1
+Rocky Mountain National Park,30.7,6214,1,4.0,hike625,0,1,0,1,0,0,1,0,0,1,0,1
+Rocky Mountain National Park,1.1,133,1,3.8,hike626,1,0,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,5.7,1365,2,3.3,hike627,0,1,0,1,0,0,0,0,0,0,0,1
+Beaver Creek State Wildlife Area,7.5,2024,3,3.3,hike628,1,0,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,9.0,7890,2,4.6,hike629,1,0,0,1,0,1,1,1,1,1,0,1
+Chatfield State Park,17.6,2537,2,4.0,hike630,1,0,0,0,0,0,0,0,1,0,0,0
+"Englewood, Colorado",2.0,124,2,4.2,hike631,1,0,0,0,1,0,0,0,0,0,0,0
+"Brighton, Colorado",9.0,140,1,3.2,hike632,1,0,0,0,1,0,0,0,0,1,0,1
+"Lake City, Colorado",4.0,1650,3,5.0,hike633,0,1,0,0,0,0,1,0,0,1,0,1
+Holy Cross Wilderness,4.3,1304,2,3.8,hike634,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,6.0,552,1,4.0,hike635,0,1,0,1,0,0,0,1,0,0,0,1
+Arapaho National Forest,12.7,1482,1,4.2,hike636,0,1,0,0,1,0,0,0,0,1,0,1
+Routt National Forest,5.4,1049,1,4.7,hike637,0,1,0,0,1,0,0,0,0,1,0,1
+"Boulder, Colorado",2.5,593,1,3.7,hike638,0,1,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,6.3,1570,2,3.7,hike639,1,0,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,8.4,1287,2,4.4,hike640,0,0,1,1,0,0,0,1,0,1,0,1
+Molas Park,20.2,4030,3,4.8,hike641,0,0,1,1,0,0,0,0,0,1,0,1
+Standley Lake Park,4.4,343,1,3.5,hike642,1,0,0,1,1,0,0,0,0,0,0,1
+Bear Valley Park,1.6,23,1,3.3,hike643,0,0,1,0,1,0,0,0,0,0,0,0
+Boulder Reservoir Park,1.3,48,1,3.3,hike644,1,0,0,1,1,0,0,0,1,1,0,1
+Rocky Mountain National Park,7.3,1141,2,3.9,hike645,0,1,0,0,0,0,0,1,1,1,0,0
+Uncompahgre National Forest,7.1,2879,3,4.6,hike646,0,1,0,1,0,1,1,1,1,1,0,1
+Arapaho National Forest,9.4,2885,2,3.8,hike647,0,1,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,1.0,50,1,3.9,hike648,0,1,0,0,1,0,0,1,0,1,0,1
+Uncompahgre National Forest,13.9,5298,3,5.0,hike649,0,1,0,1,0,0,1,1,0,1,0,1
+Pine Valley Ranch Park,38.9,5990,2,5.0,hike650,1,0,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,5.8,2342,2,5.0,hike651,0,0,1,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,20.4,3893,2,3.8,hike652,0,1,0,0,0,1,1,1,1,1,0,1
+San Isabel National Forest,4.8,286,1,3.7,hike653,0,0,1,1,1,0,0,0,0,0,0,1
+Lory State Park,1.8,417,1,4.2,hike654,1,0,0,1,1,0,0,1,0,1,0,1
+Great Sand Dunes National Park,7.0,1561,2,4.4,hike655,0,1,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,10.7,2554,2,3.3,hike656,1,0,0,0,0,0,0,0,0,1,0,1
+"Grand Lake, Colorado",4.4,332,2,3.9,hike657,1,0,0,1,0,0,0,1,1,1,0,1
+Roosevelt National Forest,1.4,250,1,3.8,hike658,1,0,0,0,1,0,0,0,0,1,0,1
+Colorow Mountain Park,1.6,170,1,3.3,hike659,1,0,0,0,1,0,0,0,0,1,0,1
+Caribou Ranch Open Space,12.2,3000,3,4.5,hike660,0,1,0,0,0,0,0,0,0,0,0,0
+"Monument, Colorado",5.2,1224,2,2.9,hike661,0,1,0,1,1,1,0,0,0,1,0,1
+Pike National Forest,19.4,1800,2,4.0,hike662,0,1,0,1,0,1,0,1,0,0,0,0
+Roosevelt National Forest,8.4,3277,2,4.6,hike663,0,1,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,6.8,2900,2,4.4,hike664,0,0,1,1,0,0,0,1,0,0,0,1
+"Nathrop, Colorado",7.2,1533,2,4.8,hike665,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,7.1,2055,2,4.7,hike666,0,1,0,0,0,0,0,1,1,1,0,1
+Centennial Park,42.5,3025,1,4.5,hike667,0,0,1,1,1,0,0,1,0,1,0,1
+Arapaho National Forest,12.0,3549,3,5.0,hike668,1,0,0,1,0,0,0,0,0,1,0,1
+Roosevelt National Forest,2.1,1015,2,4.4,hike669,0,1,0,1,0,0,0,0,0,0,0,1
+Uncompahgre National Forest,0.2,49,1,4.0,hike670,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,8.5,1426,2,4.4,hike671,0,1,0,0,0,0,0,0,1,1,0,1
+Pike National Forest,2.4,114,1,4.1,hike672,1,0,0,0,1,0,0,0,1,1,0,1
+Pike National Forest,3.2,2172,2,3.3,hike673,0,1,0,1,0,1,0,0,1,0,0,1
+Bald Mountain Scenic Area,1.9,441,1,3.6,hike674,1,0,0,1,1,0,0,0,0,1,0,1
+"Longmont, Colorado",9.5,1550,2,3.9,hike675,1,0,0,0,0,0,0,0,0,0,0,0
+Lair o' the Bear Park,2.0,160,1,4.2,hike676,0,1,0,1,1,0,0,1,0,0,0,0
+Eagles Nest Wilderness,7.4,2012,2,4.3,hike677,0,1,0,1,1,0,0,0,1,1,0,1
+South Valley Park,2.6,376,1,3.8,hike678,0,1,0,0,1,0,0,0,0,0,0,0
+Pike National Forest,3.1,1133,3,3.4,hike679,1,0,0,0,0,0,1,1,1,1,0,1
+Roosevelt National Forest,18.4,1590,1,3.8,hike680,1,0,0,0,0,0,0,0,0,1,0,1
+Horsetooth State Park,8.8,1842,1,3.8,hike681,0,1,0,1,1,0,1,0,0,1,0,1
+Rocky Mountain National Park,0.2,32,1,4.2,hike682,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,5.3,961,3,3.6,hike683,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,4.6,1491,2,3.6,hike684,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,0.8,743,2,4.5,hike685,1,0,0,0,1,0,0,0,0,0,0,1
+Legion Park,1.4,11,1,3.6,hike686,1,0,0,1,1,0,0,0,0,0,0,1
+San Isabel National Forest,6.3,738,1,4.4,hike687,0,1,0,1,1,0,0,0,0,1,0,1
+Grand Mesa National Forest,2.8,475,1,4.0,hike688,1,0,0,1,1,0,0,1,1,1,0,0
+"Louisville, Colorado",3.3,77,1,3.7,hike689,1,0,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,8.3,3134,2,5.0,hike690,0,1,0,1,0,0,0,0,1,1,0,1
+Colorado National Monument,21.6,4738,2,4.0,hike691,0,0,1,1,1,1,0,1,0,1,0,1
+Pike National Forest,5.6,426,1,3.7,hike692,1,0,0,1,1,0,0,0,0,0,0,1
+Roosevelt National Forest,3.4,851,2,4.7,hike693,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,15.7,2724,1,4.2,hike694,0,1,0,0,0,0,0,1,0,1,0,1
+Roosevelt National Forest,12.3,2799,2,5.0,hike695,0,1,0,0,0,0,0,0,1,0,0,0
+San Juan National Forest,27.1,3110,1,4.2,hike696,0,0,1,0,0,1,0,1,0,1,0,1
+White River National Forest,7.9,1452,1,4.2,hike697,0,1,0,0,1,0,0,0,0,0,0,0
+Arapaho National Forest,15.4,2685,2,4.1,hike698,0,1,0,0,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,12.8,2229,2,4.8,hike699,0,1,0,0,0,0,0,1,1,1,0,1
+Pike National Forest,0.3,31,1,3.0,hike700,0,1,0,1,1,0,0,1,0,1,0,1
+Arapaho National Forest,4.8,1835,1,2.9,hike701,0,0,1,0,1,0,0,0,0,1,0,1
+Lost Creek Wilderness,7.1,1273,3,4.4,hike702,0,1,0,0,0,1,0,1,0,1,0,0
+Pike National Forest,12.0,1320,2,4.4,hike703,0,1,0,0,0,0,0,1,0,1,0,1
+San Isabel National Forest,7.9,2713,2,4.8,hike704,0,1,0,0,0,0,0,0,0,0,0,1
+Reynolds Ranch County Park,3.0,400,1,4.3,hike705,1,0,0,0,1,0,0,0,0,0,0,0
+Pike National Forest,29.3,3456,2,4.3,hike706,0,0,1,0,0,0,0,0,0,1,0,1
+Garden of the Gods,2.0,237,1,4.0,hike707,1,0,0,0,1,0,0,0,0,0,0,1
+Black Canyon of the Gunnison National Park,0.5,369,1,4.5,hike708,1,0,0,0,1,1,0,0,0,1,0,1
+Comanche National Grassland,16.8,1020,2,4.8,hike709,0,1,0,1,1,1,0,1,0,1,0,1
+Roosevelt National Forest,6.9,1705,2,3.4,hike710,0,1,0,1,0,0,0,1,0,1,0,1
+"Manitou Springs, Colorado",10.0,7553,3,3.0,hike711,0,0,1,0,0,0,0,0,0,1,0,1
+Deer Creek Canyon Park,6.9,1509,1,4.2,hike712,0,1,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,3.5,602,2,4.3,hike713,0,1,0,0,0,0,0,0,0,1,0,1
+"Boulder, Colorado",6.1,1864,3,2.5,hike714,1,0,0,1,0,0,0,0,0,1,0,1
+"Broomfield, Colorado",1.5,27,1,4.0,hike715,1,0,0,0,1,0,0,0,1,1,0,1
+Rio Grande National Forest,4.0,300,2,4.3,hike716,0,1,0,0,1,0,0,0,0,0,0,0
+"Englewood, Colorado",16.5,488,2,3.5,hike717,0,1,0,1,0,0,0,0,1,0,0,0
+Roosevelt National Forest,6.4,1226,2,3.0,hike718,0,1,0,1,0,0,0,0,0,0,0,0
+San Juan National Forest,9.9,1874,2,3.8,hike719,0,0,1,1,0,0,0,0,0,1,0,1
+Arapaho National Forest,5.2,2387,2,4.0,hike720,0,1,0,0,0,0,0,0,0,0,0,0
+Meyer Ranch Park,2.4,617,1,3.7,hike721,1,0,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,15.7,4235,2,4.5,hike722,0,1,0,1,0,1,0,1,0,0,0,1
+Two Rivers Park,15.9,1132,2,4.7,hike723,0,0,1,1,0,0,0,1,0,0,0,1
+Van Bibber Open Space Park,5.4,205,1,3.8,hike724,1,0,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,6.9,3872,2,4.7,hike725,0,0,1,1,1,0,0,0,0,1,0,1
+San Juan National Forest,10.0,2520,3,5.0,hike726,0,1,0,0,0,0,0,0,1,0,0,0
+Pawnee National Grassland,4.7,412,1,4.4,hike727,0,1,0,1,1,0,0,0,0,1,0,1
+White River National Forest,6.7,1742,3,3.8,hike728,0,1,0,1,0,0,0,0,0,1,0,1
+Eagles Nest Wilderness,7.8,3235,3,4.9,hike729,0,1,0,1,0,0,0,0,1,1,0,0
+Meyer Ranch Park,1.5,224,1,4.2,hike730,1,0,0,0,1,0,0,0,0,0,0,0
+"Littleton, Colorado",4.9,463,1,3.1,hike731,1,0,0,1,1,0,0,0,0,0,0,0
+Gunnison National Forest,7.7,1171,3,4.8,hike732,1,0,0,0,0,0,0,0,0,0,0,0
+Curecanti National Recreation Area,3.7,560,1,3.9,hike733,0,1,0,1,1,0,0,0,0,1,0,1
+Neota Wilderness,29.8,1664,1,5.0,hike734,0,1,0,1,0,0,0,1,1,1,0,1
+Bear Creek Canyon Park,4.8,240,1,3.0,hike735,1,0,0,1,1,0,0,0,1,1,0,1
+Leon Wurl Wildlife Sanctuary,0.9,9,1,3.6,hike736,1,0,0,0,1,0,0,0,0,0,0,0
+Roxborough State Park,1.5,232,1,4.2,hike737,1,0,0,0,1,0,0,0,0,1,0,1
+White River National Forest,20.9,4572,3,4.6,hike738,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,5.6,1172,1,5.0,hike739,0,1,0,1,1,0,0,0,0,1,0,1
+"Nathrop, Colorado",6.2,987,2,4.3,hike740,0,1,0,1,1,1,0,0,0,1,0,1
+James M Robb Colorado River State Park,7.0,1999,2,5.0,hike741,0,1,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,14.9,2903,3,4.2,hike742,0,1,0,0,0,1,1,1,1,1,0,1
+Lizard Head Wilderness,4.7,1403,1,4.8,hike743,0,1,0,1,1,0,1,1,1,1,0,1
+Rocky Mountain National Park,15.7,4953,2,4.6,hike744,0,1,0,0,0,0,0,0,0,1,0,1
+"Canon City, Colorado",7.6,600,2,4.6,hike745,1,0,0,0,0,0,0,0,0,0,0,1
+San Juan National Forest,4.8,886,2,3.4,hike746,1,0,0,1,1,1,0,0,1,1,0,1
+Roosevelt National Forest,2.6,519,2,4.7,hike747,0,1,0,0,1,0,0,0,0,1,0,1
+Gunnison National Forest,10.4,4475,3,4.2,hike748,0,1,0,0,0,1,0,0,0,0,0,0
+"Florissant, Colorado",26.3,2163,1,3.9,hike749,0,0,1,1,1,0,0,1,0,0,0,1
+White River National Forest,12.1,3526,2,5.0,hike750,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,7.4,2306,3,4.3,hike751,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,19.8,3365,3,4.0,hike752,0,1,0,0,0,1,0,0,0,0,0,0
+Arapaho National Forest,2.6,476,1,4.2,hike753,1,0,0,0,1,0,0,0,1,0,0,1
+Roosevelt National Forest,2.7,533,1,4.6,hike754,1,0,0,0,1,0,0,0,1,1,0,1
+Pike National Forest,4.9,1229,3,4.0,hike755,1,0,0,1,0,0,0,1,0,1,0,1
+Roosevelt National Forest,0.7,159,1,4.1,hike756,0,1,0,1,1,1,0,0,1,1,0,1
+White River National Forest,12.9,4613,3,4.3,hike757,0,1,0,0,0,1,0,0,1,1,0,1
+Roosevelt National Forest,10.4,2121,2,3.8,hike758,0,1,0,1,0,1,0,0,0,1,0,1
+Chatfield State Park,12.0,200,1,3.3,hike759,0,1,0,1,0,0,0,0,0,0,0,0
+Mount Falcon Park,2.5,429,2,4.0,hike760,1,0,0,1,1,0,0,0,0,1,0,1
+Mueller State Park,2.6,577,1,3.7,hike761,1,0,0,0,1,0,0,0,1,1,0,1
+Pinery Park,1.1,69,1,4.2,hike762,1,0,0,1,1,0,0,0,1,1,0,1
+White River National Forest,3.5,1145,2,3.2,hike763,0,0,1,0,0,0,0,0,0,0,0,0
+Bluffs Regional Park,2.6,381,1,3.2,hike764,1,0,0,1,1,0,0,0,0,1,0,1
+Routt National Forest,3.8,584,2,5.0,hike765,0,1,0,1,0,0,0,0,1,1,0,1
+Eagles Nest Wilderness,9.9,2618,2,4.5,hike766,0,1,0,1,0,1,0,1,1,1,0,1
+Meyer Ranch Park,1.9,321,1,3.6,hike767,1,0,0,0,1,0,0,0,0,0,0,0
+San Isabel National Forest,6.5,2832,2,3.9,hike768,0,1,0,1,1,0,0,0,0,1,0,1
+"Golden, Colorado",1.2,55,1,3.3,hike769,1,0,0,1,1,0,0,1,0,1,0,1
+Rocky Mountain National Park,13.7,3010,3,4.3,hike770,1,0,0,0,0,1,1,1,1,1,0,1
+Reynolds Ranch County Park,31.4,5618,2,4.0,hike771,0,1,0,1,0,0,0,1,0,1,0,1
+Roosevelt National Forest,6.5,1560,2,4.5,hike772,0,1,0,0,0,1,0,0,0,1,0,1
+Green Mountain Park,20.9,3567,2,3.8,hike773,1,0,0,1,1,0,0,0,0,1,0,1
+Ouray Ke Park,15.8,4780,2,4.2,hike774,0,1,0,1,0,0,0,0,1,1,0,1
+Mc Phelemy Park,40.4,7822,2,4.9,hike775,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,10.8,3072,2,4.5,hike776,0,1,0,0,0,1,0,0,0,0,0,0
+Rawah Wilderness,5.2,1672,2,4.6,hike777,0,0,1,0,0,0,0,0,0,0,0,0
+San Juan National Forest,16.6,5643,3,4.7,hike778,0,1,0,1,0,0,0,0,1,1,0,1
+Black Canyon of the Gunnison National Park,0.3,25,1,4.2,hike779,0,1,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,4.4,420,1,4.0,hike780,1,0,0,0,1,0,0,0,0,0,0,0
+Pike National Forest,7.0,500,2,3.8,hike781,0,1,0,0,0,0,0,0,0,0,0,0
+Black Canyon of the Gunnison National Park,1.3,417,2,3.6,hike782,1,0,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,14.4,3143,3,4.0,hike783,0,1,0,1,0,0,0,1,1,1,0,1
+White River National Forest,1.0,232,1,4.0,hike784,0,1,0,1,1,1,0,1,1,1,0,1
+Echo Lake Park,3.0,600,1,5.0,hike785,0,1,0,0,1,0,0,0,0,0,0,0
+Roosevelt National Forest,40.1,6995,2,4.0,hike786,0,0,1,0,0,0,0,0,0,1,0,1
+San Juan National Forest,21.0,8220,3,5.0,hike787,0,1,0,1,0,1,1,1,1,1,0,1
+Rocky Mountain National Park,8.4,3297,2,4.8,hike788,0,1,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,7.4,2115,2,4.7,hike789,0,1,0,0,0,0,0,0,0,0,0,1
+Roosevelt National Forest,2.7,218,1,4.1,hike790,1,0,0,1,1,0,0,0,1,1,0,1
+Boulder Mountain Park,1.2,211,2,4.8,hike791,1,0,0,1,1,0,0,0,0,1,0,1
+"Conifer, Colorado",11.7,1838,3,3.3,hike792,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,6.2,1788,2,4.7,hike793,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,1.7,192,1,3.2,hike794,1,0,0,1,1,0,0,0,0,0,0,0
+Colorado National Monument,0.7,154,1,4.0,hike795,0,1,0,0,1,0,0,0,0,0,0,1
+Holy Cross Wilderness,9.0,2502,2,5.0,hike796,0,1,0,1,0,0,1,1,1,1,0,1
+White River National Forest,12.8,3333,3,4.5,hike797,0,1,0,0,0,0,0,0,1,0,0,1
+Lake Pueblo State Park,2.7,313,3,4.0,hike798,1,0,0,0,0,0,0,0,1,1,0,1
+Great Sand Dunes National Preserve,3.8,2000,3,5.0,hike799,0,1,0,0,0,1,1,1,1,1,0,1
+"Loma, Colorado",10.7,1405,2,4.0,hike800,1,0,0,0,0,0,0,0,0,0,0,1
+Monument Valley Park,1.2,33,1,3.5,hike801,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,12.3,2043,2,4.0,hike802,0,1,0,0,0,1,0,0,0,1,0,0
+San Isabel National Forest,3.6,1223,2,3.8,hike803,0,1,0,0,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,13.6,4998,3,2.5,hike804,0,1,0,0,0,0,0,0,0,1,0,1
+Gunbarrel Ranch,2.7,856,1,3.7,hike805,1,0,0,0,1,0,0,0,0,1,0,1
+Mesa Verde National Park,2.0,531,2,4.3,hike806,0,1,0,0,1,0,0,0,0,1,0,1
+Boulder Reservoir Park,5.3,231,1,3.2,hike807,1,0,0,1,1,0,0,0,1,1,0,1
+Routt National Forest,6.1,1752,2,4.7,hike808,1,0,0,0,1,0,0,0,0,0,0,1
+Perry Park,5.1,690,1,3.4,hike809,1,0,0,0,1,0,0,0,0,0,0,0
+Pike National Forest,5.4,963,2,2.5,hike810,1,0,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,5.8,354,2,3.5,hike811,0,1,0,1,0,1,0,1,0,0,0,0
+Arapaho National Forest,13.3,3911,2,4.0,hike812,0,1,0,0,0,0,0,0,0,1,0,1
+Golden Gate Canyon State Park,60.3,9137,3,4.2,hike813,0,0,1,0,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,3.5,768,2,4.1,hike814,0,1,0,0,1,0,0,0,0,1,0,1
+Mesa Verde National Park,0.3,125,1,4.4,hike815,1,0,0,0,1,0,0,0,0,1,0,1
+"Berthoud, Colorado",6.0,338,1,3.4,hike816,0,1,0,0,1,1,0,0,1,0,0,1
+Rocky Mountain National Park,5.3,801,2,4.3,hike817,0,1,0,0,0,0,0,1,1,0,0,0
+Rocky Mountain National Park,6.2,1818,2,3.4,hike818,0,1,0,0,0,0,0,1,1,1,0,1
+Elephant Butte Park,2.9,495,1,5.0,hike819,1,0,0,0,1,0,0,0,0,0,0,1
+"Walden, Colorado",7.0,1559,3,4.9,hike820,0,1,0,1,0,0,1,1,1,1,0,1
+White River National Forest,10.4,935,1,5.0,hike821,1,0,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,12.1,2259,2,4.7,hike822,0,1,0,0,0,0,0,1,0,1,0,0
+"Sedalia, Colorado",2.2,291,1,3.3,hike823,0,0,1,0,1,0,0,0,0,0,0,0
+Legion Park,4.4,80,1,3.1,hike824,0,1,0,1,1,0,0,0,0,0,0,0
+Elk Meadow Park,2.4,295,1,4.0,hike825,0,1,0,0,1,0,0,0,0,1,0,1
+Alderfer / Three Sisters Park,3.3,494,2,4.0,hike826,1,0,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,6.3,414,2,4.0,hike827,0,1,0,0,0,0,0,0,0,0,0,0
+Mount Evans Wilderness,26.7,5760,2,4.5,hike828,0,1,0,1,0,0,0,0,0,1,0,1
+Mt Massive Wilderness Area,14.2,2646,2,4.0,hike829,0,1,0,0,0,0,0,0,0,0,0,0
+"United States Air Force Academy, Colorado",0.8,127,1,3.4,hike830,0,1,0,1,1,0,0,0,0,0,0,0
+Arapaho National Forest,4.1,1371,3,2.8,hike831,1,0,0,1,0,1,0,0,0,1,0,0
+San Juan National Forest,9.7,2874,1,3.5,hike832,0,1,0,0,1,0,0,0,1,1,0,1
+White River National Forest,13.5,4965,3,4.3,hike833,0,1,0,1,0,0,0,0,0,1,0,1
+Florissant Fossil Beds National Monument,2.9,372,1,4.0,hike834,1,0,0,0,1,0,0,1,0,1,0,0
+Pike National Forest,6.9,2203,2,4.0,hike835,0,1,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,6.1,1038,2,4.3,hike836,0,1,0,0,0,1,0,0,0,1,0,1
+Arapaho National Forest,11.2,3121,2,4.5,hike837,0,1,0,1,0,0,0,0,1,0,0,0
+Mesa Verde National Park,3.1,837,2,3.7,hike838,0,1,0,0,1,0,0,0,0,1,0,1
+Centennial Park,5.4,1896,2,4.0,hike839,1,0,0,0,1,0,0,0,0,1,0,1
+White River National Forest,16.2,5660,3,5.0,hike840,0,1,0,1,0,0,0,1,1,1,0,0
+Mount Evans Wilderness,6.6,1718,2,4.5,hike841,0,1,0,0,0,0,0,0,0,1,0,1
+"Del Norte, Colorado",2.6,371,2,4.3,hike842,1,0,0,1,0,0,0,0,0,0,0,1
+Rocky Mountain National Park,1.1,64,1,3.9,hike843,0,1,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,18.6,3546,2,3.7,hike844,0,1,0,1,0,0,0,0,1,1,0,1
+Rocky Mountain National Park,4.0,1530,2,5.0,hike845,0,1,0,0,0,0,0,0,0,0,0,1
+Maroon Bells Snowmass Wilderness,5.4,1523,1,5.0,hike846,1,0,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,7.2,2520,1,3.0,hike847,0,1,0,1,1,0,0,0,0,1,0,1
+White River National Forest,0.7,181,2,2.8,hike848,1,0,0,1,1,0,0,0,0,0,0,0
+Colorado National Monument,2.0,382,1,3.5,hike849,0,1,0,0,1,0,0,0,0,1,0,1
+"Twin Lakes, Colorado",9.9,5181,3,4.5,hike850,0,1,0,0,0,1,0,0,0,1,0,1
+Cathy Fromme Prairie Natural Area,5.0,310,1,3.0,hike851,0,1,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,21.0,3321,1,3.4,hike852,0,1,0,0,0,0,0,1,1,1,0,1
+Meeker Park,5.5,455,3,4.2,hike853,0,0,1,0,1,0,0,0,0,1,0,1
+San Juan National Forest,0.8,80,1,3.0,hike854,1,0,0,0,1,0,0,0,0,0,0,0
+San Juan National Forest,7.9,3019,3,4.0,hike855,0,1,0,0,0,0,0,0,0,0,0,0
+San Juan National Forest,9.3,2569,3,4.4,hike856,0,1,0,1,0,0,1,1,1,1,0,1
+Lost Creek Wilderness,13.3,3616,3,3.8,hike857,0,1,0,0,0,0,0,0,1,1,0,1
+White River National Forest,9.9,1975,2,4.3,hike858,0,1,0,1,0,1,0,1,0,0,0,1
+Arapaho National Forest,10.3,3017,3,3.7,hike859,0,1,0,1,0,0,0,0,1,1,0,1
+"Buena Vista, Colorado",6.2,3700,3,4.8,hike860,0,1,0,0,0,0,0,0,0,0,0,1
+"Colorado Springs, Colorado",1.6,193,2,4.0,hike861,0,1,0,1,0,0,0,0,0,1,0,1
+Pike National Forest,3.0,666,2,5.0,hike862,0,1,0,1,1,0,0,0,1,1,0,1
+White River National Forest,6.7,2346,3,5.0,hike863,0,1,0,1,0,0,0,0,0,1,0,1
+Black Canyon of the Gunnison National Park,1.7,250,2,4.4,hike864,0,1,0,0,0,0,0,0,0,1,0,1
+Pike National Forest,5.2,2471,2,5.0,hike865,0,1,0,0,0,0,0,0,0,1,0,1
+Lafayette Great Park,3.5,94,1,2.9,hike866,0,1,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,2.3,201,1,4.0,hike867,1,0,0,1,1,1,0,1,0,0,0,0
+Avon,4.3,581,1,4.2,hike868,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park Wilderness,1.5,930,2,3.7,hike869,0,1,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,230.6,20714,1,4.4,hike870,1,0,0,1,1,0,1,1,0,1,0,1
+"Woodland Park, Colorado",2.3,512,1,3.8,hike871,1,0,0,1,1,1,0,0,0,1,0,1
+White River National Forest,4.4,1674,2,4.3,hike872,0,1,0,1,0,1,0,0,0,0,0,1
+Rocky Mountain National Park,5.4,2185,3,3.8,hike873,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,18.8,4829,2,5.0,hike874,0,1,0,1,0,0,0,0,0,1,0,1
+Temple Canyon Park,6.7,2244,3,3.7,hike875,0,1,0,1,0,0,0,0,0,0,0,1
+Comanche Peak Wilderness,7.8,2173,3,4.0,hike876,0,1,0,1,0,0,0,0,0,0,0,1
+Pike National Forest,14.7,1194,1,3.7,hike877,0,1,0,0,1,1,0,1,1,1,0,1
+"Windsor, Colorado",13.7,118,1,4.0,hike878,0,0,1,0,0,0,0,0,0,0,0,0
+Rawah Wilderness,1.5,161,2,5.0,hike879,0,1,0,0,0,0,0,0,0,1,0,0
+Roosevelt National Forest,4.1,367,1,4.0,hike880,1,0,0,0,1,0,0,0,0,0,0,0
+White River National Forest,1.4,440,2,3.7,hike881,0,1,0,0,0,0,0,0,0,0,0,0
+"Fort Collins, Colorado",3.0,0,1,3.1,hike882,1,0,0,1,1,0,0,0,1,0,0,0
+Rocky Mountain National Park,2.4,624,2,4.6,hike883,0,1,0,0,0,0,0,0,1,1,0,1
+Garden of the Gods,0.4,84,1,4.5,hike884,1,0,0,1,1,0,0,0,0,0,0,1
+Sangre de Cristo Wilderness,8.2,3766,3,4.5,hike885,0,1,0,0,0,0,0,0,0,0,0,0
+Pike National Forest,8.1,1423,2,4.0,hike886,0,1,0,1,0,1,0,0,0,1,0,1
+"New Castle, Colorado",3.0,300,2,4.3,hike887,1,0,0,0,0,0,0,0,0,0,0,1
+San Juan National Forest,16.6,4680,3,4.0,hike888,0,1,0,0,0,1,0,0,0,0,0,0
+Town Park,1.7,432,1,4.3,hike889,0,1,0,0,1,0,0,0,0,1,0,1
+Collegiate Peaks Wilderness,7.5,2322,2,4.3,hike890,0,1,0,1,0,0,0,1,1,1,0,1
+Roosevelt National Forest,5.0,931,1,3.3,hike891,1,0,0,1,1,0,0,1,0,0,0,1
+"Westcliffe, Colorado",4.0,2900,2,3.5,hike892,0,1,0,1,0,1,1,1,1,1,0,1
+Arapaho National Forest,3.9,1151,2,4.0,hike893,0,1,0,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,8.1,1119,1,5.0,hike894,0,1,0,1,0,0,0,1,0,0,0,1
+Black Forest Regional Park,1.2,115,1,3.2,hike895,1,0,0,0,1,0,0,0,0,0,0,0
+"Grand Junction, Colorado",2.8,419,3,4.3,hike896,1,0,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,7.5,1415,1,3.3,hike897,1,0,0,0,1,0,0,1,0,1,0,1
+San Isabel National Forest,16.9,3337,2,4.7,hike898,0,1,0,1,1,0,0,0,0,1,0,1
+Cub Creek Park,2.6,658,2,4.5,hike899,1,0,0,1,0,0,0,0,0,0,0,0
+"Salida, Colorado",8.1,1143,2,4.3,hike900,0,1,0,1,0,0,0,0,0,1,0,0
+Arapaho National Forest,6.3,1757,2,4.5,hike901,0,1,0,0,0,0,0,1,0,1,0,1
+Roosevelt National Forest,7.9,978,2,4.5,hike902,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,8.1,1999,1,5.0,hike903,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,7.5,510,1,3.5,hike904,0,1,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,2.5,851,2,4.0,hike905,1,0,0,0,0,0,0,0,0,0,0,0
+White River National Forest,16.9,5668,3,5.0,hike906,0,1,0,1,0,1,0,1,1,1,0,0
+White River National Forest,3.2,649,2,4.4,hike907,1,0,0,0,0,0,0,0,0,0,0,0
+"Larkspur, Colorado",4.1,409,2,3.3,hike908,1,0,0,1,0,0,0,0,0,0,0,0
+San Isabel National Forest,9.6,2506,2,3.5,hike909,0,1,0,1,0,0,0,0,1,1,0,1
+"Colorado Springs, Colorado",11.8,396,1,3.0,hike910,0,1,0,1,0,0,0,0,0,0,0,0
+Pike National Forest,12.5,3056,2,4.8,hike911,0,0,1,0,0,0,0,0,0,1,0,1
+White River National Forest,9.5,3828,3,4.5,hike912,0,1,0,0,0,0,1,1,1,1,0,1
+"Greenwood Village, Colorado",4.4,113,1,4.8,hike913,0,1,0,1,1,0,0,0,1,0,0,0
+Maroon Bells Snowmass Wilderness,7.6,2153,1,3.5,hike914,1,0,0,1,1,0,0,0,0,1,0,1
+"Boulder, Colorado",2.8,191,1,3.8,hike915,1,0,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,15.3,3029,3,4.5,hike916,1,0,0,0,0,0,1,0,1,1,0,1
+Chatfield State Park,14.6,706,1,3.5,hike917,0,1,0,0,1,0,0,1,1,1,0,0
+White River National Forest,1.8,488,1,4.2,hike918,0,1,0,0,1,0,0,1,0,1,0,1
+White River National Forest,7.2,1005,1,4.7,hike919,0,1,0,1,1,0,0,0,0,0,0,0
+Pike National Forest,1.5,600,2,5.0,hike920,0,1,0,1,0,0,0,0,0,1,0,1
+"Florissant, Colorado",1.0,205,1,3.6,hike921,0,1,0,1,1,0,0,0,0,1,0,1
+Mesa Verde National Park,0.6,219,1,4.0,hike922,1,0,0,0,1,0,0,0,0,1,0,1
+San Isabel National Forest,3.2,627,2,3.3,hike923,0,1,0,1,0,0,0,0,0,0,0,1
+Pike National Forest,6.2,2418,2,4.5,hike924,0,1,0,1,0,0,0,0,0,0,0,1
+Rio Grande National Forest,16.7,5535,3,5.0,hike925,0,1,0,1,0,0,1,0,1,1,0,1
+Roosevelt National Forest,16.0,2782,3,4.5,hike926,0,1,0,1,0,0,0,0,0,1,0,1
+Atapaho National Forest,14.2,3577,3,3.7,hike927,0,1,0,1,0,0,0,0,0,1,0,1
+Highland Heritage Park,7.7,826,2,4.5,hike928,1,0,0,0,0,0,0,0,0,0,0,0
+Arapaho National Forest,8.6,2722,3,4.5,hike929,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,2.1,855,2,4.7,hike930,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,4.2,850,2,4.3,hike931,0,1,0,0,0,0,0,0,0,0,0,0
+"Littleton, Colorado",1.6,20,1,4.4,hike932,1,0,0,1,1,0,0,0,1,1,0,1
+White River National Forest,3.9,1329,3,4.0,hike933,0,1,0,0,0,0,0,0,0,1,0,1
+"Morrison, Colorado",3.8,1061,2,3.3,hike934,1,0,0,0,1,0,0,0,0,1,0,1
+Pike National Forest,0.6,407,1,3.5,hike935,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,7.2,3355,2,3.0,hike936,0,1,0,0,0,0,0,0,0,1,0,1
+Gothic Natural Area,9.3,2029,2,4.0,hike937,0,1,0,1,0,0,1,1,1,1,0,1
+Roosevelt National Forest,9.8,2727,2,4.0,hike938,0,1,0,0,0,0,0,0,0,1,0,0
+Maroon Bells Snowmass Wilderness,12.2,3965,3,5.0,hike939,0,1,0,0,0,0,0,0,1,1,0,1
+San Isabel National Forest,11.2,1020,3,4.5,hike940,0,1,0,1,0,0,0,0,0,1,0,1
+"Boulder, Colorado",4.6,287,2,4.0,hike941,0,1,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,8.6,3911,3,4.0,hike942,0,1,0,0,0,0,0,0,0,1,0,1
+Pike National Forest,6.9,3235,2,5.0,hike943,0,1,0,1,0,0,0,0,0,0,0,0
+Gunnison National Forest,2.6,1204,3,4.5,hike944,0,0,1,1,0,0,0,0,1,0,0,0
+White River National Forest,7.2,1680,2,4.3,hike945,0,1,0,0,0,0,0,0,0,0,0,0
+"Castle Rock, Colorado",2.7,194,1,3.6,hike946,1,0,0,0,1,0,0,0,0,0,0,0
+"Kremmling, Colorado",2.8,509,2,4.0,hike947,0,1,0,1,0,1,0,1,0,0,0,1
+Rocky Mountain National Park,10.9,1993,2,5.0,hike948,0,1,0,0,0,1,1,1,0,1,0,0
+"Glade Park, Colorado",4.1,923,2,4.0,hike949,1,0,0,1,0,0,1,0,0,1,0,1
+Judy Long Memorial Park,10.2,2332,1,3.0,hike950,0,1,0,1,1,0,0,0,1,1,0,1
+Gunnison Gorge Wilderness,9.6,2622,2,5.0,hike951,0,1,0,1,0,1,0,1,0,1,0,1
+Mount Evans Wilderness,4.5,400,2,3.2,hike952,0,1,0,1,1,0,0,1,0,1,0,1
+Pike National Forest,16.3,2594,1,3.0,hike953,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,1.1,362,2,4.0,hike954,1,0,0,0,0,0,0,0,0,0,0,0
+Standley Lake Park,4.9,361,2,2.4,hike955,0,1,0,1,1,0,0,0,1,1,0,1
+Echo Lake Park,3.5,814,2,4.5,hike956,0,1,0,0,0,0,0,0,1,0,0,1
+Manitou Springs Open Space,2.2,881,2,4.4,hike957,0,1,0,1,1,0,0,0,0,0,0,1
+Pike National Forest,3.0,260,1,5.0,hike958,0,1,0,1,1,0,0,0,1,0,0,0
+White River National Forest,3.6,1852,1,3.0,hike959,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,4.6,778,2,3.2,hike960,0,1,0,0,1,1,0,0,1,1,0,1
+Arkansas Headwaters Recreation Area,8.7,1236,2,4.5,hike961,1,0,0,1,0,0,0,0,0,1,0,1
+Cache La Poudre Wilderness,5.5,2005,2,3.8,hike962,0,1,0,1,1,0,0,0,0,1,0,1
+South Valley Park,8.1,310,1,5.0,hike963,0,1,0,0,0,0,0,0,0,0,0,0
+"Silverton, Colorado",8.1,2159,2,4.8,hike964,0,1,0,1,0,0,1,0,1,1,0,0
+Roosevelt National Forest,8.6,989,2,4.5,hike965,0,0,1,1,1,0,0,0,0,1,0,1
+San Juan National Forest,2.9,1092,2,4.0,hike966,0,1,0,0,1,0,0,0,0,1,0,1
+Pike National Forest,16.5,2810,2,4.0,hike967,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,12.1,4812,3,4.0,hike968,0,1,0,1,0,0,0,0,0,0,0,0
+San Isabel National Forest,6.4,1500,2,5.0,hike969,0,1,0,0,0,0,0,0,1,0,0,0
+White Ranch Open Space Park,2.5,381,1,3.5,hike970,1,0,0,1,1,0,0,0,0,0,0,1
+"Boulder, Colorado",5.6,360,1,4.0,hike971,1,0,0,0,1,0,0,0,0,0,0,0
+White River National Forest,20.3,6889,2,3.5,hike972,0,0,1,0,0,1,0,1,1,1,0,1
+Rocky Mountain National Park,3.6,701,1,4.0,hike973,0,1,0,0,1,0,0,0,0,0,0,0
+Mueller State Park,4.1,697,1,2.3,hike974,1,0,0,0,1,0,0,0,0,1,0,1
+White River National Forest,11.2,2926,3,4.5,hike975,0,1,0,1,0,0,0,0,0,1,0,1
+San Isabel National Forest,8.4,2232,2,3.3,hike976,0,1,0,1,0,1,0,1,1,0,0,1
+Mesa Verde National Park,1.3,157,1,4.5,hike977,1,0,0,0,1,0,0,1,0,1,0,1
+Cumbres Pass Historical Marker,10.0,1000,2,3.8,hike978,0,1,0,1,0,1,0,0,1,1,0,1
+White River National Forest,14.4,740,2,5.0,hike979,0,1,0,1,0,0,0,1,0,1,0,1
+Gunnison National Forest,11.7,852,2,5.0,hike980,1,0,0,1,0,0,0,0,0,1,0,1
+"Boulder, Colorado",2.3,74,2,5.0,hike981,1,0,0,1,1,0,0,0,1,1,0,1
+"Lake George, Colorado",12.3,3824,3,3.7,hike982,1,0,0,0,0,1,0,1,0,1,0,1
+Rocky Mountain National Park,9.9,1171,2,3.8,hike983,0,1,0,0,0,1,0,0,0,1,0,1
+"Lake City, Colorado",9.2,3785,2,4.5,hike984,0,1,0,1,0,0,0,0,0,0,0,0
+Roosevelt National Forest,5.8,1906,2,3.5,hike985,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,3.0,1000,2,4.5,hike986,0,1,0,0,0,0,0,0,0,0,0,0
+Roosevelt National Forest,4.8,729,2,3.7,hike987,0,1,0,0,1,0,0,0,0,1,0,1
+"Grand Lake, Colorado",19.1,2757,3,4.0,hike988,0,1,0,1,0,1,0,0,0,0,0,0
+Gunnison National Forest,7.3,614,1,3.6,hike989,1,0,0,0,1,0,0,1,0,1,0,1
+Highline Park,4.6,160,2,1.8,hike990,1,0,0,1,1,0,0,0,0,1,0,1
+Rio Grande National Forest,16.7,3508,2,5.0,hike991,0,0,1,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,7.0,3297,2,3.0,hike992,1,0,0,0,0,0,0,0,0,0,0,1
+Dominguez Canyon Wilderness,12.3,1423,1,4.2,hike993,0,1,0,1,0,1,1,1,0,0,0,1
+Arapaho National Forest,7.7,2495,2,3.5,hike994,0,1,0,0,0,0,0,0,0,1,0,1
+Gunnison National Forest,21.2,3219,2,5.0,hike995,0,1,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,3.3,2255,3,4.8,hike996,0,1,0,1,0,0,0,0,0,1,0,1
+"Mack, Colorado",1.4,187,1,3.8,hike997,1,0,0,1,1,0,0,0,0,1,0,1
+Bodo State Wildlife Area,3.8,1527,2,4.0,hike998,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,6.1,997,2,3.3,hike999,1,0,0,0,0,1,0,0,0,1,0,1
+Bear Creek Regional Park,5.0,1636,2,3.5,hike1000,0,1,0,0,0,0,0,0,0,0,0,0
+Florissant Fossil Beds National Monument,4.1,445,2,4.0,hike1001,0,1,0,0,1,0,0,0,0,1,0,0
+Gunnison National Forest,5.9,1735,2,2.5,hike1002,0,1,0,0,0,0,0,0,1,1,0,1
+Arapaho National Forest,5.9,2431,2,4.0,hike1003,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,7.8,1487,1,3.6,hike1004,1,0,0,0,1,0,0,0,0,1,0,1
+Eagles Nest Wilderness,11.5,3012,3,4.6,hike1005,0,1,0,1,0,0,0,0,1,1,0,1
+Mesa Verde National Park,0.6,206,1,4.6,hike1006,0,1,0,0,1,0,0,1,0,0,0,0
+White River National Forest,6.9,2263,2,4.7,hike1007,0,1,0,1,0,0,0,0,0,1,0,1
+San Juan National Forest,2.8,247,1,3.0,hike1008,0,1,0,0,1,0,0,0,1,1,0,1
+Pike National Forest,23.6,6569,3,5.0,hike1009,0,1,0,0,0,1,0,0,1,1,0,1
+Avon,0.9,35,1,3.6,hike1010,1,0,0,1,1,0,0,0,1,0,0,1
+Mount Evans Wilderness,0.6,104,1,3.8,hike1011,0,1,0,0,1,0,0,0,0,0,0,1
+Routt National Forest,20.0,1580,2,5.0,hike1012,0,0,1,0,0,0,0,0,0,0,0,1
+Gunnison National Forest,0.4,29,1,4.3,hike1013,0,1,0,0,1,1,0,0,1,1,0,1
+"Lafayette, Colorado",12.0,590,2,3.0,hike1014,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,28.8,7867,2,4.0,hike1015,0,0,1,1,1,0,0,0,0,1,0,1
+Roosevelt National Forest,21.7,5142,2,3.8,hike1016,0,1,0,1,1,0,0,0,0,1,0,1
+Peninsula Recreation Area,6.0,1206,1,1.5,hike1017,0,1,0,0,1,0,0,0,0,0,0,0
+Arapaho National Forest,5.1,1677,2,5.0,hike1018,1,0,0,0,0,0,0,0,0,0,0,1
+Ajax Park,19.7,4633,3,4.7,hike1019,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,4.8,1480,3,4.7,hike1020,0,1,0,0,0,0,0,0,1,0,0,0
+Rio Grande National Forest,13.9,4410,3,3.8,hike1021,0,1,0,0,0,0,0,0,1,1,0,1
+White River National Forest,6.7,1910,1,3.0,hike1022,0,1,0,1,1,0,0,0,0,1,0,1
+San Juan National Forest,8.7,1487,3,3.3,hike1023,1,0,0,0,0,0,0,0,0,1,0,0
+"Boulder, Colorado",4.4,437,1,3.0,hike1024,1,0,0,1,1,0,0,0,0,0,0,0
+Lizard Head Wilderness,9.0,4242,2,5.0,hike1025,0,1,0,1,0,1,1,1,1,1,0,1
+Roosevelt National Forest,12.2,3582,2,5.0,hike1026,0,1,0,0,0,0,0,0,0,1,0,1
+Gunnison National Forest,2.1,423,1,5.0,hike1027,1,0,0,0,1,0,0,0,1,1,0,1
+Cache La Poudre Wilderness,5.3,1050,2,2.6,hike1028,0,1,0,1,1,1,0,0,0,1,0,1
+Rio Grande National Forest,8.5,3026,3,5.0,hike1029,0,1,0,0,0,0,0,0,1,1,0,1
+San Isabel National Forest,11.4,5974,2,4.5,hike1030,0,1,0,1,0,0,0,0,0,0,0,0
+Heritage Park,30.1,1301,1,2.6,hike1031,0,1,0,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,9.2,1852,2,3.7,hike1032,0,1,0,0,0,0,0,1,1,1,0,1
+Colorado National Monument,11.6,2204,2,3.0,hike1033,0,1,0,0,0,1,0,1,0,1,0,1
+Maroon Bells Snowmass Wilderness,22.3,6771,3,5.0,hike1034,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,6.0,345,2,4.7,hike1035,0,1,0,0,0,0,0,0,0,0,0,0
+Golden Gate Canyon State Park,9.8,2034,2,4.3,hike1036,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,5.1,956,2,3.0,hike1037,0,1,0,1,0,0,0,0,0,1,0,1
+State Forest State Park,13.3,2784,3,4.7,hike1038,0,1,0,1,0,1,1,1,1,1,0,1
+San Isabel National Forest,3.5,832,2,3.3,hike1039,1,0,0,0,1,0,0,0,0,1,0,1
+San Isabel National Forest,8.8,2105,2,3.5,hike1040,0,1,0,0,0,0,0,0,1,1,0,1
+Lake Pueblo State Park,16.1,1101,1,3.8,hike1041,0,1,0,0,1,0,0,1,1,1,0,1
+"Aspen, Colorado",1.4,205,1,5.0,hike1042,0,1,0,1,1,0,0,1,1,1,0,1
+San Juan National Forest,3.2,733,2,3.0,hike1043,0,1,0,0,1,0,0,0,0,1,0,1
+San Isabel National Forest,8.7,2547,2,4.5,hike1044,0,1,0,0,0,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,8.0,5056,3,5.0,hike1045,0,1,0,1,0,0,0,0,0,1,0,1
+"Fort Collins, Colorado",1.7,96,1,3.5,hike1046,1,0,0,0,1,0,0,0,1,0,0,0
+San Isabel National Forest,9.9,3400,3,3.0,hike1047,0,0,1,0,0,0,0,0,0,0,0,0
+"Aurora, Colorado",3.1,146,1,4.0,hike1048,1,0,0,0,1,0,0,0,1,0,0,0
+Holy Cross Wilderness,9.3,1608,3,4.5,hike1049,0,1,0,1,0,1,0,0,1,1,0,1
+Antlers Park,23.8,1239,2,5.0,hike1050,0,0,1,1,1,0,0,0,0,1,0,1
+Black Ridge Canyons Wilderness,8.1,1066,2,4.0,hike1051,1,0,0,0,0,0,0,0,0,1,0,0
+Maroon Bells Snowmass Wilderness,3.2,637,1,5.0,hike1052,1,0,0,0,1,0,0,0,0,1,0,1
+Boulder VallEY Ranch,7.9,850,2,4.0,hike1053,1,0,0,0,0,0,0,0,0,0,0,1
+Ketring Park,1.3,33,2,4.0,hike1054,0,1,0,1,1,0,0,0,0,1,0,1
+San Isabel National Forest,8.4,2068,2,4.0,hike1055,0,1,0,0,0,0,0,0,0,0,0,1
+San Juan National Forest,4.2,1207,3,3.4,hike1056,0,1,0,0,0,0,0,0,1,0,0,0
+Curecanti National Recreation Area,1.3,13,1,3.3,hike1057,0,1,0,1,1,0,0,1,0,0,0,0
+Sylvan Lake State Park,0.7,217,1,4.5,hike1058,0,1,0,0,1,0,0,0,1,1,0,0
+White River National Forest,12.8,4691,3,5.0,hike1059,1,0,0,0,0,0,0,0,0,1,0,1
+North Cheyenne Park,13.6,3164,2,3.3,hike1060,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,7.7,4386,3,4.5,hike1061,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,9.7,2279,2,4.0,hike1062,0,1,0,0,0,0,0,0,0,0,0,0
+James G Toepfer Park,11.5,1128,2,3.3,hike1063,1,0,0,1,0,0,0,0,0,0,0,0
+James Peak Wilderness,3.1,974,2,4.0,hike1064,1,0,0,1,1,0,0,0,1,1,0,1
+Mueller State Park,9.5,1587,2,3.7,hike1065,1,0,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,11.4,5533,3,3.3,hike1066,0,1,0,1,0,0,0,0,1,1,0,1
+White River National Forest,3.8,1485,3,4.7,hike1067,0,1,0,0,0,0,0,0,1,0,0,0
+Steamboat Lake State Park,1.0,144,1,4.0,hike1068,1,0,0,0,1,0,0,0,1,1,0,1
+Black Canyon of the Gunnison National Park,1.4,218,2,4.3,hike1069,0,1,0,0,1,0,0,0,0,1,0,1
+Homestead Park,14.5,1231,1,2.8,hike1070,1,0,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,0.3,129,2,5.0,hike1071,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,4.4,773,3,5.0,hike1072,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,6.5,1785,2,4.7,hike1073,0,0,1,1,0,0,0,1,0,0,0,1
+Pike National Forest,10.0,2781,2,3.0,hike1074,0,1,0,0,0,0,0,0,0,1,0,1
+Colorado National Monument,1.3,316,1,3.0,hike1075,0,1,0,0,1,0,0,0,0,1,0,1
+Roosevelt National Forest,11.8,3341,3,5.0,hike1076,0,1,0,1,0,0,0,0,1,1,0,1
+Arapaho National Forest,9.8,1289,1,4.0,hike1077,0,1,0,0,0,0,0,1,0,0,0,1
+Grand Mesa National Forest,41.7,6969,1,4.0,hike1078,1,0,0,0,0,0,0,0,0,0,0,1
+Uncompahgre Wilderness,28.9,7453,2,4.5,hike1079,1,0,0,1,1,0,0,0,0,1,0,1
+Raggeds Wilderness,4.8,680,2,5.0,hike1080,1,0,0,1,1,0,0,0,1,1,0,1
+"Idaho Springs, Colorado",2.4,848,2,2.5,hike1081,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,5.6,2475,3,5.0,hike1082,0,1,0,0,0,0,0,0,0,1,0,1
+"Castle Rock, Colorado",2.9,355,2,3.5,hike1083,0,1,0,1,1,0,0,0,0,1,0,1
+San Isabel National Forest,2.8,492,1,4.0,hike1084,0,1,0,1,1,0,0,0,0,0,0,1
+Arapaho National Forest,5.9,2023,2,4.0,hike1085,0,1,0,0,1,0,0,0,1,1,0,1
+Dinosaur National Monument,2.3,346,1,4.0,hike1086,0,1,0,0,1,0,0,0,0,1,0,1
+Douglas County Fairgrounds,10.9,617,1,3.3,hike1087,0,1,0,1,1,0,0,1,0,1,0,1
+Pike National Forest,9.1,2049,2,4.5,hike1088,0,1,0,1,0,1,1,0,0,1,0,1
+Carolyn Holmberg Preserve,2.3,46,1,3.5,hike1089,1,0,0,1,1,0,0,0,1,1,0,1
+White River National Forest,9.3,3393,3,5.0,hike1090,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,15.2,4080,3,5.0,hike1091,0,1,0,0,0,0,0,0,0,1,0,1
+"Idaho Springs, Colorado",4.8,777,2,2.5,hike1092,0,1,0,0,1,0,0,0,0,1,0,1
+"Grant, Colorado",28.0,334,2,5.0,hike1093,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,15.8,3928,2,4.0,hike1094,0,1,0,0,0,1,0,1,1,0,0,1
+"Buena Vista, Colorado",13.0,4400,2,5.0,hike1095,0,1,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,7.9,3078,3,4.7,hike1096,0,0,1,0,0,0,0,0,0,0,0,1
+Pike National Forest,3.3,1137,2,4.5,hike1097,0,1,0,1,1,0,0,0,0,1,0,1
+"Aurora, Colorado",4.1,174,1,3.5,hike1098,0,1,0,1,1,0,0,0,1,0,0,1
+"Westcliffe, Colorado",4.0,1500,3,4.5,hike1099,0,1,0,1,0,0,1,1,1,0,0,1
+Red Rocks Park,3.2,717,2,5.0,hike1100,1,0,0,1,0,0,0,0,0,0,0,1
+White River National Forest,21.4,3950,3,4.0,hike1101,1,0,0,1,0,1,0,0,1,0,0,1
+Heritage Park,1.7,54,1,3.0,hike1102,1,0,0,1,1,0,0,0,0,0,0,0
+Great Sand Dunes National Preserve,3.5,2000,3,4.0,hike1103,0,0,1,0,0,0,0,0,1,0,0,1
+"Granite, Colorado",7.6,3455,3,4.0,hike1104,0,1,0,0,0,0,0,0,1,0,0,1
+"Estes Park, Colorado",16.5,2724,2,4.3,hike1105,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,2.7,171,1,3.0,hike1106,0,1,0,1,1,0,0,0,0,0,0,0
+Roosevelt National Forest,30.2,2300,3,4.3,hike1107,0,1,0,0,0,0,0,0,0,0,0,1
+Grand Mesa National Forest,12.3,1255,1,4.3,hike1108,0,1,0,0,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,2.0,733,2,2.5,hike1109,0,1,0,0,0,0,0,0,0,1,0,1
+"Boulder, Colorado",2.2,202,2,2.5,hike1110,0,1,0,1,1,0,0,1,0,1,0,1
+Gunnison National Forest,6.0,1690,2,4.5,hike1111,0,1,0,0,0,0,0,0,1,0,0,0
+"Cortez, Colorado",11.4,1102,2,4.5,hike1112,1,0,0,0,0,0,0,0,0,0,0,0
+Grand Mesa National Forest,61.5,7044,1,3.7,hike1113,0,0,1,1,1,0,0,0,0,1,0,1
+Pike National Forest,10.0,1600,2,4.5,hike1114,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,3.6,915,2,3.5,hike1115,1,0,0,0,0,0,0,0,0,1,0,1
+"Twin Lakes, Colorado",4.3,3921,3,4.8,hike1116,0,0,1,1,0,0,0,1,1,1,0,0
+Dillon Reservoir Recreation Area,4.1,401,1,3.0,hike1117,1,0,0,1,1,0,0,1,1,1,0,1
+"Breckenridge, Colorado",0.8,226,2,4.5,hike1118,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,2.9,885,2,3.5,hike1119,0,1,0,0,0,0,0,0,0,0,0,1
+"Aspen, Colorado",0.4,82,1,4.3,hike1120,1,0,0,0,1,0,0,1,0,1,0,1
+Apex Open Space Park,12.2,2831,3,5.0,hike1121,1,0,0,1,0,0,0,0,0,1,0,1
+San Juan National Forest,6.0,1214,2,3.7,hike1122,0,1,0,1,0,0,1,1,0,1,0,1
+Roosevelt National Forest,4.3,596,1,5.0,hike1123,0,1,0,0,1,0,0,0,0,0,0,0
+Ruth Roberts Preserve,11.0,958,2,3.7,hike1124,0,1,0,0,0,0,0,0,0,1,0,1
+Maroon Bells Snowmass Wilderness,8.0,1454,2,3.3,hike1125,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,7.1,1565,1,4.0,hike1126,1,0,0,0,0,0,0,0,0,0,0,0
+"Silver Plume, Colorado",4.9,935,1,4.0,hike1127,0,1,0,0,1,0,0,0,0,0,0,1
+Boulder Mountain Park,2.6,760,1,5.0,hike1128,0,1,0,1,1,0,0,1,0,1,0,1
+Main Park,2.3,27,1,4.3,hike1129,1,0,0,1,1,0,0,0,1,1,0,1
+Pike National Forest,13.2,750,2,3.7,hike1130,0,1,0,0,0,0,0,0,0,0,0,0
+Holy Cross Wilderness,6.3,3581,3,4.0,hike1131,0,1,0,1,0,0,0,0,1,0,0,0
+"Steamboat Springs, Colorado",11.3,2056,2,5.0,hike1132,0,1,0,0,0,0,0,0,0,0,0,1
+Cottonwood Hollow Natural Area,1.4,12,1,4.0,hike1133,1,0,0,0,1,0,0,1,0,1,0,1
+Bear Creek Park,6.6,1688,3,4.3,hike1134,0,1,0,1,0,0,0,0,0,0,0,1
+"Fruita, Colorado",8.0,1006,3,5.0,hike1135,1,0,0,0,0,0,0,0,0,1,0,1
+Pike National Forest,8.5,1725,2,4.0,hike1136,1,0,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,10.9,2017,3,5.0,hike1137,0,0,1,1,0,0,0,0,1,1,0,1
+Black Canyon of the Gunnison National Park,0.3,52,2,4.5,hike1138,0,1,0,0,1,0,0,1,0,1,0,1
+White River National Forest,3.4,784,2,3.5,hike1139,1,0,0,1,1,0,0,0,0,0,0,0
+Boulder Mountain Park,1.3,362,1,3.0,hike1140,1,0,0,1,1,0,0,0,0,1,0,1
+San Juan National Forest,6.1,1420,2,4.3,hike1141,0,1,0,1,1,1,0,0,0,1,0,0
+Arapaho National Forest,8.7,3228,3,4.0,hike1142,0,1,0,0,0,0,0,0,0,0,0,1
+Uncompahgre National Forest,1.8,1032,2,4.0,hike1143,0,0,1,1,0,0,0,0,0,1,0,1
+Lory State Park,4.9,375,1,3.7,hike1144,1,0,0,0,1,0,0,0,0,1,0,1
+Vermijo Park,6.9,317,1,3.5,hike1145,0,1,0,1,1,0,0,1,0,1,0,1
+San Juan National Forest,8.1,1893,2,4.0,hike1146,1,0,0,0,0,0,0,0,1,1,0,0
+White River National Forest,7.2,1310,3,4.0,hike1147,0,1,0,0,0,0,0,0,0,0,0,0
+Quaker Acres Park,1.4,47,2,3.0,hike1148,1,0,0,0,1,0,0,0,1,1,0,1
+White River National Forest,7.1,1846,1,5.0,hike1149,0,1,0,0,1,0,0,0,0,1,0,1
+Uncompahgre Wilderness,7.9,3099,2,4.5,hike1150,0,1,0,1,0,1,0,0,1,1,0,1
+Rio Grande National Forest,13.9,7724,3,3.0,hike1151,0,1,0,1,0,0,0,0,0,0,0,0
+Arapaho National Forest,6.5,1932,2,2.5,hike1152,1,0,0,1,1,0,0,0,0,1,0,1
+Gothic Natural Area,9.1,2423,2,4.0,hike1153,1,0,0,0,1,0,0,0,0,1,0,1
+San Isabel National Forest,14.0,2800,3,4.8,hike1154,0,1,0,1,0,0,1,1,1,1,0,1
+"Leadville, Colorado",7.1,1350,3,5.0,hike1155,1,0,0,0,0,0,0,0,0,0,0,0
+Great Sand Dunes National Park,0.9,176,2,3.3,hike1156,0,1,0,0,1,0,0,0,0,1,0,1
+Routt National Forest,10.1,1870,2,4.0,hike1157,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,3.2,1915,3,4.0,hike1158,1,0,0,1,0,0,1,0,0,1,0,1
+Centennial Park,9.1,377,1,4.0,hike1159,0,1,0,1,0,0,0,1,0,0,0,0
+San Isabel National Forest,8.8,4520,2,4.5,hike1160,1,0,0,0,0,0,0,0,0,1,0,1
+San Isabel National Forest,10.0,1230,3,4.0,hike1161,0,1,0,0,0,0,0,0,1,1,0,0
+Collegiate Peaks Wilderness,3.9,1172,2,5.0,hike1162,0,1,0,0,0,0,0,0,0,1,0,1
+White River National Forest,2.9,1057,2,4.8,hike1163,0,0,1,0,0,0,0,0,0,0,0,0
+"Durango, Colorado",10.8,1345,2,5.0,hike1164,1,0,0,0,0,0,0,0,0,0,0,0
+Boulder VallEY Ranch,2.9,276,1,3.3,hike1165,1,0,0,1,1,0,0,0,0,1,0,0
+Mc Phelemy Park,11.7,2074,1,4.0,hike1166,1,0,0,0,1,0,0,0,0,1,0,1
+Arapaho National Forest,8.0,1645,2,4.0,hike1167,0,1,0,0,0,0,0,0,0,0,0,0
+Chautauqua Park,1.5,461,2,3.7,hike1168,1,0,0,1,0,0,0,0,0,1,0,1
+San Juan National Forest,14.5,4069,3,4.8,hike1169,0,1,0,1,0,1,0,0,1,1,0,1
+"Denver, Colorado",0.4,7,2,3.3,hike1170,1,0,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,5.8,2373,2,3.0,hike1171,1,0,0,1,0,1,1,1,0,0,0,0
+"Divide, Colorado",7.5,780,2,4.0,hike1172,0,1,0,1,0,0,0,0,0,1,0,1
+White River National Forest,11.2,2420,1,4.0,hike1173,0,1,0,0,0,0,0,0,0,0,0,0
+Roosevelt National Forest,5.7,596,2,3.0,hike1174,0,1,0,0,0,0,0,0,0,0,0,0
+"Colorado Springs, Colorado",4.7,143,1,2.6,hike1175,0,1,0,0,1,0,0,0,1,1,0,0
+"Castle Rock, Colorado",2.8,214,1,5.0,hike1176,1,0,0,1,1,0,0,1,0,1,0,1
+Arapaho National Forest,3.4,900,3,3.8,hike1177,0,1,0,0,0,0,0,0,1,0,0,0
+Collegiate Peaks Wilderness,11.1,3198,3,3.0,hike1178,0,1,0,0,0,0,0,0,1,1,0,1
+Rio Grande National Forest,1.0,111,1,4.0,hike1179,1,0,0,1,1,1,1,1,0,0,0,1
+White River National Forest,8.3,2809,3,4.0,hike1180,0,1,0,0,0,0,0,0,0,0,0,0
+Pike National Forest,31.0,2280,3,4.0,hike1181,0,1,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,5.0,3500,3,5.0,hike1182,0,1,0,1,0,1,1,1,0,1,0,1
+"Littleton, Colorado",15.4,856,1,2.0,hike1183,0,1,0,1,1,0,0,1,1,0,0,1
+Rocky Mountain National Park,20.1,3844,3,4.0,hike1184,0,1,0,0,0,0,0,0,1,1,0,1
+Gunnison National Forest,11.2,2410,3,4.0,hike1185,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,5.5,1357,2,4.0,hike1186,1,0,0,1,1,0,0,0,0,1,0,1
+Routt National Forest,6.1,490,2,3.7,hike1187,0,1,0,0,0,0,0,1,1,0,0,0
+"Durango, Colorado",10.1,1961,2,4.0,hike1188,1,0,0,0,0,0,0,0,0,0,0,0
+Gunnison National Forest,2.2,135,1,4.0,hike1189,1,0,0,0,0,1,0,0,1,1,0,1
+"Lake City, Colorado",9.3,3222,2,4.3,hike1190,0,1,0,1,0,1,1,1,0,1,0,1
+"Whitewater, Colorado",4.3,396,1,4.0,hike1191,1,0,0,1,1,0,0,1,0,1,0,1
+Pike National Forest,7.6,1430,1,3.0,hike1192,0,1,0,0,1,0,0,0,0,0,0,0
+"Salida, Colorado",3.8,149,1,4.0,hike1193,0,1,0,1,1,0,0,0,0,0,0,1
+White River National Forest,13.4,3681,2,5.0,hike1194,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,9.6,2040,2,5.0,hike1195,0,0,1,1,0,0,0,1,0,1,0,0
+"Buena Vista, Colorado",8.1,1781,3,5.0,hike1196,1,0,0,1,0,0,0,0,0,1,0,1
+White River National Forest,6.5,1584,2,4.0,hike1197,0,1,0,0,0,0,0,0,0,0,0,1
+Rio Grande National Forest,8.0,2000,3,4.3,hike1198,0,1,0,0,0,1,1,0,1,1,0,1
+Colorado National Monument,5.1,624,1,5.0,hike1199,1,0,0,0,1,0,0,0,0,1,0,1
+San Juan National Forest,0.9,200,1,4.7,hike1200,1,0,0,0,1,0,0,0,0,0,0,0
+"Fraser, Colorado",20.4,2535,1,4.0,hike1201,1,0,0,0,0,0,0,0,0,0,0,0
+Pike National Forest,11.0,3264,3,3.5,hike1202,1,0,0,0,0,1,0,0,0,0,0,1
+"Granite, Colorado",11.0,4500,3,4.0,hike1203,0,1,0,1,0,1,0,1,0,1,0,1
+Uncompahgre National Forest,5.7,714,2,3.7,hike1204,1,0,0,1,0,1,0,0,0,1,0,1
+Gunnison National Forest,7.5,1920,2,4.5,hike1205,0,1,0,0,0,0,0,0,1,0,0,0
+San Isabel National Forest,5.9,2523,3,4.0,hike1206,0,1,0,0,0,0,0,0,0,1,0,1
+Boulder Mountain Park,1.0,434,1,2.5,hike1207,1,0,0,1,1,0,0,0,0,1,0,0
+White River National Forest,2.5,646,2,4.0,hike1208,0,1,0,0,0,0,0,0,0,1,0,1
+Gunnison National Forest,11.1,2922,3,4.0,hike1209,0,1,0,1,0,0,0,0,0,1,0,1
+Arapaho National Forest,4.3,1481,3,4.0,hike1210,0,1,0,0,0,0,0,0,0,0,0,0
+San Juan National Forest,9.0,1560,3,4.0,hike1211,0,1,0,0,0,0,0,0,1,0,0,0
+Sopris Park,12.1,2241,2,4.0,hike1212,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,3.9,540,2,4.0,hike1213,0,1,0,0,1,0,0,0,0,1,0,1
+Mesa Verde National Park,2.0,182,2,4.5,hike1214,0,1,0,0,0,0,0,0,0,0,0,0
+"Howard, Colorado",9.2,1138,2,4.0,hike1215,1,0,0,1,0,0,0,0,0,1,0,1
+Arapaho National Forest,3.5,1262,2,3.5,hike1216,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,4.4,417,1,4.5,hike1217,0,1,0,0,1,0,0,1,0,0,0,0
+Little Book Cliffs Wilderness Study Area,11.6,1059,1,2.8,hike1218,0,1,0,0,0,0,0,0,0,1,0,1
+Uncompahgre Wilderness,14.7,3110,3,4.3,hike1219,0,1,0,0,0,0,0,0,0,1,0,1
+Pike National Forest,19.6,2867,2,3.0,hike1220,1,0,0,1,1,1,0,0,0,1,0,1
+White River National Forest,7.0,2610,3,3.5,hike1221,0,1,0,0,0,0,0,1,0,1,0,1
+Black Canyon of the Gunnison National Park,0.0,7,2,4.0,hike1222,0,1,0,0,0,0,0,0,0,0,0,1
+"Longmont, Colorado",12.3,202,1,5.0,hike1223,0,1,0,0,1,0,0,0,0,1,0,1
+White River National Forest,28.4,5074,2,3.0,hike1224,0,1,0,0,0,0,0,1,0,1,0,1
+San Juan National Forest,4.6,2000,3,5.0,hike1225,0,1,0,1,0,1,1,1,1,1,0,1
+Sangre de Cristo Wilderness,16.9,6632,3,5.0,hike1226,0,1,0,0,0,0,0,0,0,0,0,1
+San Isabel National Forest,5.2,1886,3,4.5,hike1227,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,7.9,3965,3,4.0,hike1228,0,1,0,1,0,0,0,0,1,1,0,1
+Pike National Forest,4.6,1316,2,4.0,hike1229,0,1,0,0,0,0,0,0,0,0,0,0
+"Boulder, Colorado",1.5,21,1,4.0,hike1230,1,0,0,1,1,0,0,0,0,0,0,0
+Arapaho National Forest,8.8,1832,2,1.0,hike1231,0,1,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,1.3,112,2,3.5,hike1232,0,1,0,0,1,0,0,0,0,1,0,1
+"Westcliffe, Colorado",10.0,2400,2,4.0,hike1233,0,1,0,0,0,0,0,0,0,0,0,0
+Rio Grande National Forest,12.0,3000,3,4.0,hike1234,0,1,0,0,0,0,0,0,0,0,0,0
+Flat Tops Wilderness,47.9,10506,3,5.0,hike1235,0,1,0,0,0,0,0,0,1,0,0,0
+Rio Grande National Forest,7.1,2770,3,4.0,hike1236,1,0,0,1,0,0,0,0,0,0,0,0
+"Longmont, Colorado",1.6,32,1,3.0,hike1237,1,0,0,0,1,0,0,0,0,1,0,1
+Comanche National Grassland,17.1,1019,3,5.0,hike1238,0,1,0,1,0,1,0,1,0,1,0,1
+Cherry Knolls Park,3.1,162,1,5.0,hike1239,0,1,0,1,1,0,0,0,0,0,0,0
+"Frisco, Colorado",6.5,3716,3,5.0,hike1240,0,1,0,1,0,0,0,0,0,1,0,1
+Gunnison National Forest,7.8,2258,2,4.8,hike1241,0,1,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,7.5,2033,3,5.0,hike1242,1,0,0,1,0,0,0,0,0,1,0,1
+Rio Grande National Forest,18.4,6659,3,5.0,hike1243,0,1,0,1,0,0,0,1,1,1,0,1
+White River National Forest,15.8,100,2,4.0,hike1244,1,0,0,0,0,0,0,0,1,0,0,0
+Routt National Forest,9.6,4039,2,5.0,hike1245,1,0,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,9.3,3756,3,4.5,hike1246,0,1,0,1,0,1,0,0,0,1,0,1
+Uncompahgre National Forest,15.5,3473,3,3.0,hike1247,0,0,1,1,0,0,0,1,1,1,0,1
+Maroon Bells Snowmass Wilderness,11.5,6009,3,4.0,hike1248,0,1,0,0,0,0,0,0,0,1,0,1
+Colorado National Monument,5.0,677,1,4.3,hike1249,1,0,0,1,1,0,0,0,0,1,0,1
+Pike National Forest,1.0,113,1,5.0,hike1250,1,0,0,1,1,0,0,0,0,0,0,0
+Eagles Nest Wilderness,3.4,827,2,4.5,hike1251,0,1,0,1,0,0,0,0,1,1,0,1
+Philip S. Miller Park,3.3,468,2,3.5,hike1252,1,0,0,1,1,0,0,0,0,1,0,1
+San Juan National Forest,2.6,706,2,4.7,hike1253,0,1,0,0,1,0,0,0,0,1,0,1
+"Boulder, Colorado",1.5,44,1,4.0,hike1254,1,0,0,1,1,0,0,0,1,0,0,1
+Santa Rita Park,5.6,1078,3,4.0,hike1255,1,0,0,0,0,0,0,0,0,0,0,0
+Arapaho National Forest,3.5,1194,2,1.0,hike1256,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,1.7,335,2,4.0,hike1257,0,1,0,1,0,0,0,0,0,1,0,1
+"Fruita, Colorado",8.1,1190,3,5.0,hike1258,1,0,0,0,0,0,0,0,0,0,0,0
+"Durango, Colorado",9.1,1244,2,5.0,hike1259,1,0,0,0,0,0,0,0,0,1,0,1
+Black Ridge Canyons Wilderness,6.7,1006,2,3.3,hike1260,1,0,0,0,0,0,0,0,0,1,0,1
+Eagles Nest Wilderness,4.7,1203,2,2.5,hike1261,0,1,0,0,1,0,0,0,0,1,0,1
+Prospect Park,1.3,28,1,3.0,hike1262,1,0,0,1,1,0,0,0,0,0,0,0
+White River National Forest,0.5,74,1,3.3,hike1263,1,0,0,0,1,0,0,1,0,1,0,0
+Trinidad Lake State Park,5.0,1280,2,4.0,hike1264,1,0,0,1,1,1,0,0,1,0,0,1
+Grand Mesa National Forest,16.5,4493,3,3.0,hike1265,0,1,0,1,0,0,0,1,1,0,0,0
+Comanche Peak Wilderness,13.0,2185,2,4.0,hike1266,0,1,0,0,0,0,0,0,0,0,0,1
+Lake Arbor Park,1.2,33,2,3.5,hike1267,1,0,0,1,1,0,0,0,1,1,0,1
+Gunnison National Forest,18.3,2805,3,4.0,hike1268,1,0,0,1,0,0,0,0,0,1,0,0
+Arapaho National Forest,2.1,886,2,4.0,hike1269,0,1,0,0,0,0,0,0,0,0,0,0
+Great Sand Dunes National Park,25.3,3813,2,4.0,hike1270,0,1,0,1,0,1,0,1,1,1,0,1
+Comanche National Grassland,1.1,79,2,4.0,hike1271,0,1,0,1,0,1,0,1,0,1,0,1
+Rocky Mountain National Park,2.2,1073,3,3.7,hike1272,0,1,0,0,0,0,0,1,0,0,0,1
+Mesa Verde National Park,7.3,1169,2,4.7,hike1273,1,0,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,24.8,7169,2,4.5,hike1274,1,0,0,1,0,0,0,0,0,1,0,1
+Black Ridge Canyons Wilderness,21.0,1516,2,5.0,hike1275,1,0,0,0,0,0,0,0,0,1,0,1
+Uncompahgre Wilderness,7.9,2606,3,3.0,hike1276,0,1,0,1,0,0,0,0,0,1,0,1
+Roosevelt National Forest,8.2,3089,3,4.0,hike1277,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,24.0,40,1,3.0,hike1278,0,1,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,12.6,3345,3,4.0,hike1279,1,0,0,0,0,0,1,1,1,0,0,0
+"Loveland, Colorado",2.4,78,2,3.0,hike1280,1,0,0,0,1,0,0,0,1,1,0,1
+"Arvada, Colorado",1.3,158,2,2.0,hike1281,1,0,0,1,0,0,0,0,0,0,0,0
+Atapaho National Forest,12.0,3109,2,4.0,hike1282,1,0,0,1,0,0,0,0,0,1,0,1
+White River National Forest,14.0,2863,2,3.0,hike1283,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,29.4,4972,2,4.0,hike1284,0,1,0,1,0,0,1,1,0,1,0,1
+Rocky Mountain National Park,0.1,0,1,2.3,hike1285,0,1,0,0,1,0,0,1,0,1,0,1
+Manitou Springs Open Space,6.2,2057,2,4.5,hike1286,0,1,0,1,0,0,0,0,0,0,0,1
+Rio Grande National Forest,9.0,2029,2,4.0,hike1287,0,1,0,0,0,0,0,1,0,0,0,1
+Routt National Forest,11.2,991,1,4.3,hike1288,0,1,0,0,1,0,0,0,0,1,0,1
+Cheyenne Mountain State Park,4.2,575,2,5.0,hike1289,1,0,0,0,1,1,0,0,0,1,0,1
+Pike National Forest,0.7,295,2,3.5,hike1290,0,1,0,0,1,0,0,0,0,1,0,1
+Pike National Forest,18.0,1000,1,4.0,hike1291,0,1,0,0,0,0,0,0,0,0,0,0
+"Estes Park, Colorado",5.0,297,1,3.0,hike1292,1,0,0,1,1,0,0,1,1,1,0,0
+"Broomfield, Colorado",1.2,52,1,4.0,hike1293,1,0,0,1,1,0,0,0,1,0,0,0
+Colorado National Monument,19.9,3985,3,5.0,hike1294,1,0,0,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,24.0,5190,3,5.0,hike1295,0,1,0,0,0,0,0,1,1,1,0,1
+Pike National Forest,3.5,653,2,4.5,hike1296,1,0,0,1,0,0,0,0,0,0,0,0
+McInnis Canyons National Conservation Area,27.6,2805,3,4.3,hike1297,0,0,1,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,10.6,1630,2,1.0,hike1298,1,0,0,0,0,0,0,0,0,1,0,1
+South San Juan Wilderness,4.8,1338,2,4.0,hike1299,0,1,0,1,1,0,0,0,0,1,0,1
+Gunnison National Forest,3.5,1104,1,3.0,hike1300,0,1,0,1,1,0,0,0,0,0,0,0
+Gunnison National Forest,5.0,499,1,4.0,hike1301,0,1,0,0,1,0,0,0,0,1,0,1
+San Juan National Forest,13.8,2878,2,4.0,hike1302,0,1,0,0,0,0,0,0,1,1,0,1
+Rio Grande National Forest,2.0,200,3,3.0,hike1303,0,1,0,0,0,0,0,0,1,0,0,0
+Rocky Mountain National Park,5.2,876,2,4.0,hike1304,0,1,0,0,0,0,0,0,0,0,0,0
+Boulder VallEY Ranch,4.2,317,1,3.5,hike1305,0,1,0,0,1,0,0,0,0,1,0,0
+"Rye, Colorado",4.1,1181,2,3.7,hike1306,0,1,0,0,0,0,0,0,0,0,0,0
+San Juan National Forest,7.2,1967,2,4.0,hike1307,0,1,0,1,1,0,1,0,1,1,0,1
+Roosevelt National Forest,29.8,5675,3,3.0,hike1308,0,1,0,0,0,0,0,0,0,1,0,1
+Gunnison National Forest,4.0,4042,2,5.0,hike1309,0,0,1,1,0,0,0,0,0,0,0,0
+"Cotopaxi, Colorado",4.0,650,1,2.3,hike1310,0,1,0,1,1,0,0,1,0,1,0,0
+White River National Forest,11.8,3270,3,4.7,hike1311,0,1,0,0,0,0,0,0,0,0,0,1
+"Boulder, Colorado",1.8,104,1,5.0,hike1312,1,0,0,1,1,0,0,0,1,1,0,0
+Pike National Forest,7.6,1586,2,3.5,hike1313,0,1,0,1,0,0,0,0,0,1,0,1
+"Colorado Springs, Colorado",3.9,399,2,1.0,hike1314,1,0,0,0,0,0,0,0,0,0,0,0
+Great Sand Dunes National Park,1.0,185,1,3.5,hike1315,0,1,0,0,1,0,0,0,0,1,0,1
+Comanche National Grassland,5.7,404,1,4.0,hike1316,0,1,0,1,1,1,0,0,0,1,0,1
+Routt National Forest,4.0,686,2,4.3,hike1317,1,0,0,0,0,0,0,0,0,0,0,0
+Rocky Mountain National Park,4.2,636,2,4.0,hike1318,0,1,0,0,0,0,0,1,0,1,0,0
+White River National Forest,19.7,2120,2,5.0,hike1319,0,1,0,0,0,0,0,0,0,1,0,1
+Mueller State Park,2.7,432,1,4.0,hike1320,1,0,0,0,1,0,0,0,0,1,0,1
+"Westcliffe, Colorado",15.9,1575,2,4.0,hike1321,1,0,0,0,0,0,0,1,1,0,0,1
+San Juan National Forest,19.5,4730,3,5.0,hike1322,1,0,0,0,0,0,0,0,0,0,0,0
+McInnis Canyons National Conservation Area,5.9,1019,1,4.5,hike1323,1,0,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,12.2,4005,3,4.5,hike1324,0,1,0,1,0,0,1,1,0,1,0,1
+Echo Lake Park,5.8,856,2,4.7,hike1325,0,1,0,0,0,0,0,0,0,0,0,0
+Routt National Forest,4.2,2627,2,5.0,hike1326,0,1,0,0,0,0,0,0,0,0,0,0
+"Breckenridge, Colorado",6.7,2478,3,5.0,hike1327,1,0,0,0,0,0,0,0,0,1,0,1
+Tennyson Knolls Park,1.3,45,1,2.5,hike1328,1,0,0,1,1,0,0,0,1,1,0,1
+"Louisville, Colorado",14.0,1071,2,2.7,hike1329,1,0,0,1,0,0,0,0,0,1,0,1
+Alderfer / Three Sisters Park,4.4,826,2,4.0,hike1330,0,1,0,1,1,0,0,0,0,0,0,1
+Grand Mesa National Forest,10.4,1490,2,4.5,hike1331,1,0,0,1,0,0,0,0,1,1,0,1
+Gunnison National Forest,6.0,1502,3,4.0,hike1332,0,1,0,1,0,0,0,0,1,0,0,0
+San Juan National Forest,8.1,2312,3,5.0,hike1333,1,0,0,0,0,0,0,0,1,1,0,1
+Castle Rock Ballfield,1.4,324,1,5.0,hike1334,1,0,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,11.5,2369,2,5.0,hike1335,0,1,0,0,0,0,0,1,0,1,0,1
+Mesa Verde National Park,0.9,84,1,4.0,hike1336,1,0,0,0,1,0,0,0,0,0,0,1
+Lory State Park,5.8,1368,2,4.0,hike1337,0,1,0,1,0,0,0,1,0,1,0,1
+"Steamboat Springs, Colorado",4.4,203,2,2.0,hike1338,1,0,0,0,0,0,0,0,0,0,0,0
+"Granite, Colorado",3.9,305,1,5.0,hike1339,0,1,0,0,1,0,0,1,0,1,0,1
+"Moffat, Colorado",12.0,3400,2,4.0,hike1340,0,1,0,0,0,0,0,0,0,0,0,0
+"Black Hawk, Colorado",7.8,2187,2,4.0,hike1341,0,0,1,1,1,0,0,0,0,1,0,1
+Comanche Peak Wilderness,12.7,2283,1,3.0,hike1342,0,1,0,1,1,0,0,1,0,1,0,1
+Rio Grande National Forest,20.0,4391,2,5.0,hike1343,1,0,0,0,0,0,0,0,0,0,0,0
+Sangre de Cristo Wilderness,21.6,2358,1,4.5,hike1344,0,1,0,0,0,0,0,0,0,1,0,1
+Uncompahgre National Forest,3.8,3222,3,4.0,hike1345,0,1,0,1,0,0,1,1,1,1,0,1
+Eagles Nest Wilderness,6.3,1376,2,4.0,hike1346,0,1,0,1,0,0,0,0,1,0,0,0
+Gunnison National Forest,20.1,4048,3,4.0,hike1347,1,0,0,0,0,0,0,1,0,1,0,1
+Arapaho National Forest,23.0,4215,3,4.0,hike1348,0,1,0,1,0,1,0,0,0,1,0,1
+Horsetooth Mountain Park,3.0,716,2,4.7,hike1349,1,0,0,1,1,0,1,0,0,1,0,1
+"Sedalia, Colorado",28.6,60,1,1.0,hike1350,0,1,0,0,0,0,0,0,0,0,0,0
+"Denver, Colorado",1.1,75,1,2.0,hike1351,1,0,0,0,1,0,0,0,0,0,0,0
+Roosevelt National Forest,7.1,1842,2,4.7,hike1352,0,0,1,1,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,14.9,2655,3,4.0,hike1353,0,1,0,0,0,1,0,0,1,1,0,1
+Grand Mesa National Forest,3.0,830,2,5.0,hike1354,0,1,0,0,0,0,0,0,0,0,0,0
+San Isabel National Forest,22.2,9171,3,3.0,hike1355,0,1,0,1,0,0,0,0,0,0,0,1
+Colorado National Monument,0.7,67,1,4.3,hike1356,1,0,0,1,1,0,0,0,0,1,0,1
+San Juan National Forest,8.0,2500,3,4.0,hike1357,0,1,0,1,0,0,1,1,1,1,0,1
+"Moffat, Colorado",8.0,3000,1,4.0,hike1358,0,1,0,0,0,0,0,0,0,0,0,0
+Fossil Ridge Wilderness,22.7,5677,3,5.0,hike1359,0,1,0,0,0,1,0,0,0,1,0,0
+Uncompahgre National Forest,15.6,4006,3,5.0,hike1360,0,1,0,1,0,0,0,0,0,1,0,1
+Soapstone Prairie Natural Area,2.9,449,1,3.0,hike1361,1,0,0,0,1,0,0,0,0,1,0,1
+"Dillon, Colorado",14.6,3554,2,4.0,hike1362,1,0,0,1,1,0,0,0,0,1,0,1
+White River National Forest,7.9,3950,2,3.5,hike1363,1,0,0,0,0,0,0,0,0,1,0,1
+White River National Forest,2.4,513,2,2.0,hike1364,0,1,0,1,0,0,0,0,0,0,0,1
+Rio Grande National Forest,4.2,620,1,4.0,hike1365,1,0,0,0,1,0,0,0,0,0,0,0
+"Morrison, Colorado",13.5,3053,2,5.0,hike1366,1,0,0,1,0,0,0,0,0,1,0,1
+"Louisville, Colorado",5.6,457,2,2.5,hike1367,0,1,0,1,1,0,0,0,0,1,0,1
+White River National Forest,7.0,3256,2,3.5,hike1368,0,1,0,0,0,0,0,0,0,0,0,0
+White River National Forest,13.9,2610,2,4.0,hike1369,1,0,0,0,0,0,0,0,1,1,0,1
+San Isabel National Forest,8.4,2900,3,3.0,hike1370,0,1,0,0,0,0,0,0,0,0,0,0
+Maroon Bells Snowmass Wilderness,2.8,434,1,4.0,hike1371,1,0,0,0,1,0,0,1,0,1,0,1
+Pike National Forest,10.9,2043,3,4.0,hike1372,0,1,0,0,0,0,0,0,0,0,0,1
+Roosevelt National Forest,4.0,640,1,3.7,hike1373,0,1,0,0,1,0,0,0,0,1,0,0
+San Isabel National Forest,9.0,4400,3,4.0,hike1374,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,8.7,1057,2,4.0,hike1375,0,0,1,1,0,0,0,1,1,1,0,1
+Uncompahgre National Forest,3.9,2137,2,4.5,hike1376,0,1,0,0,0,0,0,0,0,1,0,1
+Arapaho National Forest,18.6,4363,3,4.0,hike1377,0,1,0,0,0,0,0,0,0,1,0,1
+Cheyenne Mountain State Park,6.6,1079,2,4.0,hike1378,1,0,0,0,0,0,0,0,0,0,0,0
+Cache La Poudre Wilderness,14.6,2227,1,3.0,hike1379,0,1,0,1,1,0,0,0,0,1,0,1
+Rio Grande National Forest,14.9,2760,3,3.5,hike1380,0,1,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,6.2,1834,2,4.0,hike1381,0,1,0,0,0,0,0,1,0,1,0,1
+Chatfield State Park,1.7,67,1,4.0,hike1382,1,0,0,0,1,0,0,0,0,1,0,0
+Atapaho National Forest,5.3,3113,3,5.0,hike1383,0,0,1,1,0,0,0,0,0,1,0,1
+Roosevelt National Forest,16.4,2947,3,5.0,hike1384,0,1,0,0,0,1,0,0,1,1,0,1
+Black Canyon of the Gunnison National Park,2.2,1817,3,4.0,hike1385,0,1,0,0,0,0,0,1,0,1,0,1
+White River National Forest,0.3,42,1,4.0,hike1386,0,1,0,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,12.4,2733,2,4.0,hike1387,1,0,0,0,0,0,0,0,1,1,0,0
+Roosevelt National Forest,5.6,1759,3,4.5,hike1388,0,0,1,1,0,0,0,0,0,1,0,1
+"Telluride, Colorado",17.5,4929,2,5.0,hike1389,0,0,1,1,0,0,0,0,0,0,0,0
+"Louisville, Colorado",11.7,475,2,5.0,hike1390,1,0,0,1,0,0,0,0,0,1,0,1
+Rocky Mountain National Park,0.8,333,2,4.0,hike1391,0,1,0,0,1,0,0,0,0,1,0,1
+Mesa Verde National Park,0.5,105,1,3.0,hike1392,1,0,0,0,1,0,0,0,0,1,0,1
+Lizard Head Wilderness,7.2,2228,2,4.5,hike1393,0,1,0,0,0,0,0,1,0,1,0,1
+Mesa Verde National Park,4.6,390,1,4.0,hike1394,1,0,0,0,1,0,0,0,0,1,0,1
+Comanche National Grassland,2.1,162,1,4.0,hike1395,0,1,0,0,1,1,0,1,0,0,0,1
+Chatfield State Park,28.6,5998,3,4.5,hike1396,1,0,0,0,0,0,0,0,0,1,0,1
+Soapstone Prairie Natural Area,22.3,2906,2,3.7,hike1397,1,0,0,0,0,0,0,1,0,1,0,1
+Great Sand Dunes National Park,5.0,942,2,5.0,hike1398,1,0,0,1,1,0,0,0,0,1,0,1
+Arapaho National Forest,0.8,104,1,5.0,hike1399,1,0,0,0,1,0,0,0,1,1,0,1
+Garden of the Gods,1.1,149,1,3.0,hike1400,1,0,0,1,1,0,0,0,0,0,0,1
+Uncompahgre National Forest,6.5,3800,3,4.0,hike1401,0,1,0,1,0,0,1,1,1,1,0,1
+Molas Park,10.3,2971,1,3.0,hike1402,0,1,0,0,1,0,1,0,0,1,0,1
+Roosevelt National Forest,6.8,2066,1,4.0,hike1403,1,0,0,0,1,0,0,0,0,0,0,0
+"Granite, Colorado",2.6,460,1,4.0,hike1404,0,1,0,0,1,0,0,1,0,0,0,1
+San Juan National Forest,13.0,1200,2,4.0,hike1405,1,0,0,1,0,0,0,0,1,1,0,0
+"Mack, Colorado",3.7,236,1,4.0,hike1406,0,1,0,1,1,0,0,0,0,0,0,0
+"Almont, Colorado",13.0,2138,2,5.0,hike1407,0,0,1,1,1,0,0,0,0,1,0,1
+Colorado National Monument,10.9,1500,2,3.0,hike1408,0,1,0,0,0,0,0,0,0,0,0,0
+"Longmont, Colorado",17.7,306,1,3.0,hike1409,0,1,0,1,1,0,0,0,0,1,0,1
+Uncompahgre National Forest,6.2,4087,3,5.0,hike1410,0,1,0,0,0,0,0,0,0,1,0,1
+Lathrop State Park,1.5,202,1,4.0,hike1411,1,0,0,1,1,1,0,0,0,0,0,0
+Cactus Park,16.5,1961,1,3.0,hike1412,0,1,0,0,0,0,0,0,0,0,0,1
+Arapaho National Forest,1.5,488,2,3.0,hike1413,0,1,0,0,0,0,0,0,0,0,0,0
+Routt National Forest,7.2,2212,3,1.0,hike1414,0,1,0,1,0,1,0,1,0,1,0,1
+San Juan National Forest,6.3,1448,2,4.0,hike1415,1,0,0,0,0,0,0,0,0,0,0,0
+Cheyenne Mountain State Park,1.7,172,1,5.0,hike1416,1,0,0,0,1,0,0,0,0,0,0,1
+Rio Grande National Forest,4.2,1160,3,5.0,hike1417,0,1,0,0,0,0,0,0,1,0,0,0
+Rocky Mountain National Park,0.6,157,1,4.5,hike1418,0,1,0,0,1,0,0,0,0,1,0,1
+Black Canyon of the Gunnison National Park,4.1,583,2,4.0,hike1419,1,0,0,0,0,0,0,0,0,0,0,1
+"Lyons, Colorado",7.1,1846,3,4.5,hike1420,0,1,0,1,0,0,0,0,0,1,0,1
+North Cheyenne Park,5.9,2218,2,4.5,hike1421,0,1,0,1,0,0,0,1,0,1,0,1
+Arapaho National Forest,1.0,0,1,3.0,hike1422,0,0,1,1,1,0,0,0,0,0,0,0
+Reynolds Ranch County Park,9.0,2325,3,4.0,hike1423,0,1,0,0,0,0,0,0,0,1,0,1
+Routt National Forest,9.0,1634,2,5.0,hike1424,0,1,0,0,0,0,0,0,0,0,0,0
+Uncompahgre National Forest,7.1,1739,3,4.5,hike1425,0,1,0,0,0,1,0,0,0,0,0,0
+"Carbondale, Colorado",3.8,403,2,4.0,hike1426,0,1,0,0,0,0,0,0,0,0,0,0
+Grand Mesa National Forest,11.4,2082,2,1.0,hike1427,0,1,0,0,0,0,0,0,0,0,0,0
+Powderhorn Wilderness,13.2,4339,3,4.0,hike1428,0,1,0,1,0,1,0,0,1,1,0,0
+San Juan National Forest,4.7,972,2,4.0,hike1429,0,1,0,0,0,0,0,0,0,1,0,1
+San Juan National Forest,20.6,4236,2,2.0,hike1430,0,1,0,0,0,0,0,0,1,0,0,0
+San Juan National Forest,12.9,2271,3,4.0,hike1431,0,1,0,0,0,0,0,1,0,1,0,0
+Bear Creek Field,3.0,1899,2,4.0,hike1432,1,0,0,1,1,0,0,1,0,1,0,1
+Roosevelt National Forest,10.7,3499,3,5.0,hike1433,0,1,0,1,0,0,0,0,0,1,0,1
+"Colorado Springs, Colorado",3.1,405,1,1.0,hike1434,1,0,0,0,1,0,0,0,0,1,0,0
+Vega State Park,2.8,199,1,4.5,hike1435,0,1,0,1,1,1,0,0,1,1,0,0
+White River National Forest,2.2,1440,1,3.5,hike1436,0,1,0,0,1,0,0,0,1,1,0,1
+Bent's Old Fort National Historic Site,1.7,18,1,4.0,hike1437,1,0,0,1,1,0,0,0,0,1,0,1
+Gunnison National Forest,4.9,1237,2,5.0,hike1438,0,0,1,0,0,0,0,0,0,0,0,0
+"Nathrop, Colorado",14.2,3299,2,5.0,hike1439,0,0,1,1,1,0,0,0,0,1,0,1
+"Granite, Colorado",9.0,3560,3,4.0,hike1440,0,1,0,1,0,0,0,1,0,1,0,1
+Cherry Creek State Park,5.6,164,1,3.0,hike1441,0,1,0,1,1,0,0,0,0,1,0,0
+Colorado National Monument,1.2,200,1,2.0,hike1442,1,0,0,1,1,0,0,0,0,1,0,1
+Rio Grande National Forest,2.2,468,2,4.0,hike1443,0,1,0,0,1,0,0,0,1,0,0,0
+Mesa Verde National Park,1.5,73,1,3.8,hike1444,1,0,0,0,1,0,0,0,0,0,0,1
+"Crawford, Colorado",0.5,600,2,4.0,hike1445,0,1,0,0,0,0,0,0,0,0,0,1
+Uncompahgre National Forest,1.3,297,3,5.0,hike1446,0,0,1,0,0,0,0,0,0,0,0,1
+Dinosaur National Monument,0.9,135,1,4.0,hike1447,0,1,0,0,1,1,0,1,0,0,0,1
+Reynolds Ranch County Park,4.4,1223,2,5.0,hike1448,1,0,0,1,0,0,0,0,0,0,0,0
+Great Sand Dunes National Park,1.9,162,1,3.0,hike1449,0,1,0,1,1,0,0,0,0,1,0,1
+Routt National Forest,9.0,1384,2,1.0,hike1450,1,0,0,0,1,0,0,0,1,0,0,0
+Black Canyon of the Gunnison Wilderness,6.5,1456,2,5.0,hike1451,0,1,0,0,0,0,0,1,0,1,0,1
+Rocky Mountain Arsenal Nwr,1.5,30,1,3.0,hike1452,1,0,0,0,1,0,0,0,0,1,0,1
+San Juan National Forest,22.8,7700,3,5.0,hike1453,1,0,0,0,0,1,0,0,0,0,0,1
+White River National Forest,6.0,1423,3,1.6,hike1454,0,1,0,0,0,0,1,0,0,1,0,1
+"Englewood, Colorado",4.0,145,1,2.5,hike1455,1,0,0,1,0,0,0,0,0,0,0,0
+Hall Ranch,4.7,915,2,4.0,hike1456,0,1,0,0,1,0,0,0,0,1,0,1
+"Colorado Springs, Colorado",1.1,142,1,4.0,hike1457,1,0,0,0,1,0,0,0,0,0,0,1
+Roosevelt National Forest,17.8,5150,2,5.0,hike1458,1,0,0,1,0,0,0,0,0,1,0,1
+Dinosaur National Monument,0.3,13,1,3.5,hike1459,1,0,0,0,1,0,0,0,0,1,0,1
+Ridgway State Park,7.9,443,2,5.0,hike1460,0,1,0,0,0,0,0,1,0,0,0,1
+Comanche National Grassland,11.2,999,2,4.0,hike1461,1,0,0,1,0,1,0,0,0,1,0,1
+San Isabel National Forest,6.4,1420,2,3.0,hike1462,0,1,0,0,0,0,0,0,0,0,0,0
+Holy Cross Wilderness,4.8,1845,2,5.0,hike1463,0,1,0,1,0,1,0,0,1,1,0,1
+"Boulder, Colorado",2.8,191,1,5.0,hike1464,1,0,0,1,1,0,0,0,0,1,0,0
+Chautauqua Park,1.4,461,1,4.5,hike1465,1,0,0,1,1,0,0,0,0,1,0,1
+Roosevelt/Arapaho National Forest,10.9,2380,2,1.0,hike1466,1,0,0,0,0,0,0,0,0,1,0,1
+Homestead Ranch Park,4.5,416,2,4.3,hike1467,1,0,0,1,1,0,0,0,0,1,0,1
+Great Sand Dunes National Park,1.0,99,1,4.0,hike1468,1,0,0,1,1,1,0,0,0,1,0,1
+Atapaho National Forest,3.9,1151,2,3.0,hike1469,0,1,0,0,0,0,0,0,0,1,0,1
+West Magnolia Recreation Area,2.6,431,1,2.0,hike1470,1,0,0,1,1,1,0,0,0,1,0,1
+Pike National Forest,5.9,2157,3,5.0,hike1471,0,1,0,0,0,0,0,0,0,1,0,1
+Little Book Cliffs Wilderness Study Area,5.6,567,1,2.0,hike1472,0,1,0,1,1,0,0,1,0,1,0,1
+Uncompahgre Wilderness,0.3,25,1,3.0,hike1473,1,0,0,0,1,0,1,0,0,0,0,0
+Alamosa National Wildlife Refuge,3.8,48,1,3.0,hike1474,0,1,0,1,1,0,0,1,0,1,0,1
+Rio Grande National Forest,10.0,2650,3,3.0,hike1475,0,1,0,0,0,0,0,0,1,0,0,0
+Lory State Park,4.5,1305,3,4.0,hike1476,1,0,0,1,0,0,0,0,0,0,0,0
+Dinosaur National Monument,7.2,883,1,3.0,hike1477,0,0,1,0,1,0,0,0,0,1,0,1
+Rocky Mountain National Park,1.3,521,1,4.0,hike1478,0,1,0,0,1,0,0,0,0,1,0,1
+Middle Shooks Run Park,12.2,524,1,4.0,hike1479,0,1,0,1,1,0,0,0,0,1,0,1
+"Aspen, Colorado",2.9,202,1,4.0,hike1480,0,1,0,1,1,0,0,1,0,1,0,1
+Gunnison National Forest,9.3,2540,3,5.0,hike1481,0,0,1,0,0,0,0,0,0,1,0,1
+Roosevelt National Forest,2.0,498,1,3.0,hike1482,0,1,0,1,0,0,0,1,0,1,0,1
+"Roswell, Colorado",5.6,374,1,4.0,hike1483,0,1,0,1,1,0,0,0,0,1,0,1
+"Montrose, Colorado",14.4,411,1,3.0,hike1484,0,1,0,1,1,0,0,1,0,0,0,1
+"Superior, Colorado",10.8,872,1,2.0,hike1485,1,0,0,0,1,0,0,0,0,0,0,0
+"Fort Collins, Colorado",2.0,14,1,4.0,hike1486,1,0,0,1,0,0,0,0,1,1,0,1
