@@ -15,4 +15,4 @@ At TakeAHikeColorado.com you can input a hike that you know you like, and it wil
 
 [TakeAHikeColorado.com](http://takeahikecolorado.com/) is created using Flask and self-hosted on AWS.
 
-![image](img/AllTrails/web_app/static/img/landing.png)
+![image](AllTrails/web_app/static/img/landing.png)
