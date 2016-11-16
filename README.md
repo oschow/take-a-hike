@@ -1,4 +1,7 @@
 # Take A Hike
+A Colorado Trail Recommender
+By: Olivia Schow
 
-Capstone project for Galvanize's Data Science Immersive
-Denver, Cohort 5, November 2016
+Galvanize Data Science Immersive - Capstone Project - November 2016
+
+## Overview
