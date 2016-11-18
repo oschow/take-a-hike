@@ -36,8 +36,6 @@ Netflix, Amazon, Pandora, The Wall Street Journal. Sound familiar? We all encoun
 
 This recommender only takes into account information about the hikes. It looks at each pair of hikes and calculates how similar they are. This similarity score is calculated by first computing the similarity between each feature, then taking a weighted average of those to get the final similarity. So why is this useful for this project? Because you can start with a hike you know you like, and it can give you back the ones that are most similar to it.
 
-![image](AllTrails/web_app/static/img/ic_rec.png)
-
 #### Ranking Factorization Recommender
 
 Given that each user has rated some hikes in the system, I wanted to predict how the users would rate the hikes that they have not yet rated. The intuition behind this recommender is that there should be some latent features that determine how a user rates an item. So why is it useful for this project? If we know the past behavior of a user, then we can now recommend hikes that they should rate highly.
